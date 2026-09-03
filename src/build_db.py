@@ -1,3 +1,11 @@
+# This file is the second stage of the pipeline and its only job is to
+# persist the forecast data into a SQLite database file at output/weather.db.
+# save_to_db() takes a pandas DataFrame and writes it to a forecast table,
+# using INSERT OR REPLACE so that re-running the program updates existing
+# rows instead of creating duplicates.
+# The ? placeholders in the SQL query are not optional style -- they are
+# what prevents SQL injection, which would silently break on any value
+# containing an apostrophe if an f-string were used instead.
 """Storing the data. One job: put the table somewhere it will stay.
 
 A SQLite database is a single file. There is no server to start, no
