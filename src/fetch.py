@@ -1,3 +1,7 @@
+# This file contacts the Open-Meteo API and retrieves a 7-day weather forecast for Richmond, Virginia.
+# The api_call() function returns a pandas DataFrame containing the day, high, low, and rain for each forecast day.
+# The API's longer temperature and precipitation column names are renamed to shorter names so the data is easier to use in the project's SQL queries.
+
 """Getting the data. One job: go to the API and come back with a table.
 
 This file knows about Open-Meteo. Nothing else in the project does, which
