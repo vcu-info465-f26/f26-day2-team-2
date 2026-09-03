@@ -1,3 +1,8 @@
+## This file generates the final chart 
+# reading the stored weather forecast and creating a bar chart
+# The make_chart() function returns a bar chart image to show the forecast for
+# richmond across 7 days
+
 """Drawing the picture. One job: read the database, write a PNG.
 
 Note that matplotlib is never imported here. pandas plots by calling it
@@ -62,3 +67,5 @@ if __name__ == "__main__":
         make_chart()
         print(f"Wrote {CHART_PATH} ({CHART_PATH.stat().st_size} bytes).")
         print("Click it in the file sidebar to see it.")
+
+       
