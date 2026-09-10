@@ -1,1 +1,1 @@
-The two endpoints will be connected using a shared food recall identifier, allowing related recall information to be matched between the endpoints.
+The two endpoints can be connected using the `time` field, which identifies the hourly observation in the Open-Meteo forecast data.
