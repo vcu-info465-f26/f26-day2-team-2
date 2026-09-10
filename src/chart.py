@@ -1,3 +1,4 @@
+# This file reads forecast data from the SQLite database and creates a PNG bar chart.
 """Drawing the picture. One job: read the database, write a PNG.
 
 Note that matplotlib is never imported here. pandas plots by calling it
