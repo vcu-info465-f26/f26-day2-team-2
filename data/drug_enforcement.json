@@ -1,0 +1,62 @@
+[
+  {
+    "recall_number": "D-1285-2020",
+    "report_date": "20200610",
+    "reason_for_recall": "Some bottles may contain mixed strengths of the product.",
+    "product_ndc": "0555-0775"
+  },
+  {
+    "recall_number": "D-0623-2022",
+    "report_date": "20220302",
+    "reason_for_recall": "CGMP Deviations: Products were manufactured with contaminated excipient that was recalled from the excipient supplier.",
+    "product_ndc": "41163-703"
+  },
+  {
+    "recall_number": "D-1443-2014",
+    "report_date": "20140723",
+    "reason_for_recall": "Labeling: Incorrect or missing lot and or Exp Date: The bottles were labeled with an incorrect expiry date 11/2016.  The correct expiry date is 09/2016.",
+    "product_ndc": "63010-010"
+  },
+  {
+    "recall_number": "D-0429-2021",
+    "report_date": "20210602",
+    "reason_for_recall": "CGMP Deviations: Intermittent exposure to temperature excursion during storage.",
+    "product_ndc": "60631-040"
+  },
+  {
+    "recall_number": "D-0179-2024",
+    "report_date": "20240103",
+    "reason_for_recall": "CGMP Deviations: Products were exposed to temperatures outside of the products labeled storage conditions.",
+    "product_ndc": "0781-3238"
+  },
+  {
+    "recall_number": "D-1253-2020",
+    "report_date": "20200506",
+    "reason_for_recall": "CGMP Deviations: potential N-Nitrosodimethylamine (NDMA) amounts above levels established by the FDA.",
+    "product_ndc": "60846-301"
+  },
+  {
+    "recall_number": "D-0321-2024",
+    "report_date": "20240221",
+    "reason_for_recall": "Discoloration: discolored tablets (shades of blue) mixed in with the white inert remainder tablets.",
+    "product_ndc": "0555-9008"
+  },
+  {
+    "recall_number": "D-0356-2025",
+    "report_date": "20250416",
+    "reason_for_recall": "Lack of Assurance of Sterility: Media fill with bacterial contamination",
+    "product_ndc": "68001-578"
+  },
+  {
+    "recall_number": "D-0347-2024",
+    "report_date": "20240228",
+    "reason_for_recall": "CGMP Deviations: Product was stored outside labeled storage temperature requirements. Product was exposed to controlled room temperature environment instead of remaining refrigerated.",
+    "product_ndc": "0187-0006"
+  },
+  {
+    "recall_number": "D-0435-2021",
+    "report_date": "20210602",
+    "reason_for_recall": "CGMP Deviations: Intermittent exposure to temperature excursion during storage.",
+    "product_ndc": "0310-6225"
+  }
+]
