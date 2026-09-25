@@ -1,0 +1,62 @@
+[
+  {
+    "product_ndc": "0187-0006",
+    "brand_name": "Cabtreo",
+    "generic_name": "CLINDAMYCIN PHOSPHATE/BENZOYL PEROXIDE/ADAPALENE",
+    "manufacturer_name": "Bausch Health US LLC"
+  },
+  {
+    "product_ndc": "63010-010",
+    "brand_name": "VIRACEPT",
+    "generic_name": "NELFINAVIR MESYLATE",
+    "manufacturer_name": "AGOURON"
+  },
+  {
+    "product_ndc": "60631-040",
+    "brand_name": "Edarbi",
+    "generic_name": "AZILSARTAN KAMEDOXOMIL",
+    "manufacturer_name": "Azurity Pharmaceuticals, Inc."
+  },
+  {
+    "product_ndc": "0555-9008",
+    "brand_name": "Nortrel 28 Day",
+    "generic_name": "NORETHINDRONE AND ETHINYL ESTRADIOL",
+    "manufacturer_name": "Teva Pharmaceuticals USA, Inc."
+  },
+  {
+    "product_ndc": "41163-703",
+    "brand_name": "equaline nasal",
+    "generic_name": "OXYMETAZOLINE HCL",
+    "manufacturer_name": "United Natural Foods, Inc. dba UNFI"
+  },
+  {
+    "product_ndc": "60846-301",
+    "brand_name": "NIZATIDINE",
+    "generic_name": "NIZATIDINE",
+    "manufacturer_name": "Amneal Pharmaceuticals LLC"
+  },
+  {
+    "product_ndc": "68001-578",
+    "brand_name": "HALOPERIDOL DECANOATE",
+    "generic_name": "HALOPERIDOL DECANOATE",
+    "manufacturer_name": "BluePoint Laboratories"
+  },
+  {
+    "product_ndc": "0555-0775",
+    "brand_name": "Dextroamphetamine Saccharate, Amphetamine Aspartate, Dextroamphetamine Sulfate and Amphetamine Sulfate",
+    "generic_name": "DEXTROAMPHETAMINE SACCHARATE, AMPHETAMINE ASPARTATE, DEXTROAMPHETAMINE SULFATE AND AMPHETAMINE SULFATE",
+    "manufacturer_name": "Teva Pharmaceuticals USA, Inc."
+  },
+  {
+    "product_ndc": "0310-6225",
+    "brand_name": "XIGDUO XR",
+    "generic_name": "DAPAGLIFLOZIN AND METFORMIN HYDROCHLORIDE",
+    "manufacturer_name": "AstraZeneca Pharmaceuticals LP"
+  },
+  {
+    "product_ndc": "0781-3238",
+    "brand_name": "Enoxaparin Sodium",
+    "generic_name": "ENOXAPARIN SODIUM",
+    "manufacturer_name": "Sandoz Inc"
+  }
+]

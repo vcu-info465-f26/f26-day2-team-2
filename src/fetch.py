@@ -1,5 +1,6 @@
 import json
 import os
+from datetime import date
 import requests
 
 
@@ -10,8 +11,6 @@ def first_value(value):
 
 
 def fetch_enforcement():
-    """Endpoint 1: Get a small set of drug recall records."""
-
     url = "https://api.fda.gov/drug/enforcement.json"
 
     params = {
@@ -23,33 +22,28 @@ def fetch_enforcement():
     response.raise_for_status()
 
     data = response.json()
-
     recalls = []
 
     for record in data["results"]:
         openfda = record.get("openfda", {})
-        product_ndcs = openfda.get("product_ndc", [])
+        ndcs = openfda.get("product_ndc", [])
 
-        if product_ndcs:
+        if ndcs:
             recalls.append({
+                "product_ndc": ndcs[0],
                 "recall_number": record.get("recall_number"),
                 "report_date": record.get("report_date"),
-                "reason_for_recall": record.get("reason_for_recall"),
-                "product_ndc": product_ndcs[0]
+                "reason_for_recall": record.get("reason_for_recall")
             })
 
     return recalls
 
 
 def fetch_labels(product_ndcs):
-    """Endpoint 2: Get drug information for the recall NDCs."""
-
     url = "https://api.fda.gov/drug/label.json"
-
     drugs = []
 
     for ndc in product_ndcs:
-
         params = {
             "search": f'openfda.product_ndc:"{ndc}"',
             "limit": 1
@@ -57,12 +51,10 @@ def fetch_labels(product_ndcs):
 
         response = requests.get(url, params=params)
 
-        # Skip NDCs that do not have a matching label
         if response.status_code == 404:
             continue
 
         response.raise_for_status()
-
         data = response.json()
 
         if not data.get("results"):
@@ -90,37 +82,30 @@ def save_json(filename, data):
 
 
 def main():
+    today = date.today().isoformat()
 
-    # Endpoint 1: Drug Enforcement / Recalls
     recalls = fetch_enforcement()
 
-    save_json(
-        "data/drug_enforcement.json",
-        recalls
-    )
+    enforcement_file = f"data/drug_enforcement_{today}.json"
+    save_json(enforcement_file, recalls)
 
-    print("Saved data/drug_enforcement.json")
+    print(f"Saved {enforcement_file}")
     print("Recall records:", len(recalls))
 
-    # Get the product_ndc values from the recall data
     ndcs = list({
         recall["product_ndc"]
         for recall in recalls
         if recall["product_ndc"]
     })
 
-    # Endpoint 2: Drug Labels
     drugs = fetch_labels(ndcs)
 
-    save_json(
-        "data/drug_labels.json",
-        drugs
-    )
+    labels_file = f"data/drug_labels_{today}.json"
+    save_json(labels_file, drugs)
 
-    print("Saved data/drug_labels.json")
+    print(f"Saved {labels_file}")
     print("Drug records:", len(drugs))
 
-    # Prove the two files share product_ndc values
     print("\nShared product_ndc values:")
 
     drug_ndcs = {
