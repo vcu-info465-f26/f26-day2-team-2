@@ -1,12 +1,14 @@
-```python
+
 import sqlite3
 
 import pandas as pd
 import streamlit as st
-
+from pathlib import Path
+from build_db import build
 
 DB_PATH = "project.db"
-
+if not Path(DB_PATH).exists():
+    build()
 
 st.set_page_config(
     page_title="FDA Drug Recall Dashboard",
@@ -148,4 +150,4 @@ st.dataframe(
     use_container_width=True,
     hide_index=True,
 )
-```
+

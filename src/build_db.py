@@ -104,7 +104,7 @@ def show_counts(conn):
     print("Enforcement rows:", enforcement_count)
 
 
-def main():
+def build():
     conn = create_database()
 
     # Load drug table first because enforcement links to it
@@ -121,4 +121,4 @@ def main():
 
 
 if __name__ == "__main__":
-    main()
+   build()
