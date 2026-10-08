@@ -1,4 +1,3 @@
-
 import sqlite3
 
 import pandas as pd
@@ -45,6 +44,26 @@ def load_data():
         )
 
     return df
+
+
+def show_combined_table(df):
+    """Show recalls joined with their drug label details, newest first.
+
+    Takes a dataframe as input, so the manufacturer filter's rows pass straight in.
+    """
+    st.subheader("Recalls with Drug Label Details")
+    st.dataframe(
+        df.sort_values("report_date", ascending=False).rename(columns={
+            "brand_name": "Brand",
+            "generic_name": "Generic name",
+            "manufacturer_name": "Manufacturer",
+            "recall_number": "Recall #",
+            "report_date": "Report date",
+            "reason_for_recall": "Reason for recall",
+        }),
+        width="stretch",
+        hide_index=True,
+    )
 
 
 st.title("FDA Drug Recall Dashboard")
@@ -133,21 +152,5 @@ else:
     st.info("There are no recall reasons to display.")
 
 
-# Underlying dataframe
-st.subheader("Underlying Recall Data")
-
-display_columns = [
-    "brand_name",
-    "generic_name",
-    "manufacturer_name",
-    "recall_number",
-    "report_date",
-    "reason_for_recall",
-]
-
-st.dataframe(
-    filtered_df[display_columns],
-    use_container_width=True,
-    hide_index=True,
-)
-
+# Underlying dataframe (Story 4, #32: label and enforcement data combined)
+show_combined_table(filtered_df)
