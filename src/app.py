@@ -151,3 +151,30 @@ st.dataframe(
     hide_index=True,
 )
 
+st.subheader("Most Recent Recalls")
+
+recent_df = (
+    filtered_df
+    .sort_values("report_date", ascending=False, na_position="last")
+    .reset_index(drop=True)
+)
+
+recent_columns = [
+    "report_date",
+    "brand_name",
+    "generic_name",
+    "manufacturer_name",
+    "recall_number",
+    "reason_for_recall",
+]
+
+st.dataframe(
+    recent_df[recent_columns],
+    use_container_width=True,
+    hide_index=True,
+    column_config={
+        "report_date": st.column_config.DateColumn(
+            "Report date", format="YYYY-MM-DD"
+        ),
+    },
+)
