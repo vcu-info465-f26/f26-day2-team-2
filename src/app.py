@@ -177,4 +177,6 @@ st.dataframe(
             "Report date", format="YYYY-MM-DD"
         ),
     },
-)
+) 
+from chat import render_chat
+render_chat(recent_df) 
