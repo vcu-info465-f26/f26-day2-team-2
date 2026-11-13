@@ -64,20 +64,17 @@ def get_facts():
 
     conn.close()
 
-    if top_manufacturer:
-        top_name = top_manufacturer[0]
-        top_count = top_manufacturer[1]
-    else:
-        top_name = "Unknown"
-        top_count = 0
-
     return {
         "total_recalls": total_recalls,
         "manufacturer_count": manufacturer_count,
         "first_date": format_date(first_date),
         "latest_date": format_date(latest_date),
-        "top_manufacturer": top_name,
-        "top_manufacturer_recalls": top_count,
+        "top_manufacturer": (
+            top_manufacturer[0] if top_manufacturer else "Unknown"
+        ),
+        "top_manufacturer_recalls": (
+            top_manufacturer[1] if top_manufacturer else 0
+        ),
     }
 
 
@@ -85,9 +82,10 @@ def generate_summary():
     facts = get_facts()
 
     prompt = f"""
-You are writing a short summary for an FDA drug recall dashboard.
+You are writing a summary for an FDA drug recall dashboard.
 
-Use ONLY the facts below. Do not guess or add outside information.
+Use ONLY the facts below.
+Do not guess, calculate new values, or use outside information.
 
 Total recall records: {facts["total_recalls"]}
 Number of manufacturers: {facts["manufacturer_count"]}
@@ -95,7 +93,7 @@ Data date range: {facts["first_date"]} to {facts["latest_date"]}
 Manufacturer with the most recall records: {facts["top_manufacturer"]}
 Recall records for that manufacturer: {facts["top_manufacturer_recalls"]}
 
-Write a clear 2-3 sentence summary for someone who knows nothing about the project.
+Write a clear 2-3 sentence summary for someone unfamiliar with the project.
 """
 
     client = OpenAI(
@@ -105,22 +103,22 @@ Write a clear 2-3 sentence summary for someone who knows nothing about the proje
 
     response = client.chat.completions.create(
         model=MODEL,
-        messages=[
-            {"role": "user", "content": prompt}
-        ],
+        messages=[{"role": "user", "content": prompt}],
         reasoning_effort="low",
     )
 
     summary = response.choices[0].message.content.strip()
 
-    new_content = (
+    content = (
         "# FDA Drug Recall Summary\n\n"
         f"**Data range:** {facts['first_date']} to {facts['latest_date']}\n\n"
         f"{summary}\n"
     )
 
+    # Only writes after Groq successfully returns a summary.
+    # If Groq fails, the previous summary.md stays unchanged.
     SUMMARY_PATH.parent.mkdir(exist_ok=True)
-    SUMMARY_PATH.write_text(new_content, encoding="utf-8")
+    SUMMARY_PATH.write_text(content, encoding="utf-8")
 
     print("Summary saved to data/summary.md")
     print(summary)
