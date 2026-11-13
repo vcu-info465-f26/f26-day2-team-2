@@ -15,7 +15,7 @@ def fetch_enforcement():
 
     params = {
         "search": "_exists_:openfda.product_ndc",
-        "limit": 10
+        "limit": 1000
     }
 
     response = requests.get(url, params=params)
@@ -31,9 +31,18 @@ def fetch_enforcement():
         if ndcs:
             recalls.append({
                 "product_ndc": ndcs[0],
+                "brand_name": first_value(openfda.get("brand_name")),
+                "generic_name": first_value(openfda.get("generic_name")),
+                "manufacturer_name": first_value(
+                    openfda.get("manufacturer_name")
+                ),
                 "recall_number": record.get("recall_number"),
                 "report_date": record.get("report_date"),
-                "reason_for_recall": record.get("reason_for_recall")
+                "reason_for_recall": record.get("reason_for_recall"),
+                "recalling_firm": record.get("recalling_firm"),
+                "product_description": record.get("product_description"),
+                "classification": record.get("classification"),
+                "status": record.get("status"),
             })
 
     return recalls
@@ -46,7 +55,7 @@ def fetch_labels(product_ndcs):
     for ndc in product_ndcs:
         params = {
             "search": f'openfda.product_ndc:"{ndc}"',
-            "limit": 1
+            "limit": None
         }
 
         response = requests.get(url, params=params)
