@@ -28,7 +28,7 @@ def load_data():
         SELECT
             d.brand_name,
             d.generic_name,
-            COALESCE(d.manufacturer_name, e.recalling_firm) AS manufacturer_name,
+            COALESCE(d.manufacturer_name, 'Unknown') AS manufacturer_name,
             e.recall_number,
             e.report_date,
             e.reason_for_recall
