@@ -1,0 +1,4580 @@
+[
+  {
+    "product_ndc": "52427-285",
+    "brand_name": "Macrobid",
+    "generic_name": "NITROFURANTOIN MONOHYDRATE/MACROCRYSTALLINE",
+    "manufacturer_name": "Almatica Pharma LLC"
+  },
+  {
+    "product_ndc": "62207-773",
+    "brand_name": "Ranitidine",
+    "generic_name": "RANITIDINE",
+    "manufacturer_name": "Granules India Ltd"
+  },
+  {
+    "product_ndc": "43547-275",
+    "brand_name": "donepezil hydrochloride",
+    "generic_name": "DONEPEZIL HYDROCHLORIDE",
+    "manufacturer_name": "Solco Healthcare US, LLC"
+  },
+  {
+    "product_ndc": "65282-1605",
+    "brand_name": "Lidocaine Hydrochloride",
+    "generic_name": "LIDOCAINE HYDROCHLORIDE ANHYDROUS",
+    "manufacturer_name": "Spectra Medical Devices, LLC"
+  },
+  {
+    "product_ndc": "0378-6321",
+    "brand_name": "Valsartan and Hydrochlorothiazide",
+    "generic_name": "VALSARTAN AND HYDROCHLOROTHIAZIDE",
+    "manufacturer_name": "Mylan Pharmaceuticals Inc."
+  },
+  {
+    "product_ndc": "0904-7495",
+    "brand_name": "OMEGA-3-ACID ETHYL ESTERS",
+    "generic_name": "OMEGA-3-ACID ETHYL ESTERS",
+    "manufacturer_name": "Major Pharmaceuticals"
+  },
+  {
+    "product_ndc": "31722-996",
+    "brand_name": "Hydrocodone Bitartrate and Acetaminophen",
+    "generic_name": "HYDROCODONE BITARTRATE AND ACETAMINOPHEN",
+    "manufacturer_name": "Camber Pharmaceuticals, Inc."
+  },
+  {
+    "product_ndc": "0280-8015",
+    "brand_name": "Midol Complete Gelcaps",
+    "generic_name": "MIDOL COMPLETE",
+    "manufacturer_name": "Bayer HealthCare LLC"
+  },
+  {
+    "product_ndc": "55111-466",
+    "brand_name": "Metoprolol succinate",
+    "generic_name": "METOPROLOL SUCCINATE",
+    "manufacturer_name": "Dr. Reddy's Laboratories Limited"
+  },
+  {
+    "product_ndc": "68462-105",
+    "brand_name": "Ondansetron",
+    "generic_name": "ONDANSETRON",
+    "manufacturer_name": "Glenmark Pharmaceuticals Inc., USA"
+  },
+  {
+    "product_ndc": "63304-089",
+    "brand_name": "Mesalamine",
+    "generic_name": "MESALAMINE",
+    "manufacturer_name": "Sun Pharmaceutical Industries Inc."
+  },
+  {
+    "product_ndc": "0781-2020",
+    "brand_name": "Amoxicillin",
+    "generic_name": "AMOXICILLIN",
+    "manufacturer_name": "Sandoz Inc"
+  },
+  {
+    "product_ndc": "0338-0043",
+    "brand_name": "Sodium Chloride",
+    "generic_name": "SODIUM CHLORIDE",
+    "manufacturer_name": "Baxter Healthcare Corporation"
+  },
+  {
+    "product_ndc": "63868-605",
+    "brand_name": "OXYMETAZOLINE HYDROCHLORIDE",
+    "generic_name": "OXYMETAZOLINE HYDROCHLORIDE",
+    "manufacturer_name": "CHAIN DRUG MARKETING ASSOCIATION INC."
+  },
+  {
+    "product_ndc": "24338-850",
+    "brand_name": "Zenzedi",
+    "generic_name": "DEXTROAMPHETAMINE SULFATE",
+    "manufacturer_name": "Azurity Pharmaceuticals, Inc."
+  },
+  {
+    "product_ndc": "65862-854",
+    "brand_name": "Amlodipine and Olmesartan Medoxomil",
+    "generic_name": "AMLODIPINE AND OLMESARTAN MEDOXOMIL",
+    "manufacturer_name": "Aurobindo Pharma Limited"
+  },
+  {
+    "product_ndc": "43547-367",
+    "brand_name": "Valsartan",
+    "generic_name": "VALSARTAN",
+    "manufacturer_name": "Solco Healthcare US, LLC"
+  },
+  {
+    "product_ndc": "0093-7473",
+    "brand_name": "Capecitabine",
+    "generic_name": "CAPECITABINE",
+    "manufacturer_name": "Teva Pharmaceuticals USA, Inc."
+  },
+  {
+    "product_ndc": "42192-614",
+    "brand_name": "PHENYTOIN SODIUM",
+    "generic_name": "PHENYTOIN SODIUM",
+    "manufacturer_name": "Acella Pharmaceuticals, LLC"
+  },
+  {
+    "product_ndc": "51801-004",
+    "brand_name": "GloStrips",
+    "generic_name": "ROSE BENGAL SODIUM",
+    "manufacturer_name": "Nomax Inc."
+  },
+  {
+    "product_ndc": "47781-423",
+    "brand_name": "Fentanyl system",
+    "generic_name": "FENTANYL",
+    "manufacturer_name": "ALVOGEN"
+  },
+  {
+    "product_ndc": "68180-210",
+    "brand_name": "Losartan Potassium",
+    "generic_name": "LOSARTAN POTASSIUM",
+    "manufacturer_name": "Lupin Pharmaceuticals, Inc."
+  },
+  {
+    "product_ndc": "0186-0776",
+    "brand_name": "BRILINTA",
+    "generic_name": "TICAGRELOR",
+    "manufacturer_name": "AstraZeneca Pharmaceuticals LP"
+  },
+  {
+    "product_ndc": "0406-0512",
+    "brand_name": "OXYCODONE AND ACETAMINOPHEN",
+    "generic_name": "OXYCODONE HYDROCHLORIDE AND ACETAMINOPHEN",
+    "manufacturer_name": "SpecGx LLC"
+  },
+  {
+    "product_ndc": "76329-3318",
+    "brand_name": "Epinephrine",
+    "generic_name": "EPINEPHRINE",
+    "manufacturer_name": "International Medication Systems, Limited"
+  },
+  {
+    "product_ndc": "0019-1188",
+    "brand_name": "SODIUM CHLORIDE",
+    "generic_name": "SODIUM CHLORIDE",
+    "manufacturer_name": "Liebel-Flarsheim Company LLC"
+  },
+  {
+    "product_ndc": "31722-812",
+    "brand_name": "LACOSAMIDE",
+    "generic_name": "LACOSAMIDE",
+    "manufacturer_name": "Camber Pharmaceuticals, Inc."
+  },
+  {
+    "product_ndc": "0955-1020",
+    "brand_name": "Docetaxel",
+    "generic_name": "DOCETAXEL",
+    "manufacturer_name": "Sanofi-Aventis U.S. LLC"
+  },
+  {
+    "product_ndc": "68229-102",
+    "brand_name": "Clinere Ear Wax Remover",
+    "generic_name": "CARBAMIDE PEROXIDE",
+    "manufacturer_name": "Quest Products"
+  },
+  {
+    "product_ndc": "68180-280",
+    "brand_name": "Ethambutol Hydrochloride",
+    "generic_name": "ETHAMBUTOL HYDROCHLORIDE",
+    "manufacturer_name": "Lupin Pharmaceuticals, Inc."
+  },
+  {
+    "product_ndc": "0573-0149",
+    "brand_name": "Advil",
+    "generic_name": "IBUPROFEN",
+    "manufacturer_name": "Haleon US Holdings LLC"
+  },
+  {
+    "product_ndc": "16729-369",
+    "brand_name": "Tadalafil",
+    "generic_name": "TADALAFIL",
+    "manufacturer_name": "Accord Healthcare Inc."
+  },
+  {
+    "product_ndc": "70436-026",
+    "brand_name": "Eptifibatide",
+    "generic_name": "EPTIFIBATIDE",
+    "manufacturer_name": "Slate Run Pharmaceuticals, LLC"
+  },
+  {
+    "product_ndc": "16729-232",
+    "brand_name": "ropinirole",
+    "generic_name": "ROPINIROLE",
+    "manufacturer_name": "Accord Healthcare Inc."
+  },
+  {
+    "product_ndc": "68788-7266",
+    "brand_name": "Artificial Tears",
+    "generic_name": "GLYCERIN",
+    "manufacturer_name": "Preferred Pharmaceuticals Inc."
+  },
+  {
+    "product_ndc": "0074-1658",
+    "brand_name": "Zemplar",
+    "generic_name": "PARICALCITOL",
+    "manufacturer_name": "AbbVie Inc."
+  },
+  {
+    "product_ndc": "0555-9008",
+    "brand_name": "Nortrel 28 Day",
+    "generic_name": "NORETHINDRONE AND ETHINYL ESTRADIOL",
+    "manufacturer_name": "Teva Pharmaceuticals USA, Inc."
+  },
+  {
+    "product_ndc": "0143-9570",
+    "brand_name": "Sodium Ferric Gluconate Complex in Sucrose",
+    "generic_name": "SODIUM FERRIC GLUCONATE COMPLEX IN SUCROSE",
+    "manufacturer_name": "Hikma Pharmaceuticals USA Inc."
+  },
+  {
+    "product_ndc": "49035-280",
+    "brand_name": "Equate Eye Drops Dry Eye Relief",
+    "generic_name": "GLYCERIN, HYPROMELLOSE, POLYETHYLENE GLYCOL 400",
+    "manufacturer_name": "Wal-Mart Stores, Inc."
+  },
+  {
+    "product_ndc": "33342-067",
+    "brand_name": "Olanzapine",
+    "generic_name": "OLANZAPINE",
+    "manufacturer_name": "Macleods Pharmaceuticals Limited"
+  },
+  {
+    "product_ndc": "51672-4118",
+    "brand_name": "Fluorouracil",
+    "generic_name": "FLUOROURACIL",
+    "manufacturer_name": "Sun Pharmaceutical Industries, Inc."
+  },
+  {
+    "product_ndc": "60505-1316",
+    "brand_name": "PAROXETINE HYDROCHLORIDE",
+    "generic_name": "PAROXETINE HYDROCHLORIDE",
+    "manufacturer_name": "Apotex Corp"
+  },
+  {
+    "product_ndc": "69949-151",
+    "brand_name": "IMPECCABLE SKIN - IVORY",
+    "generic_name": "ZINC OXIDE",
+    "manufacturer_name": "Synchronicity Spa, Inc. DBA Suntegrity"
+  },
+  {
+    "product_ndc": "63739-997",
+    "brand_name": "Lidocaine Hydrochloride",
+    "generic_name": "LIDOCAINE HYDROCHLORIDE",
+    "manufacturer_name": "McKesson Corporation dba SKY Packaging"
+  },
+  {
+    "product_ndc": "0338-6010",
+    "brand_name": "Milrinone Lactate in Dextrose",
+    "generic_name": "MILRINONE LACTATE",
+    "manufacturer_name": "Baxter Healthcare Corporation"
+  },
+  {
+    "product_ndc": "0264-2304",
+    "brand_name": "Acetic Acid",
+    "generic_name": "ACETIC ACID",
+    "manufacturer_name": "B. Braun Medical Inc."
+  },
+  {
+    "product_ndc": "70010-491",
+    "brand_name": "Metformin",
+    "generic_name": "METFORMIN ER 500 MG",
+    "manufacturer_name": "Granules Pharmaceuticals Inc."
+  },
+  {
+    "product_ndc": "58368-002",
+    "brand_name": "NEORELIEF FOR MUSCLE CRAMPLING AND RESTLESSNESS",
+    "generic_name": "TOPICAL GEL FOR MUSCLE CRAMPING AND RESTLESSNESS",
+    "manufacturer_name": "BioLyte Laboratories, LLC"
+  },
+  {
+    "product_ndc": "59651-104",
+    "brand_name": "Eletriptan Hydrobromide",
+    "generic_name": "ELETRIPTAN HYDROBROMIDE",
+    "manufacturer_name": "Aurobindo Pharma Limited"
+  },
+  {
+    "product_ndc": "0121-0775",
+    "brand_name": "Guaifenesin and Codeine Phosphate",
+    "generic_name": "GUAIFENESIN AND CODEINE PHOSPHATE",
+    "manufacturer_name": "PAI Holdings, LLC"
+  },
+  {
+    "product_ndc": "55111-653",
+    "brand_name": "Sirolimus",
+    "generic_name": "SIROLIMUS",
+    "manufacturer_name": "Dr. Reddy's Laboratories Limited"
+  },
+  {
+    "product_ndc": "43066-009",
+    "brand_name": "CARDENE IV",
+    "generic_name": "NICARDIPINE HYDROCHLORIDE",
+    "manufacturer_name": "Baxter Healthcare Corporation"
+  },
+  {
+    "product_ndc": "23155-017",
+    "brand_name": "tetracycline hydrochloride",
+    "generic_name": "TETRACYCLINE HYDROCHLORIDE",
+    "manufacturer_name": "Heritage Pharmaceuticals Inc. d/b/a Avet Pharmaceuticals Inc."
+  },
+  {
+    "product_ndc": "68382-018",
+    "brand_name": "Venlafaxine",
+    "generic_name": "VENLAFAXINE",
+    "manufacturer_name": "Zydus Pharmaceuticals USA Inc."
+  },
+  {
+    "product_ndc": "68382-609",
+    "brand_name": "Trazodone Hydrochloride",
+    "generic_name": "TRAZODONE HYDROCHLORIDE",
+    "manufacturer_name": "Zydus Pharmaceuticals USA Inc."
+  },
+  {
+    "product_ndc": "68788-7529",
+    "brand_name": "Cephalexin",
+    "generic_name": "CEPHALEXIN",
+    "manufacturer_name": "Preferred Pharmaceuticals, Inc."
+  },
+  {
+    "product_ndc": "16714-047",
+    "brand_name": "Chlorpromazine hydrochloride",
+    "generic_name": "CHLORPROMAZINE HYDROCHLORIDE",
+    "manufacturer_name": "Northstar Rx LLC"
+  },
+  {
+    "product_ndc": "54365-400",
+    "brand_name": "ChloraPrep One-Step",
+    "generic_name": "CHLORHEXIDINE GLUCONATE AND ISOPROPYL ALCOHOL",
+    "manufacturer_name": "CareFusion 213, LLC"
+  },
+  {
+    "product_ndc": "51862-455",
+    "brand_name": "Clonidine",
+    "generic_name": "CLONIDINE",
+    "manufacturer_name": "Mayne Pharma Inc."
+  },
+  {
+    "product_ndc": "70748-346",
+    "brand_name": "Liraglutide",
+    "generic_name": "LIRAGLUTIDE",
+    "manufacturer_name": "Lupin Pharmaceuticals, Inc."
+  },
+  {
+    "product_ndc": "0487-9801",
+    "brand_name": "Ipratropium Bromide",
+    "generic_name": "IPRATROPIUM BROMIDE",
+    "manufacturer_name": "Nephron Pharmaceuticals Corporation"
+  },
+  {
+    "product_ndc": "62756-142",
+    "brand_name": "METFORMIN HYDROCHLORIDE",
+    "generic_name": "METFORMIN HYDROCHLORIDE",
+    "manufacturer_name": "Sun Pharmaceutical Industries, Inc."
+  },
+  {
+    "product_ndc": "68968-6610",
+    "brand_name": "Minivelle",
+    "generic_name": "ESTRADIOL",
+    "manufacturer_name": "Noven Therapeutics, LLC"
+  },
+  {
+    "product_ndc": "68210-0800",
+    "brand_name": "VALUMEDS IBUPROFEN",
+    "generic_name": "IBUPROFEN",
+    "manufacturer_name": "SPIRIT PHARMACEUTICALS LLC"
+  },
+  {
+    "product_ndc": "11523-0165",
+    "brand_name": "Tinactin",
+    "generic_name": "TOLNAFTATE",
+    "manufacturer_name": "Bayer HealthCare LLC"
+  },
+  {
+    "product_ndc": "51801-008",
+    "brand_name": "Dry Eye Test",
+    "generic_name": "FLUORESCEIN SODIUM",
+    "manufacturer_name": "Nomax Inc."
+  },
+  {
+    "product_ndc": "49348-543",
+    "brand_name": "Loratadine and Pseudoephedrine Sulfate",
+    "generic_name": "LORATADINE AND PSEUDOEPHEDRINE SULFATE",
+    "manufacturer_name": "STRATEGIC SOURCING SERVICES"
+  },
+  {
+    "product_ndc": "59651-616",
+    "brand_name": "Rufinamide",
+    "generic_name": "RUFINAMIDE",
+    "manufacturer_name": "Aurobindo Pharma Limited"
+  },
+  {
+    "product_ndc": "51407-972",
+    "brand_name": "Baclofen",
+    "generic_name": "BACLOFEN",
+    "manufacturer_name": "Golden State Medical Supply, Inc."
+  },
+  {
+    "product_ndc": "68788-8153",
+    "brand_name": "Tadalafil",
+    "generic_name": "TADALAFIL",
+    "manufacturer_name": "Preferred Pharmaceuticals Inc."
+  },
+  {
+    "product_ndc": "61703-015",
+    "brand_name": "Paclitaxel",
+    "generic_name": "PACLITAXEL",
+    "manufacturer_name": "Hospira, Inc."
+  },
+  {
+    "product_ndc": "70010-001",
+    "brand_name": "Colchicine",
+    "generic_name": "COLCHICINE",
+    "manufacturer_name": "Granules Pharmaceutical Inc."
+  },
+  {
+    "product_ndc": "47781-303",
+    "brand_name": "Nitrofurantoin Monohydrate/ Macrocrystalline",
+    "generic_name": "NITROFURANTOIN MONOHYDRATE/MACROCRYSTALLINE",
+    "manufacturer_name": "Alvogen Inc."
+  },
+  {
+    "product_ndc": "23155-216",
+    "brand_name": "CIDOFOVIR DIHYDRATE",
+    "generic_name": "CIDOFOVIR DIHYDRATE",
+    "manufacturer_name": "Heritage Pharmaceuticals Inc. d/b/a Avet Pharmaceuticals Inc."
+  },
+  {
+    "product_ndc": "51672-4005",
+    "brand_name": "Carbamazepine",
+    "generic_name": "CARBAMAZEPINE",
+    "manufacturer_name": "Sun Pharmaceutical Industries, Inc."
+  },
+  {
+    "product_ndc": "0573-0196",
+    "brand_name": "Advil Allergy and Congestion Relief",
+    "generic_name": "CHLORPHENIRAMINE MALEATE, IBUPROFEN, AND PHENYLEPHRINE HYDROCHLORIDE",
+    "manufacturer_name": "Haleon US Holdings LLC"
+  },
+  {
+    "product_ndc": "67239-0219",
+    "brand_name": "Safco Sensicaine Ultra Topical Anesthetic Gel",
+    "generic_name": "BENZOCAINE",
+    "manufacturer_name": "Safco Dental Supply Co."
+  },
+  {
+    "product_ndc": "68462-626",
+    "brand_name": "azelaic acid",
+    "generic_name": "AZELAIC ACID",
+    "manufacturer_name": "Glenmark Pharmaceuticals Inc., USA"
+  },
+  {
+    "product_ndc": "70121-1719",
+    "brand_name": "Magnesium Sulfate",
+    "generic_name": "MAGNESIUM SULFATE IN WATER FOR",
+    "manufacturer_name": "Amneal Pharmaceuticals LLC"
+  },
+  {
+    "product_ndc": "69452-252",
+    "brand_name": "Atovaquone",
+    "generic_name": "ATOVAQUONE",
+    "manufacturer_name": "Bionpharma Inc."
+  },
+  {
+    "product_ndc": "0143-9928",
+    "brand_name": "Ciprofloxacin",
+    "generic_name": "CIPROFLOXACIN",
+    "manufacturer_name": "Hikma Pharmaceuticals USA Inc."
+  },
+  {
+    "product_ndc": "68682-650",
+    "brand_name": "Diazepam",
+    "generic_name": "DIAZEPAM",
+    "manufacturer_name": "Oceanside Pharmaceuticals"
+  },
+  {
+    "product_ndc": "63323-285",
+    "brand_name": "Naropin",
+    "generic_name": "ROPIVACAINE HYDROCHLORIDE",
+    "manufacturer_name": "Fresenius Kabi USA, LLC"
+  },
+  {
+    "product_ndc": "55111-338",
+    "brand_name": "Amlodipine Besylate and Benazepril Hydrochloride",
+    "generic_name": "AMLODIPINE BESYLATE AND BENAZEPRIL HYDROCHLORIDE",
+    "manufacturer_name": "Dr.Reddy's Laboratories Limited"
+  },
+  {
+    "product_ndc": "60631-040",
+    "brand_name": "Edarbi",
+    "generic_name": "AZILSARTAN KAMEDOXOMIL",
+    "manufacturer_name": "Azurity Pharmaceuticals, Inc."
+  },
+  {
+    "product_ndc": "65862-527",
+    "brand_name": "Venlafaxine Hydrochloride",
+    "generic_name": "VENLAFAXINE HYDROCHLORIDE",
+    "manufacturer_name": "Aurobindo Pharma Limited"
+  },
+  {
+    "product_ndc": "0169-2001",
+    "brand_name": "Insulin Diluting Medium for NovoLog",
+    "generic_name": "WATER INJECTION",
+    "manufacturer_name": "Novo Nordisk"
+  },
+  {
+    "product_ndc": "42192-327",
+    "brand_name": "NP Thyroid 15",
+    "generic_name": "LEVOTHYROXINE, LIOTHYRONINE",
+    "manufacturer_name": "Acella Pharmaceuticals, LLC"
+  },
+  {
+    "product_ndc": "0487-9501",
+    "brand_name": "Albuterol Sulfate",
+    "generic_name": "ALBUTEROL SULFATE",
+    "manufacturer_name": "Nephron Pharmaceuticals Corporation"
+  },
+  {
+    "product_ndc": "61314-630",
+    "brand_name": "Neomycin and Polymyxin B Sulfates and Dexamethasone",
+    "generic_name": "NEOMYCIN SULFATE, POLYMYXIN B SULFATE AND DEXAMETHASONE",
+    "manufacturer_name": "Sandoz Inc."
+  },
+  {
+    "product_ndc": "68462-386",
+    "brand_name": "solifenacin succinate",
+    "generic_name": "SOLIFENACIN SUCCINATE",
+    "manufacturer_name": "Glenmark Pharmaceuticals Inc., USA"
+  },
+  {
+    "product_ndc": "0517-9302",
+    "brand_name": "Multrys",
+    "generic_name": "TRACE ELEMENTS INJECTION 4",
+    "manufacturer_name": "American Regent, Inc."
+  },
+  {
+    "product_ndc": "0069-0106",
+    "brand_name": "ELELYSO",
+    "generic_name": "TALIGLUCERASE ALFA",
+    "manufacturer_name": "Pfizer Laboratories Div Pfizer Inc"
+  },
+  {
+    "product_ndc": "55150-246",
+    "brand_name": "Levetiracetam",
+    "generic_name": "LEVETIRACETAM IN SODIUM CHLORIDE",
+    "manufacturer_name": "Eugia US LLC"
+  },
+  {
+    "product_ndc": "0378-1721",
+    "brand_name": "AMLODIPINE AND VALSARTAN",
+    "generic_name": "AMLODIPINE AND VALSARTAN",
+    "manufacturer_name": "Mylan Pharmaceuticals Inc."
+  },
+  {
+    "product_ndc": "45567-0455",
+    "brand_name": "Kit for the Preparation of Technetium Tc 99m Mebrofenin",
+    "generic_name": "KIT FOR THE PREPARATION OF TECHNETIUM TC 99M MEBROFENIN",
+    "manufacturer_name": "Sun Pharmaceutical Industries, Inc."
+  },
+  {
+    "product_ndc": "0310-6225",
+    "brand_name": "XIGDUO XR",
+    "generic_name": "DAPAGLIFLOZIN AND METFORMIN HYDROCHLORIDE",
+    "manufacturer_name": "AstraZeneca Pharmaceuticals LP"
+  },
+  {
+    "product_ndc": "67457-153",
+    "brand_name": "Amiodarone Hydrochloride",
+    "generic_name": "AMIODARONE HYDROCHLORIDE",
+    "manufacturer_name": "Mylan Institutional LLC"
+  },
+  {
+    "product_ndc": "68462-861",
+    "brand_name": "Chlorpromazine Hydrochloride",
+    "generic_name": "CHLORPROMAZINE HYDROCHLORIDE",
+    "manufacturer_name": "Glenmark Pharmaceuticals Inc., USA"
+  },
+  {
+    "product_ndc": "0517-7504",
+    "brand_name": "Acetylcysteine",
+    "generic_name": "ACETYLCYSTEINE",
+    "manufacturer_name": "American Regent, Inc."
+  },
+  {
+    "product_ndc": "0597-0159",
+    "brand_name": "Synjardy",
+    "generic_name": "EMPAGLIFLOZIN AND METFORMIN HYDROCHLORIDE",
+    "manufacturer_name": "Boehringer Ingelheim Pharmaceuticals, Inc."
+  },
+  {
+    "product_ndc": "69097-528",
+    "brand_name": "Esomeprazole magnesium",
+    "generic_name": "ESOMEPRAZOLE MAGNESIUM",
+    "manufacturer_name": "Cipla USA Inc."
+  },
+  {
+    "product_ndc": "21130-813",
+    "brand_name": "signature care nasal decongestant",
+    "generic_name": "OXYMETAZOLINE HYDROCHLORIDE",
+    "manufacturer_name": "Safeway"
+  },
+  {
+    "product_ndc": "65862-844",
+    "brand_name": "CLOZAPINE",
+    "generic_name": "CLOZAPINE",
+    "manufacturer_name": "Aurobindo Pharma Limited"
+  },
+  {
+    "product_ndc": "68180-956",
+    "brand_name": "Clobetasol Propionate",
+    "generic_name": "CLOBETASOL PROPIONATE",
+    "manufacturer_name": "Lupin Pharmaceuticals, Inc."
+  },
+  {
+    "product_ndc": "63629-9205",
+    "brand_name": "Cephalexin",
+    "generic_name": "CEPHALEXIN",
+    "manufacturer_name": "Bryant Ranch Prepack"
+  },
+  {
+    "product_ndc": "0065-0411",
+    "brand_name": "Betadine",
+    "generic_name": "POVIDONE-IODINE",
+    "manufacturer_name": "Alcon Laboratories, Inc."
+  },
+  {
+    "product_ndc": "33342-031",
+    "brand_name": "Pramipexole dihydrochloride",
+    "generic_name": "PRAMIPEXOLE DIHYDROCHLORIDE",
+    "manufacturer_name": "Macleods Pharmaceuticals Limited"
+  },
+  {
+    "product_ndc": "24208-735",
+    "brand_name": "Cyclopentolate Hydrochloride",
+    "generic_name": "CYCLOPENTOLATE HYDROCHLORIDE",
+    "manufacturer_name": "Bausch & Lomb Incorporated"
+  },
+  {
+    "product_ndc": "0264-7387",
+    "brand_name": "Dextrose",
+    "generic_name": "DEXTROSE",
+    "manufacturer_name": "B. Braun Medical Inc."
+  },
+  {
+    "product_ndc": "55111-663",
+    "brand_name": "Paricalcitol",
+    "generic_name": "PARICALCITOL",
+    "manufacturer_name": "Dr. Reddy's Laboratories Limited"
+  },
+  {
+    "product_ndc": "82009-029",
+    "brand_name": "Duloxetine",
+    "generic_name": "DULOXETINE HYDROCHLORIDE",
+    "manufacturer_name": "Quallent Pharmaceuticals Health, LLC"
+  },
+  {
+    "product_ndc": "70010-029",
+    "brand_name": "dextroamphetamine saccharate, amphetamine aspartate monohydrate, dextroamphetamine sulfate and amphetamine sulfate",
+    "generic_name": "DEXTROAMPHETAMINE SACCHARATE, AMPHETAMINE ASPARTATE MONOHYDRATE, DEXTROAMPHETAMINE SULFATE AND AMPHETAMINE SULFATE",
+    "manufacturer_name": "Granules Pharmaceuticals Inc."
+  },
+  {
+    "product_ndc": "0480-3631",
+    "brand_name": "Pitavastatin",
+    "generic_name": "PITAVASTATIN CALCIUM",
+    "manufacturer_name": "Teva Pharmaceuticals, Inc."
+  },
+  {
+    "product_ndc": "51672-4130",
+    "brand_name": "Lamotrigine",
+    "generic_name": "LAMOTRIGINE",
+    "manufacturer_name": "Sun Pharmaceutical Industries, Inc."
+  },
+  {
+    "product_ndc": "64406-020",
+    "brand_name": "Vumerity",
+    "generic_name": "DIROXIMEL FUMARATE",
+    "manufacturer_name": "Biogen Inc."
+  },
+  {
+    "product_ndc": "49771-002",
+    "brand_name": "Mitosol",
+    "generic_name": "MITOMYCIN",
+    "manufacturer_name": "Mobius Therapeutics LLC"
+  },
+  {
+    "product_ndc": "55154-3540",
+    "brand_name": "Enoxaparin Sodium",
+    "generic_name": "ENOXAPARIN SODIUM",
+    "manufacturer_name": "Cardinal Health 107, LLC"
+  },
+  {
+    "product_ndc": "67877-426",
+    "brand_name": "MYCOPHENOLIC ACID",
+    "generic_name": "MYCOPHENOLIC ACID",
+    "manufacturer_name": "Ascend Laboratories, LLC"
+  },
+  {
+    "product_ndc": "60429-195",
+    "brand_name": "Fluticasone Propionate",
+    "generic_name": "FLUTICASONE PROPIONATE",
+    "manufacturer_name": "Golden State Medical Supply, Inc."
+  },
+  {
+    "product_ndc": "60505-0815",
+    "brand_name": "DESMOPRESSIN ACETATE",
+    "generic_name": "DESMOPRESSIN ACETATE",
+    "manufacturer_name": "Apotex Corp."
+  },
+  {
+    "product_ndc": "49483-623",
+    "brand_name": "METFORMIN HYDROCHLORIDE EXTENDED RELEASE",
+    "generic_name": "METFORMIN HYDROCHLORIDE",
+    "manufacturer_name": "TIME CAP LABORATORIES, INC"
+  },
+  {
+    "product_ndc": "63323-739",
+    "brand_name": "Famotidine",
+    "generic_name": "FAMOTIDINE",
+    "manufacturer_name": "Fresenius Kabi USA, LLC"
+  },
+  {
+    "product_ndc": "16729-447",
+    "brand_name": "Levothyroxine sodium",
+    "generic_name": "LEVOTHYROXINE SODIUM",
+    "manufacturer_name": "Accord Healthcare Inc."
+  },
+  {
+    "product_ndc": "30142-510",
+    "brand_name": "Kroger Jock Itch",
+    "generic_name": "CLOTRIMAZOLE",
+    "manufacturer_name": "Kroger Company"
+  },
+  {
+    "product_ndc": "68462-562",
+    "brand_name": "Diltiazem Hydrochloride",
+    "generic_name": "DILTIAZEM HYDROCHLORIDE",
+    "manufacturer_name": "GLENMARK PHARMACEUTICALS INC., USA"
+  },
+  {
+    "product_ndc": "68462-467",
+    "brand_name": "rizatriptan benzoate",
+    "generic_name": "RIZATRIPTAN BENZOATE",
+    "manufacturer_name": "Glenmark Pharmaceuticals Inc., USA"
+  },
+  {
+    "product_ndc": "70000-0087",
+    "brand_name": "Eyes Irritation Relief",
+    "generic_name": "POLYVINYL ALCOHOL AND POVIDONE AND TETRAHYDROZOLINE HYDROCHLORIDE",
+    "manufacturer_name": "CARDINAL HEALTH 110, LLC. DBA LEADER"
+  },
+  {
+    "product_ndc": "0832-1510",
+    "brand_name": "Haloperidol",
+    "generic_name": "HALOPERIDOL",
+    "manufacturer_name": "Upsher-Smith Laboratories, LLC"
+  },
+  {
+    "product_ndc": "0574-7090",
+    "brand_name": "Hydrocortisone Acetate",
+    "generic_name": "HYDROCORTISONE ACETATE",
+    "manufacturer_name": "Padagis US LLC"
+  },
+  {
+    "product_ndc": "0409-6102",
+    "brand_name": "Furosemide",
+    "generic_name": "FUROSEMIDE",
+    "manufacturer_name": "Hospira, Inc."
+  },
+  {
+    "product_ndc": "51672-1258",
+    "brand_name": "Clobetasol Propionate",
+    "generic_name": "CLOBETASOL PROPIONATE",
+    "manufacturer_name": "Sun Pharmaceutical Industries, Inc."
+  },
+  {
+    "product_ndc": "0409-3375",
+    "brand_name": "LEVOPHED",
+    "generic_name": "NOREPINEPHRINE BITARTRATE",
+    "manufacturer_name": "Hospira, Inc."
+  },
+  {
+    "product_ndc": "68987-001",
+    "brand_name": "PureLife Topical Anesthetic",
+    "generic_name": "BENZOCAINE",
+    "manufacturer_name": "PureLife Dental"
+  },
+  {
+    "product_ndc": "55150-188",
+    "brand_name": "Tranexamic Acid",
+    "generic_name": "TRANEXAMIC ACID",
+    "manufacturer_name": "Eugia US LLC"
+  },
+  {
+    "product_ndc": "45802-210",
+    "brand_name": "nitroglycerin lingual",
+    "generic_name": "NITROGLYCERIN",
+    "manufacturer_name": "Padagis Israel Pharmaceuticals Ltd"
+  },
+  {
+    "product_ndc": "59390-149",
+    "brand_name": "Diclofenac",
+    "generic_name": "DICLOFENAC SODIUM",
+    "manufacturer_name": "Altaire Pharmaceuticals Inc."
+  },
+  {
+    "product_ndc": "70748-311",
+    "brand_name": "GLUCAGON",
+    "generic_name": "GLUCAGON",
+    "manufacturer_name": "Lupin Pharmaceuticals, Inc."
+  },
+  {
+    "product_ndc": "0924-0246",
+    "brand_name": "MED NAP Benzalkonium Chloride Antiseptic",
+    "generic_name": "BENZALKONIUM CHLORIDE",
+    "manufacturer_name": "Acme United Corporation"
+  },
+  {
+    "product_ndc": "76402-403",
+    "brand_name": "Hillyard Alcohol Free Foaming Instant Hand Sanitizer",
+    "generic_name": "BENZALKONIUM CHLORIDE",
+    "manufacturer_name": "Hillyard GMP"
+  },
+  {
+    "product_ndc": "55150-230",
+    "brand_name": "FONDAPARINUX SODIUM",
+    "generic_name": "FONDAPARINUX SODIUM",
+    "manufacturer_name": "Eugia US LLC"
+  },
+  {
+    "product_ndc": "0703-4502",
+    "brand_name": "Metoclopramide",
+    "generic_name": "METOCLOPRAMIDE",
+    "manufacturer_name": "Teva Parenteral Medicines, Inc."
+  },
+  {
+    "product_ndc": "82584-700",
+    "brand_name": "iVIZIA Dry Eye",
+    "generic_name": "POVIDONE",
+    "manufacturer_name": "Thea Pharma Inc."
+  },
+  {
+    "product_ndc": "0121-0670",
+    "brand_name": "ETHOSUXIMIDE",
+    "generic_name": "ETHOSUXIMIDE",
+    "manufacturer_name": "PAI Holdings, LLC dba PAI Pharma"
+  },
+  {
+    "product_ndc": "53329-938",
+    "brand_name": "Povidone-Iodine",
+    "generic_name": "POVIDONE-IODINE",
+    "manufacturer_name": "Medline Industries, LP"
+  },
+  {
+    "product_ndc": "76305-301",
+    "brand_name": "China-Gel Topical Pain Reliever",
+    "generic_name": "MENTHOL AND CAMOHOR (SYNTHETIC)",
+    "manufacturer_name": "China-Gel, LLC"
+  },
+  {
+    "product_ndc": "0378-5185",
+    "brand_name": "Prasugrel",
+    "generic_name": "PRASUGREL",
+    "manufacturer_name": "Mylan Pharmaceuticals Inc."
+  },
+  {
+    "product_ndc": "59088-725",
+    "brand_name": "Gaba 300-EZS",
+    "generic_name": "GABAPENTIN",
+    "manufacturer_name": "PureTek Corporation"
+  },
+  {
+    "product_ndc": "47593-521",
+    "brand_name": "Ecolab",
+    "generic_name": "BENZALKONIUM CHLORIDE",
+    "manufacturer_name": "Ecolab Inc."
+  },
+  {
+    "product_ndc": "0409-0125",
+    "brand_name": "Labetalol Hydrochloride",
+    "generic_name": "LABETALOL HYDROCHLORIDE",
+    "manufacturer_name": "Hospira, Inc."
+  },
+  {
+    "product_ndc": "36800-691",
+    "brand_name": "topcare allergy relief",
+    "generic_name": "FEXOFENADINE HYDROCHLORIDE",
+    "manufacturer_name": "Topco Associates LLC"
+  },
+  {
+    "product_ndc": "0006-0461",
+    "brand_name": "EMEND",
+    "generic_name": "APREPITANT",
+    "manufacturer_name": "Merck Sharp & Dohme LLC"
+  },
+  {
+    "product_ndc": "68180-722",
+    "brand_name": "Cefdinir",
+    "generic_name": "CEFDINIR",
+    "manufacturer_name": "Lupin Pharmaceuticals, Inc."
+  },
+  {
+    "product_ndc": "65162-212",
+    "brand_name": "Extended Phenytoin Sodium",
+    "generic_name": "PHENYTOIN SODIUM",
+    "manufacturer_name": "Amneal Pharmaceuticals LLC"
+  },
+  {
+    "product_ndc": "0143-2112",
+    "brand_name": "Doxycycline Hyclate",
+    "generic_name": "DOXYCYCLINE HYCLATE",
+    "manufacturer_name": "Hikma Pharmaceuticals USA Inc."
+  },
+  {
+    "product_ndc": "75834-170",
+    "brand_name": "NIVAGEN ZINC OXIDE",
+    "generic_name": "ZINC OXIDE",
+    "manufacturer_name": "Nivagen Pharmaceuticals, Inc."
+  },
+  {
+    "product_ndc": "0185-0674",
+    "brand_name": "hydroxyzine pamoate",
+    "generic_name": "HYDROXYZINE PAMOATE",
+    "manufacturer_name": "Sandoz Inc"
+  },
+  {
+    "product_ndc": "63323-186",
+    "brand_name": "Sodium Chloride",
+    "generic_name": "SODIUM CHLORIDE",
+    "manufacturer_name": "Fresenius Kabi USA, LLC"
+  },
+  {
+    "product_ndc": "68180-338",
+    "brand_name": "METFORMIN HYDROCHLORIDE",
+    "generic_name": "METFORMIN HYDROCHLORIDE",
+    "manufacturer_name": "Lupin Pharmaceuticals, Inc."
+  },
+  {
+    "product_ndc": "65162-178",
+    "brand_name": "Metformin Hydrochloride",
+    "generic_name": "METFORMIN HYDROCHLORIDE",
+    "manufacturer_name": "Amneal Pharmaceuticals LLC"
+  },
+  {
+    "product_ndc": "29300-115",
+    "brand_name": "topiramate",
+    "generic_name": "TOPIRAMATE",
+    "manufacturer_name": "Unichem Pharmaceuticals (USA), Inc."
+  },
+  {
+    "product_ndc": "68462-678",
+    "brand_name": "lacosamide",
+    "generic_name": "LACOSAMIDE",
+    "manufacturer_name": "Glenmark Pharmaceuticals Inc. USA"
+  },
+  {
+    "product_ndc": "55150-243",
+    "brand_name": "Levofloxacin",
+    "generic_name": "LEVOFLOXACIN IN 5% DEXTROSE",
+    "manufacturer_name": "Eugia US LLC"
+  },
+  {
+    "product_ndc": "29300-187",
+    "brand_name": "bisoprolol fumarate and hydrochlorothiazide",
+    "generic_name": "BISOPROLOL FUMARATE AND HYDROCHLOROTHIAZIDE",
+    "manufacturer_name": "Unichem Pharmaceuticals (USA), Inc."
+  },
+  {
+    "product_ndc": "51660-527",
+    "brand_name": "Allergy Relief",
+    "generic_name": "LORATADINE",
+    "manufacturer_name": "Ohm Laboratories Inc."
+  },
+  {
+    "product_ndc": "50914-7720",
+    "brand_name": "Volumex",
+    "generic_name": "IODINATED I-131 ALBUMIN",
+    "manufacturer_name": "Iso-Tex Diagnostics, Inc."
+  },
+  {
+    "product_ndc": "0093-2203",
+    "brand_name": "Metoclopramide",
+    "generic_name": "METOCLOPRAMIDE",
+    "manufacturer_name": "Teva Pharmaceuticals USA, Inc."
+  },
+  {
+    "product_ndc": "68180-459",
+    "brand_name": "Amlodipine Besylate and Benazepril Hydrochloride",
+    "generic_name": "AMLODIPINE BESYLATE AND BENAZEPRIL HYDROCHLORIDE",
+    "manufacturer_name": "Lupin Pharmaceuticals, Inc."
+  },
+  {
+    "product_ndc": "72626-2701",
+    "brand_name": "Sofosbuvir and Velpatasvir",
+    "generic_name": "VELPATASVIR AND SOFOSBUVIR",
+    "manufacturer_name": "Asegua Therapeutics LLC"
+  },
+  {
+    "product_ndc": "71858-0105",
+    "brand_name": "Tirosint SOL",
+    "generic_name": "LEVOTHYROXINE SODIUM",
+    "manufacturer_name": "IBSA Pharma Inc."
+  },
+  {
+    "product_ndc": "83698-580",
+    "brand_name": "Honey Lemon Flavor Cough Drop",
+    "generic_name": "HONEY LEMON FLAVOR COUGH DROP",
+    "manufacturer_name": "Xiamen Kang Zhongyuan Biotechnology Co., Ltd."
+  },
+  {
+    "product_ndc": "0378-5807",
+    "brand_name": "Valsartan",
+    "generic_name": "VALSARTAN",
+    "manufacturer_name": "Mylan Pharmaceuticals Inc."
+  },
+  {
+    "product_ndc": "0641-6000",
+    "brand_name": "Ativan",
+    "generic_name": "LORAZEPAM",
+    "manufacturer_name": "Hikma Pharmaceuticals USA Inc."
+  },
+  {
+    "product_ndc": "0093-5420",
+    "brand_name": "Cabergoline",
+    "generic_name": "CABERGOLINE",
+    "manufacturer_name": "Teva Pharmaceuticals USA, Inc."
+  },
+  {
+    "product_ndc": "68382-209",
+    "brand_name": "Anastrozole",
+    "generic_name": "ANASTROZOLE",
+    "manufacturer_name": "Zydus Pharmaceuticals USA Inc."
+  },
+  {
+    "product_ndc": "72485-203",
+    "brand_name": "Imatinib mesylate 400 mg",
+    "generic_name": "IMATINIB MESYLATE",
+    "manufacturer_name": "Armas Pharmaceuticals Inc."
+  },
+  {
+    "product_ndc": "64380-472",
+    "brand_name": "Atomoxetine",
+    "generic_name": "ATOMOXETINE",
+    "manufacturer_name": "Strides Pharma Science Limited"
+  },
+  {
+    "product_ndc": "43386-069",
+    "brand_name": "Fluocinolone Acetonide",
+    "generic_name": "FLUOCINOLONE ACETONIDE",
+    "manufacturer_name": "Lupin Pharmaceuticals,Inc."
+  },
+  {
+    "product_ndc": "51672-1254",
+    "brand_name": "Fluocinonide",
+    "generic_name": "FLUOCINONIDE",
+    "manufacturer_name": "Sun Pharmaceutical Industries, Inc."
+  },
+  {
+    "product_ndc": "68546-317",
+    "brand_name": "Copaxone",
+    "generic_name": "GLATIRAMER ACETATE",
+    "manufacturer_name": "Teva Neuroscience, Inc."
+  },
+  {
+    "product_ndc": "76420-760",
+    "brand_name": "Lidolog Kit",
+    "generic_name": "LIDOCAINE, KENALOG, POVIDONE IODINE",
+    "manufacturer_name": "Asclemed USA, Inc."
+  },
+  {
+    "product_ndc": "63347-600",
+    "brand_name": "TERPENICOL ANTIFUNGAL",
+    "generic_name": "UNDECYLENIC ACID",
+    "manufacturer_name": "Blaine Labs Inc."
+  },
+  {
+    "product_ndc": "72657-112",
+    "brand_name": "Famotidine",
+    "generic_name": "FAMOTIDINE",
+    "manufacturer_name": "GLENMARK THERAPEUTICS INC., USA"
+  },
+  {
+    "product_ndc": "0536-1271",
+    "brand_name": "First Aid Antiseptic",
+    "generic_name": "POVIDONE-IODINE",
+    "manufacturer_name": "Rugby Laboratories"
+  },
+  {
+    "product_ndc": "33342-243",
+    "brand_name": "Olmesartan medoxomil Amlodipine and Hydrochlorothiazide",
+    "generic_name": "OLMESARTAN MEDOXOMIL AMLODIPINE AND HYDROCHLOROTHIAZIDE",
+    "manufacturer_name": "Macleods Pharmaceuticals Limited"
+  },
+  {
+    "product_ndc": "43598-291",
+    "brand_name": "pregabalin",
+    "generic_name": "PREGABALIN",
+    "manufacturer_name": "Dr.Reddys Laboratories Inc"
+  },
+  {
+    "product_ndc": "0135-0510",
+    "brand_name": "NICORETTE",
+    "generic_name": "NICOTINE POLACRILEX",
+    "manufacturer_name": "Haleon US Holdings LLC"
+  },
+  {
+    "product_ndc": "47335-779",
+    "brand_name": "Azelastine Hydrochloride",
+    "generic_name": "AZELASTINE HYDROCHLORIDE",
+    "manufacturer_name": "Sun Pharmaceutical Industries, Inc."
+  },
+  {
+    "product_ndc": "0067-6426",
+    "brand_name": "THERAFLU MULTI-SYMPTOM SEVERE COLD",
+    "generic_name": "ACETAMINOPHEN, DEXTROMETHORPHAN HBR, PHENYLEPHRINE HCL",
+    "manufacturer_name": "Haleon US Holdings LLC"
+  },
+  {
+    "product_ndc": "68462-356",
+    "brand_name": "Theophylline",
+    "generic_name": "THEOPHYLLINE",
+    "manufacturer_name": "Glenmark Pharmaceuticals Inc., USA"
+  },
+  {
+    "product_ndc": "0869-0871",
+    "brand_name": "Hydrogen Peroxide",
+    "generic_name": "HYDROGEN PEROXIDE",
+    "manufacturer_name": "Vi-Jon, LLC"
+  },
+  {
+    "product_ndc": "58593-828",
+    "brand_name": "Rompe Pecho Max Multi Symptoms",
+    "generic_name": "ACETAMINOPHEN, DEXTROMETHOPHAN HBR, PHENYLEPHRINE HCL, GUAIFENESIN",
+    "manufacturer_name": "EFFICIENT LABORATORIES INC"
+  },
+  {
+    "product_ndc": "68462-260",
+    "brand_name": "verapamil hydrochloride",
+    "generic_name": "VERAPAMIL HYDROCHLORIDE",
+    "manufacturer_name": "Glenmark Pharmaceuticals Inc., USA"
+  },
+  {
+    "product_ndc": "55150-276",
+    "brand_name": "Testosterone Cypionate",
+    "generic_name": "TESTOSTERONE CYPIONATE",
+    "manufacturer_name": "Eugia US LLC"
+  },
+  {
+    "product_ndc": "0135-0547",
+    "brand_name": "SENSODYNE Repair and Protect Extra Fresh",
+    "generic_name": "STANNOUS FLUORIDE",
+    "manufacturer_name": "Haleon US Holdings LLC"
+  },
+  {
+    "product_ndc": "43386-118",
+    "brand_name": "Hydrocodone Bitartrate and Homatropine Methylbromide",
+    "generic_name": "HYDROCODONE BITARTRATE AND HOMATROPINE METHYLBROMIDE",
+    "manufacturer_name": "Lupin Pharmaceuticals,Inc."
+  },
+  {
+    "product_ndc": "69448-025",
+    "brand_name": "UDENYCA",
+    "generic_name": "PEGFILGRASTIM-CBQV",
+    "manufacturer_name": "Accord BioPharma, Inc."
+  },
+  {
+    "product_ndc": "33342-393",
+    "brand_name": "LEVOTHYROXINE SODIUM",
+    "generic_name": "LEVOTHYROXINE SODIUM",
+    "manufacturer_name": "Macleods Pharmaceuticals Limited"
+  },
+  {
+    "product_ndc": "66794-151",
+    "brand_name": "Gablofen",
+    "generic_name": "BACLOFEN INJECTION",
+    "manufacturer_name": "Piramal Critical Care Inc"
+  },
+  {
+    "product_ndc": "65219-328",
+    "brand_name": "Sodium Chloride",
+    "generic_name": "SODIUM CHLORIDE",
+    "manufacturer_name": "Fresenius Kabi USA, LLC"
+  },
+  {
+    "product_ndc": "0615-7689",
+    "brand_name": "Buspirone Hydrochloride",
+    "generic_name": "BUSPIRONE HYDROCHLORIDE",
+    "manufacturer_name": "NCS HealthCare of KY, LLC dba Vangard Labs"
+  },
+  {
+    "product_ndc": "67877-197",
+    "brand_name": "Amlodipine Besylate",
+    "generic_name": "AMLODIPINE BESYLATE",
+    "manufacturer_name": "Ascend Laboratories, LLC"
+  },
+  {
+    "product_ndc": "76282-670",
+    "brand_name": "Ramipril",
+    "generic_name": "RAMIPRIL",
+    "manufacturer_name": "Exelan Pharmaceuticals, Inc."
+  },
+  {
+    "product_ndc": "47335-931",
+    "brand_name": "vecuronium bromide",
+    "generic_name": "VECURONIUM BROMIDE",
+    "manufacturer_name": "Sun Pharmaceutical Industries, Inc."
+  },
+  {
+    "product_ndc": "55111-729",
+    "brand_name": "Allopurinol",
+    "generic_name": "ALLOPURINOL",
+    "manufacturer_name": "Dr. Reddy's Laboratories Limited"
+  },
+  {
+    "product_ndc": "0093-3223",
+    "brand_name": "Estradiol",
+    "generic_name": "ESTRADIOL",
+    "manufacturer_name": "Teva Pharmaceuticals USA, Inc."
+  },
+  {
+    "product_ndc": "0781-6186",
+    "brand_name": "Ciprofloxacin and Dexamethasone",
+    "generic_name": "CIPROFLOXACIN AND DEXAMETHASONE",
+    "manufacturer_name": "Sandoz Inc"
+  },
+  {
+    "product_ndc": "0591-0397",
+    "brand_name": "Diclofenac Sodium and Misoprostol",
+    "generic_name": "DICLOFENAC SODIUM AND MISOPROSTOL",
+    "manufacturer_name": "Actavis Pharma, Inc."
+  },
+  {
+    "product_ndc": "0338-9640",
+    "brand_name": "Vasopressin in 0.9% Sodium Chloride",
+    "generic_name": "VASOPRESSIN IN 0.9% SODIUM CHLORIDE",
+    "manufacturer_name": "Baxter Healthcare Corporation"
+  },
+  {
+    "product_ndc": "49035-313",
+    "brand_name": "Equate Childrens Pain and Fever",
+    "generic_name": "ACETAMINOPHEN",
+    "manufacturer_name": "Wal-Mart Stores Inc"
+  },
+  {
+    "product_ndc": "60631-412",
+    "brand_name": "Edarbyclor",
+    "generic_name": "AZILSARTAN KAMEDOXOMIL AND CHLORTHALIDONE",
+    "manufacturer_name": "Azurity Pharmaceuticals, Inc. (formerly Arbor Pharmaceuticals)"
+  },
+  {
+    "product_ndc": "68084-411",
+    "brand_name": "Indomethacin",
+    "generic_name": "INDOMETHACIN",
+    "manufacturer_name": "American Health Packaging"
+  },
+  {
+    "product_ndc": "0173-0887",
+    "brand_name": "Trelegy Ellipta",
+    "generic_name": "FLUTICASONE FUROATE, UMECLIDINIUM BROMIDE AND VILANTEROL TRIFENATATE",
+    "manufacturer_name": "GlaxoSmithKline LLC"
+  },
+  {
+    "product_ndc": "72789-163",
+    "brand_name": "LOSARTAN POTASSIUM 25 mg",
+    "generic_name": "LOSARTAN POTASSIUM",
+    "manufacturer_name": "PD-Rx Pharmaceuticals, Inc."
+  },
+  {
+    "product_ndc": "62756-015",
+    "brand_name": "Testosterone Cypionate",
+    "generic_name": "TESTOSTERONE CYPIONATE",
+    "manufacturer_name": "Sun Pharmaceutical Industries, Inc."
+  },
+  {
+    "product_ndc": "11673-105",
+    "brand_name": "Up and Up childrens acetaminophen",
+    "generic_name": "ACETAMINOPHEN",
+    "manufacturer_name": "Target Corporation"
+  },
+  {
+    "product_ndc": "49702-231",
+    "brand_name": "Triumeq",
+    "generic_name": "ABACAVIR SULFATE, DOLUTEGRAVIR SODIUM, LAMIVUDINE",
+    "manufacturer_name": "ViiV Healthcare Company"
+  },
+  {
+    "product_ndc": "0603-2115",
+    "brand_name": "Allopurinol",
+    "generic_name": "ALLOPURINOL",
+    "manufacturer_name": "Par Health USA, LLC"
+  },
+  {
+    "product_ndc": "13668-443",
+    "brand_name": "Fluoxetine",
+    "generic_name": "FLUOXETINE",
+    "manufacturer_name": "Torrent Pharmaceuticals Limited"
+  },
+  {
+    "product_ndc": "31722-574",
+    "brand_name": "Levetiracetam",
+    "generic_name": "LEVETIRACETAM ORAL",
+    "manufacturer_name": "Camber Pharmaceuticals, Inc."
+  },
+  {
+    "product_ndc": "33342-093",
+    "brand_name": "rizatriptan benzoate",
+    "generic_name": "RIZATRIPTAN BENZOATE",
+    "manufacturer_name": "Macleods Pharmaceuticals Limited"
+  },
+  {
+    "product_ndc": "10702-013",
+    "brand_name": "BETAXOLOL HYDROCHLORIDE",
+    "generic_name": "BETAXOLOL HYDROCHLORIDE",
+    "manufacturer_name": "KVK-TECH, INC."
+  },
+  {
+    "product_ndc": "63299-001",
+    "brand_name": "MENTHOL AND METHYL SALICYLATE",
+    "generic_name": "ELECTRIC MEDICATED BALM ULTRA STRENGTH",
+    "manufacturer_name": "FEI FAH MEDICAL MANUFACTURING PTE LTD"
+  },
+  {
+    "product_ndc": "69945-092",
+    "brand_name": "Technetium Tc 99m Sestamibi",
+    "generic_name": "TECHNETIUM TC 99M SESTAMIBI",
+    "manufacturer_name": "Curium US LLC"
+  },
+  {
+    "product_ndc": "83698-102",
+    "brand_name": "DISCOUNT DRUG MART",
+    "generic_name": "COUGH DROPS MENTHOL",
+    "manufacturer_name": "Xiamen Kang Zhongyuan Biotechnology Co., Ltd."
+  },
+  {
+    "product_ndc": "0487-6105",
+    "brand_name": "Sterile Water",
+    "generic_name": "STERILE WATER",
+    "manufacturer_name": "Nephron Pharmaceuticals Corporation"
+  },
+  {
+    "product_ndc": "23155-489",
+    "brand_name": "Desmopressin Acetate",
+    "generic_name": "DESMOPRESSIN ACETATE",
+    "manufacturer_name": "Heritage Pharmaceuticals Inc. d/b/a Avet Pharmaceuticals Inc."
+  },
+  {
+    "product_ndc": "51672-5321",
+    "brand_name": "ibuprofen",
+    "generic_name": "IBUPROFEN",
+    "manufacturer_name": "Sun Pharmaceutical Industries, Inc."
+  },
+  {
+    "product_ndc": "52536-625",
+    "brand_name": "Testosterone Cypionate",
+    "generic_name": "TESTOSTERONE CYPIONATE",
+    "manufacturer_name": "Wilshire Pharmaceuticals"
+  },
+  {
+    "product_ndc": "0480-9257",
+    "brand_name": "Octreotide Acetate",
+    "generic_name": "OCTREOTIDE ACETATE",
+    "manufacturer_name": "Teva Pharmaceuticals, Inc."
+  },
+  {
+    "product_ndc": "55513-800",
+    "brand_name": "Corlanor",
+    "generic_name": "IVABRADINE",
+    "manufacturer_name": "Amgen Inc"
+  },
+  {
+    "product_ndc": "0517-0031",
+    "brand_name": "Cyanocobalamin",
+    "generic_name": "CYANOCOBALAMIN",
+    "manufacturer_name": "American Regent, Inc."
+  },
+  {
+    "product_ndc": "70000-0088",
+    "brand_name": "Dry eye relief",
+    "generic_name": "POLYETHYLENE GLYCOL AND PROPYLENE GLYCOL",
+    "manufacturer_name": "CARDINAL HEALTH 110, LLC. DBA LEADER"
+  },
+  {
+    "product_ndc": "50228-177",
+    "brand_name": "Gabapentin",
+    "generic_name": "GABAPENTIN",
+    "manufacturer_name": "ScieGen Pharmaceuticals, Inc."
+  },
+  {
+    "product_ndc": "67877-544",
+    "brand_name": "Cephalexin",
+    "generic_name": "CEPHALEXIN",
+    "manufacturer_name": "Ascend Laboratories, LLC"
+  },
+  {
+    "product_ndc": "50804-171",
+    "brand_name": "GOODSENSE Ultra Strength Antacid Assorted Fruit",
+    "generic_name": "CALCIUM CARBONATE",
+    "manufacturer_name": "GoodSense"
+  },
+  {
+    "product_ndc": "72476-127",
+    "brand_name": "Extra Strength Antacid",
+    "generic_name": "CALCIUM CARBONATE",
+    "manufacturer_name": "Retail Business Services, LLC."
+  },
+  {
+    "product_ndc": "68462-694",
+    "brand_name": "frovatriptan succinate",
+    "generic_name": "FROVATRIPTAN SUCCINATE",
+    "manufacturer_name": "Glenmark Pharmaceuticals Inc., USA"
+  },
+  {
+    "product_ndc": "21130-871",
+    "brand_name": "Hydrogen Peroxide",
+    "generic_name": "HYDROGEN PEROXIDE",
+    "manufacturer_name": "Better Living Brands, LLC"
+  },
+  {
+    "product_ndc": "53185-277",
+    "brand_name": "Chlorpheniramine maleate 4mg",
+    "generic_name": "CHLORPHENIRAMINE MALEATE 4MG",
+    "manufacturer_name": "Athlete's Needs, Inc."
+  },
+  {
+    "product_ndc": "62756-233",
+    "brand_name": "Amphotericin B",
+    "generic_name": "AMPHOTERICIN B",
+    "manufacturer_name": "Sun Pharmaceutical Industries, Inc."
+  },
+  {
+    "product_ndc": "68382-353",
+    "brand_name": "bupropion",
+    "generic_name": "BUPROPION",
+    "manufacturer_name": "Zydus Pharmaceuticals USA Inc."
+  },
+  {
+    "product_ndc": "68462-128",
+    "brand_name": "Zonisamide",
+    "generic_name": "ZONISAMIDE",
+    "manufacturer_name": "Glenmark Pharmaceuticals Inc., USA"
+  },
+  {
+    "product_ndc": "51672-1365",
+    "brand_name": "Fluocinolone Acetonide",
+    "generic_name": "FLUOCINOLONE ACETONIDE",
+    "manufacturer_name": "Sun Pharmaceutical Industries, Inc."
+  },
+  {
+    "product_ndc": "31722-484",
+    "brand_name": "Oxycodone Hydrochloride",
+    "generic_name": "OXYCODONE HYDROCHLORIDE",
+    "manufacturer_name": "Camber Pharmaceuticals Inc"
+  },
+  {
+    "product_ndc": "53462-705",
+    "brand_name": "CHLORHEXIDINE GLUCONATE",
+    "generic_name": "CHLORHEXIDINE GLUCONATE",
+    "manufacturer_name": "Sage Products LLC"
+  },
+  {
+    "product_ndc": "11523-0010",
+    "brand_name": "Lotrimin Daily Prevention Deo",
+    "generic_name": "TOLNAFTATE",
+    "manufacturer_name": "Bayer HealthCare LLC."
+  },
+  {
+    "product_ndc": "0078-1077",
+    "brand_name": "VOTRIENT",
+    "generic_name": "PAZOPANIB HYDROCHLORIDE",
+    "manufacturer_name": "Novartis Pharmaceuticals Corporation"
+  },
+  {
+    "product_ndc": "68382-771",
+    "brand_name": "LANSOPRAZOLE",
+    "generic_name": "LANSOPRAZOLE",
+    "manufacturer_name": "Zydus Pharmaceuticals USA Inc."
+  },
+  {
+    "product_ndc": "68180-246",
+    "brand_name": "memantine hydrochloride",
+    "generic_name": "MEMANTINE HYDROCHLORIDE",
+    "manufacturer_name": "Lupin Pharmaceuticals, Inc."
+  },
+  {
+    "product_ndc": "67457-196",
+    "brand_name": "Thiamine Hydrochloride",
+    "generic_name": "THIAMINE HYDROCHLORIDE",
+    "manufacturer_name": "Mylan Institutional LLC"
+  },
+  {
+    "product_ndc": "72578-094",
+    "brand_name": "Dapsone",
+    "generic_name": "DAPSONE",
+    "manufacturer_name": "Viona Pharmaceuticals Inc"
+  },
+  {
+    "product_ndc": "25021-700",
+    "brand_name": "Ketorolac Tromethamine",
+    "generic_name": "KETOROLAC TROMETHAMINE",
+    "manufacturer_name": "Sagent Pharmaceuticals"
+  },
+  {
+    "product_ndc": "43598-258",
+    "brand_name": "Docetaxel",
+    "generic_name": "DOCETAXEL",
+    "manufacturer_name": "Dr. Reddy's Laboratories Inc."
+  },
+  {
+    "product_ndc": "50268-195",
+    "brand_name": "Capsaicin External Analgesic",
+    "generic_name": "CAPSAICIN",
+    "manufacturer_name": "AvPAK"
+  },
+  {
+    "product_ndc": "41520-108",
+    "brand_name": "CareOne Severe Congestion Nasal",
+    "generic_name": "OXYMETAZOLINE HYDROCHLORIDE",
+    "manufacturer_name": "American Sales Company"
+  },
+  {
+    "product_ndc": "0338-0519",
+    "brand_name": "Intralipid",
+    "generic_name": "I.V. FAT EMULSION",
+    "manufacturer_name": "Baxter Healthcare Corporation"
+  },
+  {
+    "product_ndc": "54828-001",
+    "brand_name": "Neuraceq",
+    "generic_name": "FLORBETABEN F 18",
+    "manufacturer_name": "Lantheus Biosciences Ltd., a Lantheus company"
+  },
+  {
+    "product_ndc": "23155-581",
+    "brand_name": "DESIPRAMINE HYDROCHLORIDE",
+    "generic_name": "DESIPRAMINE HYDROCHLORIDE",
+    "manufacturer_name": "Heritage Pharmaceuticals Inc. d/b/a Avet Pharmaceuticals Inc."
+  },
+  {
+    "product_ndc": "70000-0502",
+    "brand_name": "Leader Dry Eye Relief Eye Drops",
+    "generic_name": "GLYCERIN, HYPROMELLOSE, POLYETHYLENE GLYCOL 400",
+    "manufacturer_name": "CARDINAL HEALTH 110, LLC. DBA LEADER"
+  },
+  {
+    "product_ndc": "0037-0245",
+    "brand_name": "DYMISTA",
+    "generic_name": "AZELASTINE HYDROCHLORIDE AND FLUTICASONE PROPIONATE",
+    "manufacturer_name": "Viatris Specialty LLC"
+  },
+  {
+    "product_ndc": "47593-489",
+    "brand_name": "Ecolab",
+    "generic_name": "ETHYL ALCOHOL",
+    "manufacturer_name": "Ecolab Inc."
+  },
+  {
+    "product_ndc": "68462-319",
+    "brand_name": "Ranolazine",
+    "generic_name": "RANOLAZINE",
+    "manufacturer_name": "Glenmark Pharmaceuticals Inc., USA"
+  },
+  {
+    "product_ndc": "62756-459",
+    "brand_name": "Buprenorphine",
+    "generic_name": "BUPRENORPHINE",
+    "manufacturer_name": "Sun Pharmaceutical Industries, Inc."
+  },
+  {
+    "product_ndc": "61958-2901",
+    "brand_name": "Veklury",
+    "generic_name": "REMDESIVIR",
+    "manufacturer_name": "Gilead Sciences, Inc."
+  },
+  {
+    "product_ndc": "0904-6351",
+    "brand_name": "Levofloxacin",
+    "generic_name": "LEVOFLOXACIN",
+    "manufacturer_name": "Major Pharmaceuticals"
+  },
+  {
+    "product_ndc": "0187-0795",
+    "brand_name": "Cardizem CD",
+    "generic_name": "DILTIAZEM HYDROCHLORIDE",
+    "manufacturer_name": "Bausch Health US LLC"
+  },
+  {
+    "product_ndc": "42291-565",
+    "brand_name": "Norgestimate and Ethinyl Estradiol",
+    "generic_name": "NORGESTIMATE AND ETHINYL ESTRADIOL",
+    "manufacturer_name": "AvKARE"
+  },
+  {
+    "product_ndc": "68001-396",
+    "brand_name": "Potassium Chloride",
+    "generic_name": "POTASSIUM CHLORIDE",
+    "manufacturer_name": "BluePoint Laboratories"
+  },
+  {
+    "product_ndc": "42292-038",
+    "brand_name": "Levothyroxine Sodium",
+    "generic_name": "LEVOTHYROXINE SODIUM",
+    "manufacturer_name": "Mylan Institutional Inc."
+  },
+  {
+    "product_ndc": "33342-087",
+    "brand_name": "Rizatriptan",
+    "generic_name": "RIZATRIPTAN",
+    "manufacturer_name": "Macleods Pharmaceuticals Limited"
+  },
+  {
+    "product_ndc": "67877-436",
+    "brand_name": "Minocycline Hydrochloride",
+    "generic_name": "MINOCYCLINE HYDROCHLORIDE",
+    "manufacturer_name": "Ascend Laboratories, LLC"
+  },
+  {
+    "product_ndc": "55150-470",
+    "brand_name": "TOBRAMYCIN",
+    "generic_name": "TOBRAMYCIN",
+    "manufacturer_name": "Eugia US LLC"
+  },
+  {
+    "product_ndc": "68462-433",
+    "brand_name": "colesevelam hydrochloride",
+    "generic_name": "COLESEVELAM HYDROCHLORIDE",
+    "manufacturer_name": "Glenmark Pharmaceuticals Inc., USA"
+  },
+  {
+    "product_ndc": "83389-111",
+    "brand_name": "Pro Numb",
+    "generic_name": "TATTOO NUMBING SPRAY",
+    "manufacturer_name": "Pro Numb Tattoo Numbing Spray LLC"
+  },
+  {
+    "product_ndc": "70710-1592",
+    "brand_name": "icosapent ethyl",
+    "generic_name": "ICOSAPENT ETHYL",
+    "manufacturer_name": "Zydus Pharmaceuticals USA Inc."
+  },
+  {
+    "product_ndc": "69618-077",
+    "brand_name": "Sodium Chloride Hypertonicity Ophthalmic Solution, 5%",
+    "generic_name": "SODIUM CHLORIDE HYPERTONICITY OPHTHALMIC SOLUTION, 5%",
+    "manufacturer_name": "Reliable 1 Laboritories LLC"
+  },
+  {
+    "product_ndc": "10702-026",
+    "brand_name": "Phentermine Hydrochloride",
+    "generic_name": "PHENTERMINE HYDROCHLORIDE",
+    "manufacturer_name": "KVK-Tech, Inc."
+  },
+  {
+    "product_ndc": "30142-305",
+    "brand_name": "Kroger ATHLETES FOOT",
+    "generic_name": "CLOTRIMAZOLE",
+    "manufacturer_name": "Kroger Company"
+  },
+  {
+    "product_ndc": "0904-6949",
+    "brand_name": "Levothyroxine Sodium",
+    "generic_name": "LEVOTHYROXINE SODIUM",
+    "manufacturer_name": "Major Pharmaceuticals"
+  },
+  {
+    "product_ndc": "0065-8150",
+    "brand_name": "PATADAY ONCE DAILY RELIEF",
+    "generic_name": "OLOPATADINE HYDROCHLORIDE",
+    "manufacturer_name": "Alcon Laboratories, Inc."
+  },
+  {
+    "product_ndc": "68001-155",
+    "brand_name": "Anastrozole",
+    "generic_name": "ANASTROZOLE",
+    "manufacturer_name": "BluePoint Laboratories"
+  },
+  {
+    "product_ndc": "68462-126",
+    "brand_name": "Gabapentin",
+    "generic_name": "GABAPENTIN",
+    "manufacturer_name": "Glenmark Pharmaceuticals Inc., USA"
+  },
+  {
+    "product_ndc": "46163-206",
+    "brand_name": "Delflex",
+    "generic_name": "DEXTROSE MONOHYDRATE, SODIUM CHLORIDE, SODIUM LACTATE, CALCIUM CHLORIDE, MAGNESIUM CHLORIDE",
+    "manufacturer_name": "Fresenius Medical Care de Mexico, S.A. de C.V."
+  },
+  {
+    "product_ndc": "49702-226",
+    "brand_name": "Tivicay",
+    "generic_name": "DOLUTEGRAVIR SODIUM",
+    "manufacturer_name": "ViiV Healthcare Company"
+  },
+  {
+    "product_ndc": "69238-1273",
+    "brand_name": "Oseltamivir Phosphate",
+    "generic_name": "OSELTAMIVIR PHOSPHATE",
+    "manufacturer_name": "Amneal Pharmaceuticals NY LLC"
+  },
+  {
+    "product_ndc": "55150-429",
+    "brand_name": "Tirofiban",
+    "generic_name": "TIROFIBAN",
+    "manufacturer_name": "Eugia US LLC"
+  },
+  {
+    "product_ndc": "57664-046",
+    "brand_name": "LISDEXAMFETAMINE DIMESYLATE",
+    "generic_name": "LISDEXAMFETAMINE DIMESYLATE",
+    "manufacturer_name": "Sun Pharmaceutical Industries, Inc."
+  },
+  {
+    "product_ndc": "54643-5646",
+    "brand_name": "Infuvite Pediatric",
+    "generic_name": "MULTIPLE VITAMINS INJECTION",
+    "manufacturer_name": "Sandoz Inc"
+  },
+  {
+    "product_ndc": "62795-4005",
+    "brand_name": "ReBoost",
+    "generic_name": "SILVER NITRATE,EUPHORBIA RESINIFERA RESIN, CALCIUM SULFIDE, GOLDENSEAL, POTASSIUM DICHROMATE,LUFFA OPERCULATA FRUIT, SODIUM CARBONATE, ECHINACEA UNSPECIFIED, CAIRINA MOSCHATA HEART/LIVER AUTOLYSATE AND PULSATILLA VULGARIS",
+    "manufacturer_name": "MediNatura"
+  },
+  {
+    "product_ndc": "63323-010",
+    "brand_name": "Gentamicin",
+    "generic_name": "GENTAMICIN SULFATE",
+    "manufacturer_name": "Fresenius Kabi USA, LLC"
+  },
+  {
+    "product_ndc": "64980-513",
+    "brand_name": "TIMOLOL MALEATE",
+    "generic_name": "TIMOLOL MALEATE",
+    "manufacturer_name": "Rising Pharma Holdings, Inc."
+  },
+  {
+    "product_ndc": "0065-0518",
+    "brand_name": "GenTeal Tears NIGHT-TIME",
+    "generic_name": "MINERAL OIL, WHITE PETROLATUM",
+    "manufacturer_name": "Alcon Laboratories, Inc."
+  },
+  {
+    "product_ndc": "16729-008",
+    "brand_name": "PRAVASTATIN SODIUM",
+    "generic_name": "PRAVASTATIN SODIUM",
+    "manufacturer_name": "Accord Healthcare Inc."
+  },
+  {
+    "product_ndc": "0113-8959",
+    "brand_name": "Good Sense Pain and Fever",
+    "generic_name": "ACETAMINOPHEN",
+    "manufacturer_name": "L. Perrigo Company"
+  },
+  {
+    "product_ndc": "82645-311",
+    "brand_name": "Magnesium Citrate",
+    "generic_name": "FRESKARO MAGNESIUM CITRATE ORAL SOLUTION - GRAPE",
+    "manufacturer_name": "Pharma Nobis, LLC"
+  },
+  {
+    "product_ndc": "62332-115",
+    "brand_name": "Metoprolol Tartrate and Hydrochlorothiazide",
+    "generic_name": "METOPROLOL TARTRATE AND HYDROCHLOROTHIAZIDE",
+    "manufacturer_name": "Alembic Pharmaceuticals Inc."
+  },
+  {
+    "product_ndc": "68180-336",
+    "brand_name": "Metformin Hydrochloride",
+    "generic_name": "METFORMIN HYDROCHLORIDE",
+    "manufacturer_name": "Lupin Pharmaceuticals, Inc."
+  },
+  {
+    "product_ndc": "68382-138",
+    "brand_name": "topiramate",
+    "generic_name": "TOPIRAMATE",
+    "manufacturer_name": "Zydus Pharmaceuticals USA Inc."
+  },
+  {
+    "product_ndc": "30142-810",
+    "brand_name": "70% Isopropyl Rubbing Alcohol",
+    "generic_name": "ISOPROPYL RUBBING ALCOHOL",
+    "manufacturer_name": "The Kroger Co."
+  },
+  {
+    "product_ndc": "68180-943",
+    "brand_name": "Testosterone",
+    "generic_name": "TESTOSTERONE",
+    "manufacturer_name": "Lupin Pharmaceuticals, Inc."
+  },
+  {
+    "product_ndc": "16729-467",
+    "brand_name": "PIRFENIDONE",
+    "generic_name": "PIRFENIDONE",
+    "manufacturer_name": "Accord Healthcare Inc."
+  },
+  {
+    "product_ndc": "69097-126",
+    "brand_name": "AMLODIPINE BESYLATE",
+    "generic_name": "AMLODIPINE BESYLATE",
+    "manufacturer_name": "Cipla USA Inc."
+  },
+  {
+    "product_ndc": "33342-107",
+    "brand_name": "Risedronate Sodium",
+    "generic_name": "RISEDRONATE SODIUM",
+    "manufacturer_name": "Macleods Pharmaceuticals Limited"
+  },
+  {
+    "product_ndc": "25000-114",
+    "brand_name": "Ibuprofen",
+    "generic_name": "IBUPROFEN",
+    "manufacturer_name": "MARKSANS PHARMA LIMITED"
+  },
+  {
+    "product_ndc": "0409-2634",
+    "brand_name": "Hydromorphone Hydrochloride",
+    "generic_name": "HYDROMORPHONE HYDROCHLORIDE",
+    "manufacturer_name": "Hospira, Inc."
+  },
+  {
+    "product_ndc": "55111-179",
+    "brand_name": "Tizanidine",
+    "generic_name": "TIZANIDINE",
+    "manufacturer_name": "Dr. Reddy's Laboratories Limited"
+  },
+  {
+    "product_ndc": "63323-604",
+    "brand_name": "Propranolol",
+    "generic_name": "PROPRANOLOL HYDROCHLORIDE",
+    "manufacturer_name": "Fresenius Kabi USA, LLC"
+  },
+  {
+    "product_ndc": "0409-3515",
+    "brand_name": "Vancomycin Hydrochloride",
+    "generic_name": "VANCOMYCIN HYDROCHLORIDE",
+    "manufacturer_name": "Hospira, Inc."
+  },
+  {
+    "product_ndc": "70377-038",
+    "brand_name": "POSACONAZOLE",
+    "generic_name": "POSACONAZOLE",
+    "manufacturer_name": "Biocon Pharma Inc."
+  },
+  {
+    "product_ndc": "65862-050",
+    "brand_name": "Simvastatin",
+    "generic_name": "SIMVASTATIN",
+    "manufacturer_name": "Aurobindo Pharma Limited"
+  },
+  {
+    "product_ndc": "31722-833",
+    "brand_name": "Entecavir",
+    "generic_name": "ENTECAVIR",
+    "manufacturer_name": "Camber Pharmaceuticals, Inc."
+  },
+  {
+    "product_ndc": "47781-355",
+    "brand_name": "Buprenorphine and Naloxone Sublingual Film",
+    "generic_name": "BUPRENORPHINE AND NALOXONE",
+    "manufacturer_name": "Alvogen Inc."
+  },
+  {
+    "product_ndc": "49230-300",
+    "brand_name": "Sodium Chloride",
+    "generic_name": "SODIUM CHLORIDE",
+    "manufacturer_name": "Fresenius Medical Care Renal Therapies Group, LLC"
+  },
+  {
+    "product_ndc": "57237-040",
+    "brand_name": "Penicillin V Potassium",
+    "generic_name": "PENICILLIN V POTASSIUM",
+    "manufacturer_name": "Rising Health, LLC"
+  },
+  {
+    "product_ndc": "63323-614",
+    "brand_name": "Hydralazine Hydrochloride",
+    "generic_name": "HYDRALAZINE HYDROCHLORIDE",
+    "manufacturer_name": "Fresenius Kabi USA, LLC"
+  },
+  {
+    "product_ndc": "62175-320",
+    "brand_name": "Niacin",
+    "generic_name": "NIACIN",
+    "manufacturer_name": "Lannett Company, LLC"
+  },
+  {
+    "product_ndc": "0409-4755",
+    "brand_name": "Ondansetron",
+    "generic_name": "ONDANSETRON",
+    "manufacturer_name": "Hospira, Inc."
+  },
+  {
+    "product_ndc": "0264-3103",
+    "brand_name": "Cefazolin Sodium",
+    "generic_name": "CEFAZOLIN SODIUM",
+    "manufacturer_name": "B. Braun Medical Inc."
+  },
+  {
+    "product_ndc": "31722-819",
+    "brand_name": "Aripiprazole",
+    "generic_name": "ARIPIPRAZOLE",
+    "manufacturer_name": "Camber Pharmaceuticals, Inc."
+  },
+  {
+    "product_ndc": "0597-0075",
+    "brand_name": "Spiriva HandiHaler",
+    "generic_name": "TIOTROPIUM BROMIDE",
+    "manufacturer_name": "Boehringer Ingelheim Pharmaceuticals, Inc."
+  },
+  {
+    "product_ndc": "53329-827",
+    "brand_name": "Curad Alcohol Prep Pads Medium",
+    "generic_name": "ISOPROPYL ALCOHOL",
+    "manufacturer_name": "Medline Industries, LP"
+  },
+  {
+    "product_ndc": "0924-0243",
+    "brand_name": "MED NAP Cleansing Towelette",
+    "generic_name": "BENZALKONIUM CHLORIDE",
+    "manufacturer_name": "Acme United Corporation"
+  },
+  {
+    "product_ndc": "16571-862",
+    "brand_name": "bupropion hydrochloride",
+    "generic_name": "BUPROPION HYDROCHLORIDE",
+    "manufacturer_name": "Rising Pharma Holdings, Inc."
+  },
+  {
+    "product_ndc": "55111-533",
+    "brand_name": "Divalproex Sodium",
+    "generic_name": "DIVALPROEX SODIUM",
+    "manufacturer_name": "Dr. Reddy's Laboratories Ltd"
+  },
+  {
+    "product_ndc": "0093-3239",
+    "brand_name": "Buprenorphine",
+    "generic_name": "BUPRENORPHINE",
+    "manufacturer_name": "Teva Pharmaceuticals USA, Inc."
+  },
+  {
+    "product_ndc": "68180-658",
+    "brand_name": "rifampin",
+    "generic_name": "RIFAMPIN",
+    "manufacturer_name": "Lupin Pharmaceuticals, Inc."
+  },
+  {
+    "product_ndc": "63323-972",
+    "brand_name": "Fosaprepitant",
+    "generic_name": "FOSAPREPITANT",
+    "manufacturer_name": "Fresenius Kabi USA, LLC"
+  },
+  {
+    "product_ndc": "0941-0409",
+    "brand_name": "DIANEAL Low Calcium with Dextrose",
+    "generic_name": "SODIUM CHLORIDE, SODIUM LACTATE, CALCIUM CHLORIDE, MAGNESIUM CHLORIDE AND DEXTROSE",
+    "manufacturer_name": "Vantive US Healthcare LLC"
+  },
+  {
+    "product_ndc": "55150-183",
+    "brand_name": "NICARDIPINE HYDROCHLORIDE",
+    "generic_name": "NICARDIPINE HYDROCHLORIDE",
+    "manufacturer_name": "Eugia US LLC"
+  },
+  {
+    "product_ndc": "72657-128",
+    "brand_name": "Cetirizine HCl",
+    "generic_name": "CETIRIZINE",
+    "manufacturer_name": "GLENMARK THERAPEUTICS INC., USA"
+  },
+  {
+    "product_ndc": "0555-9123",
+    "brand_name": "Jolessa",
+    "generic_name": "LEVONORGESTREL / ETHINYL ESTRADIOL",
+    "manufacturer_name": "Teva Pharmaceuticals USA, Inc."
+  },
+  {
+    "product_ndc": "47335-631",
+    "brand_name": "Budesonide",
+    "generic_name": "BUDESONIDE",
+    "manufacturer_name": "Sun Pharmaceutical Industries, Inc."
+  },
+  {
+    "product_ndc": "0409-1273",
+    "brand_name": "Diazepam",
+    "generic_name": "DIAZEPAM",
+    "manufacturer_name": "Hospira, Inc."
+  },
+  {
+    "product_ndc": "72288-388",
+    "brand_name": "basic care no drip nasal",
+    "generic_name": "OXYMETAZOLINE HYDROCHLORIDE",
+    "manufacturer_name": "Amazon.com Services LLC"
+  },
+  {
+    "product_ndc": "29300-136",
+    "brand_name": "clonidine hydrochloride",
+    "generic_name": "CLONIDINE HYDROCHLORIDE",
+    "manufacturer_name": "Unichem Pharmaceuticals (USA), Inc."
+  },
+  {
+    "product_ndc": "68180-422",
+    "brand_name": "Moxifloxacin",
+    "generic_name": "MOXIFLOXACIN",
+    "manufacturer_name": "Lupin Pharmaceuticals, Inc."
+  },
+  {
+    "product_ndc": "67457-426",
+    "brand_name": "HALOPERIDOL LACTATE",
+    "generic_name": "HALOPERIDOL LACTATE",
+    "manufacturer_name": "Mylan Institutional LLC"
+  },
+  {
+    "product_ndc": "49035-330",
+    "brand_name": "Nighttime Sleep Aid Alcohol Free",
+    "generic_name": "DIPHENHYDRAMINE HCL",
+    "manufacturer_name": "Wal-Mart Stores Inc"
+  },
+  {
+    "product_ndc": "16729-044",
+    "brand_name": "ATORVASTATIN CALCIUM",
+    "generic_name": "ATORVASTATIN CALCIUM",
+    "manufacturer_name": "Accord Healthcare Inc."
+  },
+  {
+    "product_ndc": "50268-068",
+    "brand_name": "carboxymethylcellulose sodium",
+    "generic_name": "CARBOXYMETHYLCELLULOSE SODIUM",
+    "manufacturer_name": "AvPAK"
+  },
+  {
+    "product_ndc": "0378-3950",
+    "brand_name": "Atorvastatin Calcium",
+    "generic_name": "ATORVASTATIN CALCIUM",
+    "manufacturer_name": "Mylan Pharmaceuticals Inc."
+  },
+  {
+    "product_ndc": "0904-6730",
+    "brand_name": "Acetaminophen",
+    "generic_name": "ACETAMINOPHEN",
+    "manufacturer_name": "Major Pharmaceuticals"
+  },
+  {
+    "product_ndc": "0143-1455",
+    "brand_name": "Phenobarbital",
+    "generic_name": "PHENOBARBITAL",
+    "manufacturer_name": "Hikma Pharmaceuticals USA Inc."
+  },
+  {
+    "product_ndc": "0409-1775",
+    "brand_name": "Dextrose",
+    "generic_name": "DEXTROSE MONOHYDRATE",
+    "manufacturer_name": "Hospira, Inc."
+  },
+  {
+    "product_ndc": "16729-275",
+    "brand_name": "Bivalirudin",
+    "generic_name": "BIVALIRUDIN",
+    "manufacturer_name": "Accord Healthcare, Inc."
+  },
+  {
+    "product_ndc": "0904-7216",
+    "brand_name": "Potassium Chloride",
+    "generic_name": "POTASSIUM CHLORIDE",
+    "manufacturer_name": "Major Pharmaceuticals"
+  },
+  {
+    "product_ndc": "50242-041",
+    "brand_name": "Cathflo Activase",
+    "generic_name": "ALTEPLASE",
+    "manufacturer_name": "Genentech, Inc."
+  },
+  {
+    "product_ndc": "0338-3410",
+    "brand_name": "Clindamycin phosphate",
+    "generic_name": "CLINDAMYCIN PHOSPHATE",
+    "manufacturer_name": "Baxter Healthcare Company"
+  },
+  {
+    "product_ndc": "43598-022",
+    "brand_name": "varenicline tartrate",
+    "generic_name": "VARENICLINE TARTRATE",
+    "manufacturer_name": "Dr. Reddys Laboratories Inc."
+  },
+  {
+    "product_ndc": "62795-4006",
+    "brand_name": "Clearlife Extra Strength",
+    "generic_name": "ONION, GALPHIMIA GLAUCA FLOWERING TOP, HISTAMINE DIHYDROCHLORIDE, LUFFA OPERCULATA FRUIT, SULFUR, AMBROSIA ARTEMISIIFOLIA WHOLE, EUPHRASIA STRICTA AND SCHOENOCAULON OFFICINALE SEED",
+    "manufacturer_name": "MediNatura Inc."
+  },
+  {
+    "product_ndc": "51672-1385",
+    "brand_name": "Ibuprofen",
+    "generic_name": "IBUPROFEN",
+    "manufacturer_name": "Sun Pharmaceutical Industries, Inc."
+  },
+  {
+    "product_ndc": "68382-791",
+    "brand_name": "acyclovir",
+    "generic_name": "ACYCLOVIR",
+    "manufacturer_name": "Zydus Pharmaceuticals (USA) Inc."
+  },
+  {
+    "product_ndc": "69097-142",
+    "brand_name": "ALBUTEROL SULFATE",
+    "generic_name": "ALBUTEROL SULFATE",
+    "manufacturer_name": "Cipla USA Inc."
+  },
+  {
+    "product_ndc": "70069-231",
+    "brand_name": "BRIMONIDINE TARTRATE",
+    "generic_name": "BRIMONIDINE TARTRATE",
+    "manufacturer_name": "Somerset Therapeutics, LLC"
+  },
+  {
+    "product_ndc": "0185-0122",
+    "brand_name": "Nitrofurantoin (monohydrate/macrocrystals)",
+    "generic_name": "NITROFURANTOIN (MONOHYDRATE/MACROCRYSTALS)",
+    "manufacturer_name": "Sandoz Inc"
+  },
+  {
+    "product_ndc": "66689-307",
+    "brand_name": "Mycophenolate Mofetil",
+    "generic_name": "MYCOPHENOLATE MOFETIL",
+    "manufacturer_name": "VistaPharm, LLC"
+  },
+  {
+    "product_ndc": "70710-1129",
+    "brand_name": "Chlorpromazine hydrochloride",
+    "generic_name": "CHLORPROMAZINE HYDROCHLORIDE",
+    "manufacturer_name": "Zydus Pharmaceuticals (USA) Inc."
+  },
+  {
+    "product_ndc": "0591-3508",
+    "brand_name": "Clonidine transdermal system",
+    "generic_name": "CLONIDINE",
+    "manufacturer_name": "Actavis Pharma, Inc."
+  },
+  {
+    "product_ndc": "63323-403",
+    "brand_name": "Fosphenytoin",
+    "generic_name": "FOSPHENYTOIN SODIUM",
+    "manufacturer_name": "Fresenius Kabi USA, LLC"
+  },
+  {
+    "product_ndc": "51407-190",
+    "brand_name": "Ezetimibe and Simvastatin",
+    "generic_name": "EZETIMIBE AND SIMVASTATIN",
+    "manufacturer_name": "Golden State Medical Supply, Inc."
+  },
+  {
+    "product_ndc": "72485-501",
+    "brand_name": "Milrinone Lactate",
+    "generic_name": "MILRINONE LACTATE",
+    "manufacturer_name": "Armas Pharmaceuticals Inc."
+  },
+  {
+    "product_ndc": "63323-161",
+    "brand_name": "Ketorolac Tromethamine",
+    "generic_name": "KETOROLAC TROMETHAMINE",
+    "manufacturer_name": "Fresenius Kabi USA, LLC"
+  },
+  {
+    "product_ndc": "70069-030",
+    "brand_name": "HALOPERIDOL DECANOATE",
+    "generic_name": "HALOPERIDOL DECANOATE",
+    "manufacturer_name": "Somerset Therapeutics, LLC"
+  },
+  {
+    "product_ndc": "50111-450",
+    "brand_name": "Trazodone Hydrochloride",
+    "generic_name": "TRAZODONE HYDROCHLORIDE",
+    "manufacturer_name": "Teva Pharmaceuticals USA, Inc."
+  },
+  {
+    "product_ndc": "60505-2502",
+    "brand_name": "LEFLUNOMIDE",
+    "generic_name": "LEFLUNOMIDE",
+    "manufacturer_name": "Apotex Corp."
+  },
+  {
+    "product_ndc": "70069-161",
+    "brand_name": "Cisatracurium Besylate",
+    "generic_name": "CISATRACURIUM BESYLATE",
+    "manufacturer_name": "Somerset Therapeutics, LLC"
+  },
+  {
+    "product_ndc": "65250-133",
+    "brand_name": "EXPAREL",
+    "generic_name": "BUPIVACAINE",
+    "manufacturer_name": "Pacira Pharmaceuticals, Inc."
+  },
+  {
+    "product_ndc": "10702-010",
+    "brand_name": "Hydroxyzine Hydrochloride",
+    "generic_name": "HYDROXYZINE HYDROCHLORIDE",
+    "manufacturer_name": "KVK-Tech, Inc."
+  },
+  {
+    "product_ndc": "57664-648",
+    "brand_name": "Chlorthalidone",
+    "generic_name": "CHLORTHALIDONE",
+    "manufacturer_name": "Sun Pharmaceutical Industries, Inc."
+  },
+  {
+    "product_ndc": "68180-512",
+    "brand_name": "Lisinopril",
+    "generic_name": "LISINOPRIL",
+    "manufacturer_name": "Lupin Pharmaceuticals, Inc."
+  },
+  {
+    "product_ndc": "0409-4888",
+    "brand_name": "Sodium Chloride",
+    "generic_name": "SODIUM CHLORIDE",
+    "manufacturer_name": "Hospira, Inc."
+  },
+  {
+    "product_ndc": "42794-016",
+    "brand_name": "ASENAPINE",
+    "generic_name": "ASENAPINE",
+    "manufacturer_name": "Sigmapharm Laboratories, LLC"
+  },
+  {
+    "product_ndc": "67877-511",
+    "brand_name": "Atorvastatin Calcium",
+    "generic_name": "ATORVASTATIN CALCIUM",
+    "manufacturer_name": "Ascend Laboratories, LLC"
+  },
+  {
+    "product_ndc": "0338-9644",
+    "brand_name": "PANTOPRAZOLE SODIUM",
+    "generic_name": "PANTOPRAZOLE SODIUM IN 0.9% SODIUM CHLORIDE",
+    "manufacturer_name": "Baxter Healthcare Company"
+  },
+  {
+    "product_ndc": "0555-0886",
+    "brand_name": "Estradiol",
+    "generic_name": "ESTRADIOL",
+    "manufacturer_name": "Teva Pharmaceuticals USA, Inc."
+  },
+  {
+    "product_ndc": "16729-134",
+    "brand_name": "Allopurinol",
+    "generic_name": "ALLOPURINOL",
+    "manufacturer_name": "Accord Healthcare Inc."
+  },
+  {
+    "product_ndc": "47783-101",
+    "brand_name": "Kalbitor",
+    "generic_name": "ECALLANTIDE",
+    "manufacturer_name": "Takeda Pharmaceuticals America, Inc."
+  },
+  {
+    "product_ndc": "0641-0367",
+    "brand_name": "Dexamethasone Sodium Phosphate",
+    "generic_name": "DEXAMETHASONE SODIUM PHOSPHATE",
+    "manufacturer_name": "Hikma Pharmaceuticals USA Inc."
+  },
+  {
+    "product_ndc": "49348-697",
+    "brand_name": "Sunmark Eye Drops Advanced Moisturizer/Lubricant",
+    "generic_name": "DEXTRAN, POLYETHYLENE GLYCOL 400, POVIDONE, TETRAHYDROZOLINE",
+    "manufacturer_name": "Strategic Sourcing Services LLC"
+  },
+  {
+    "product_ndc": "81284-411",
+    "brand_name": "Dihydroergotamine Mesylate",
+    "generic_name": "DIHYDROERGOTAMINE MESYLATE",
+    "manufacturer_name": "Provepharm Inc."
+  },
+  {
+    "product_ndc": "0135-0557",
+    "brand_name": "BIOTENE Fresh Mint Original",
+    "generic_name": "SODIUM FLUORIDE",
+    "manufacturer_name": "Haleon US Holdings LLC"
+  },
+  {
+    "product_ndc": "52925-112",
+    "brand_name": "VCF CONTRACEPTIVE",
+    "generic_name": "NONOXYNOL-9",
+    "manufacturer_name": "APOTHECUS PHARMACEUTICAL CORP."
+  },
+  {
+    "product_ndc": "0093-4067",
+    "brand_name": "Prazosin Hydrochloride",
+    "generic_name": "PRAZOSIN HYDROCHLORIDE",
+    "manufacturer_name": "Teva Pharmaceuticals USA, Inc."
+  },
+  {
+    "product_ndc": "68084-354",
+    "brand_name": "OXYCODONE HYDROCHLORIDE",
+    "generic_name": "OXYCODONE HYDROCHLORIDE",
+    "manufacturer_name": "American Health Packaging"
+  },
+  {
+    "product_ndc": "68001-578",
+    "brand_name": "HALOPERIDOL DECANOATE",
+    "generic_name": "HALOPERIDOL DECANOATE",
+    "manufacturer_name": "BluePoint Laboratories"
+  },
+  {
+    "product_ndc": "0168-0002",
+    "brand_name": "triamcinolone acetonide",
+    "generic_name": "TRIAMCINOLONE ACETONIDE",
+    "manufacturer_name": "E. Fougera & Co. a division of Fougera Pharmaceuticals, LLC"
+  },
+  {
+    "product_ndc": "42494-415",
+    "brand_name": "Phenobarbital Sodium",
+    "generic_name": "PHENOBARBITAL SODIUM",
+    "manufacturer_name": "Cameron Pharmaceuticals"
+  },
+  {
+    "product_ndc": "67172-797",
+    "brand_name": "Clear Eyes Redness Relief",
+    "generic_name": "NAPHAZOLINE HYDROCHLORIDE AND GLYCERIN",
+    "manufacturer_name": "Prestige Brands Holdings, Inc."
+  },
+  {
+    "product_ndc": "56062-106",
+    "brand_name": "Childrens Allergy",
+    "generic_name": "CETIRIZINE HYDROCHLORIDE",
+    "manufacturer_name": "Publix Super Markets Inc"
+  },
+  {
+    "product_ndc": "0409-1555",
+    "brand_name": "Hextend",
+    "generic_name": "HETASTARCH",
+    "manufacturer_name": "Hospira, Inc."
+  },
+  {
+    "product_ndc": "0409-6629",
+    "brand_name": "QUELICIN",
+    "generic_name": "SUCCINYLCHOLINE CHLORIDE",
+    "manufacturer_name": "Hospira, Inc."
+  },
+  {
+    "product_ndc": "0264-9567",
+    "brand_name": "Heparin Sodium in Dextrose",
+    "generic_name": "HEPARIN SODIUM AND DEXTROSE",
+    "manufacturer_name": "B. Braun Medical Inc."
+  },
+  {
+    "product_ndc": "31722-700",
+    "brand_name": "Losartan Potassium",
+    "generic_name": "LOSARTAN POTASSIUM",
+    "manufacturer_name": "Camber Pharmaceuticals, Inc."
+  },
+  {
+    "product_ndc": "51672-1261",
+    "brand_name": "Desoximetasone",
+    "generic_name": "DESOXIMETASONE",
+    "manufacturer_name": "Sun Pharmaceutical Industries, Inc."
+  },
+  {
+    "product_ndc": "60505-4377",
+    "brand_name": "PAXIL CR",
+    "generic_name": "PAROXETINE HYDROCHLORIDE",
+    "manufacturer_name": "Apotex Corp"
+  },
+  {
+    "product_ndc": "0338-0424",
+    "brand_name": "HEPARIN SODIUM IN SODIUM CHLORIDE",
+    "generic_name": "HEPARIN SODIUM",
+    "manufacturer_name": "Baxter Healthcare Corporation"
+  },
+  {
+    "product_ndc": "0002-7510",
+    "brand_name": "Humalog",
+    "generic_name": "INSULIN LISPRO",
+    "manufacturer_name": "Eli Lilly and Company"
+  },
+  {
+    "product_ndc": "70710-1688",
+    "brand_name": "FULVESTRANT",
+    "generic_name": "FULVESTRANT",
+    "manufacturer_name": "Zydus Pharmaceuticals USA Inc."
+  },
+  {
+    "product_ndc": "0074-3346",
+    "brand_name": "Lupron Depot",
+    "generic_name": "LEUPROLIDE ACETATE",
+    "manufacturer_name": "AbbVie Inc."
+  },
+  {
+    "product_ndc": "0591-3331",
+    "brand_name": "Bupropion Hydrochloride XL",
+    "generic_name": "BUPROPION HYDROCHLORIDE",
+    "manufacturer_name": "Actavis Pharma, Inc."
+  },
+  {
+    "product_ndc": "10742-8158",
+    "brand_name": "Rohto Max Strength",
+    "generic_name": "NAPHAZOLINE HYDROCHLORIDE, POLYSORBATE 80",
+    "manufacturer_name": "The Mentholatum Company"
+  },
+  {
+    "product_ndc": "59779-305",
+    "brand_name": "Clotrimazole 1% Athletes Foot",
+    "generic_name": "CLOTRIMAZOLE",
+    "manufacturer_name": "CVS Pharmacy"
+  },
+  {
+    "product_ndc": "0173-0682",
+    "brand_name": "VENTOLIN HFA",
+    "generic_name": "ALBUTEROL SULFATE",
+    "manufacturer_name": "GlaxoSmithKline LLC"
+  },
+  {
+    "product_ndc": "0023-9211",
+    "brand_name": "COMBIGAN",
+    "generic_name": "BRIMONIDINE TARTRATE, TIMOLOL MALEATE",
+    "manufacturer_name": "Allergan, Inc."
+  },
+  {
+    "product_ndc": "67877-590",
+    "brand_name": "Metoprolol Succinate",
+    "generic_name": "METOPROLOL SUCCINATE ER TABLETS",
+    "manufacturer_name": "Ascend Laboratories, LLC"
+  },
+  {
+    "product_ndc": "0409-3977",
+    "brand_name": "Bacteriostatic Water",
+    "generic_name": "BACTERIOSTATIC WATER",
+    "manufacturer_name": "Hospira, Inc."
+  },
+  {
+    "product_ndc": "0409-1207",
+    "brand_name": "Gentamicin Sulfate",
+    "generic_name": "GENTAMICIN SULFATE",
+    "manufacturer_name": "Hospira, Inc."
+  },
+  {
+    "product_ndc": "55111-143",
+    "brand_name": "Fluconazole",
+    "generic_name": "FLUCONAZOLE",
+    "manufacturer_name": "Dr. Reddy's Laboratories Limited"
+  },
+  {
+    "product_ndc": "76075-101",
+    "brand_name": "KYPROLIS",
+    "generic_name": "CARFILZOMIB",
+    "manufacturer_name": "Onyx Pharmaceuticals, Inc."
+  },
+  {
+    "product_ndc": "0406-1170",
+    "brand_name": "NALTREXONE HYDROCHLORIDE",
+    "generic_name": "NALTREXONE HYDROCHLORIDE",
+    "manufacturer_name": "SpecGx LLC"
+  },
+  {
+    "product_ndc": "29300-126",
+    "brand_name": "Bisoprolol Fumarate",
+    "generic_name": "BISOPROLOL FUMARATE",
+    "manufacturer_name": "Unichem Pharmaceuticals (USA), Inc."
+  },
+  {
+    "product_ndc": "0338-0553",
+    "brand_name": "Sodium Chloride",
+    "generic_name": "SODIUM CHLORIDE",
+    "manufacturer_name": "Baxter Healthcare Corporation"
+  },
+  {
+    "product_ndc": "0781-3238",
+    "brand_name": "Enoxaparin Sodium",
+    "generic_name": "ENOXAPARIN SODIUM",
+    "manufacturer_name": "Sandoz Inc"
+  },
+  {
+    "product_ndc": "54482-020",
+    "brand_name": "CYSTARAN",
+    "generic_name": "CYSTEAMINE HYDROCHLORIDE",
+    "manufacturer_name": "Leadiant Biosciences, Inc."
+  },
+  {
+    "product_ndc": "45567-0040",
+    "brand_name": "Kit for the Preparation of Technetium Tc 99M Medronate",
+    "generic_name": "TC 99M MEDRONATE",
+    "manufacturer_name": "Sun Pharmaceutical Industries, Inc."
+  },
+  {
+    "product_ndc": "60505-0564",
+    "brand_name": "Brimonidine Tartrate",
+    "generic_name": "BRIMONIDINE TARTRATE",
+    "manufacturer_name": "Apotex Corp."
+  },
+  {
+    "product_ndc": "60846-301",
+    "brand_name": "NIZATIDINE",
+    "generic_name": "NIZATIDINE",
+    "manufacturer_name": "Amneal Pharmaceuticals LLC"
+  },
+  {
+    "product_ndc": "0093-1712",
+    "brand_name": "Warfarin Sodium",
+    "generic_name": "WARFARIN SODIUM",
+    "manufacturer_name": "Teva Pharmaceuticals USA, Inc."
+  },
+  {
+    "product_ndc": "60687-782",
+    "brand_name": "Bupropion Hydrochloride XL",
+    "generic_name": "BUPROPION HYDROCHLORIDE",
+    "manufacturer_name": "American Health Packaging"
+  },
+  {
+    "product_ndc": "70377-066",
+    "brand_name": "Prazosin hydrochloride",
+    "generic_name": "PRAZOSIN HYDROCHLORIDE",
+    "manufacturer_name": "Biocon Pharma Inc."
+  },
+  {
+    "product_ndc": "54092-189",
+    "brand_name": "Pentasa",
+    "generic_name": "MESALAMINE",
+    "manufacturer_name": "Takeda Pharmaceuticals America, Inc."
+  },
+  {
+    "product_ndc": "0264-1944",
+    "brand_name": "POTASSIUM CHLORIDE",
+    "generic_name": "POTASSIUM CHLORIDE",
+    "manufacturer_name": "B. Braun Medical Inc."
+  },
+  {
+    "product_ndc": "16714-755",
+    "brand_name": "atomoxetine",
+    "generic_name": "ATOMOXETINE",
+    "manufacturer_name": "Northstar Rx LLC"
+  },
+  {
+    "product_ndc": "64406-005",
+    "brand_name": "TECFIDERA",
+    "generic_name": "DIMETHYL FUMARATE",
+    "manufacturer_name": "Biogen Inc."
+  },
+  {
+    "product_ndc": "72888-047",
+    "brand_name": "Acetazolamide",
+    "generic_name": "ACETAZOLAMIDE",
+    "manufacturer_name": "Advagen Pharma Ltd"
+  },
+  {
+    "product_ndc": "49483-602",
+    "brand_name": "Ibuprofen",
+    "generic_name": "IBUPROFEN",
+    "manufacturer_name": "TIME CAP LABORATORIES, INC"
+  },
+  {
+    "product_ndc": "42023-172",
+    "brand_name": "Mycophenolate Mofetil",
+    "generic_name": "MYCOPHENOLATE MOFETIL",
+    "manufacturer_name": "Par Health USA, LLC"
+  },
+  {
+    "product_ndc": "68382-920",
+    "brand_name": "Entecavir",
+    "generic_name": "ENTECAVIR",
+    "manufacturer_name": "Zydus Pharmaceuticals USA Inc."
+  },
+  {
+    "product_ndc": "76282-103",
+    "brand_name": "Diclofenac Sodium",
+    "generic_name": "DICLOFENAC SODIUM",
+    "manufacturer_name": "EXELAN PHARMACEUTICALS INC."
+  },
+  {
+    "product_ndc": "51754-5001",
+    "brand_name": "Sodium Bicarbonate",
+    "generic_name": "SODIUM BICARBONATE",
+    "manufacturer_name": "Exela Pharma Sciences, LLC"
+  },
+  {
+    "product_ndc": "50268-162",
+    "brand_name": "CHLORPROMAZINE HYDROCHLORIDE",
+    "generic_name": "CHLORPROMAZINE HYDROCHLORIDE",
+    "manufacturer_name": "AvPAK"
+  },
+  {
+    "product_ndc": "51672-4069",
+    "brand_name": "Phenytoin",
+    "generic_name": "PHENYTOIN",
+    "manufacturer_name": "Sun Pharmaceutical Industries, Inc."
+  },
+  {
+    "product_ndc": "69238-1615",
+    "brand_name": "Ofloxacin",
+    "generic_name": "OFLOXACIN OTIC",
+    "manufacturer_name": "Amneal Pharmaceuticals NY LLC"
+  },
+  {
+    "product_ndc": "42126-6400",
+    "brand_name": "Oasis Tears PF Preservative-Free Lubricant Eye",
+    "generic_name": "GLYCERIN",
+    "manufacturer_name": "OASIS Medical, Inc."
+  },
+  {
+    "product_ndc": "72485-201",
+    "brand_name": "AZACITIDINE",
+    "generic_name": "AZACITIDINE",
+    "manufacturer_name": "Armas Pharmaceuticals Inc."
+  },
+  {
+    "product_ndc": "0338-0017",
+    "brand_name": "DEXTROSE",
+    "generic_name": "DEXTROSE MONOHYDRATE",
+    "manufacturer_name": "Baxter Healthcare Corporation"
+  },
+  {
+    "product_ndc": "67457-218",
+    "brand_name": "Duraclon",
+    "generic_name": "CLONIDINE HYDROCHLORIDE",
+    "manufacturer_name": "Mylan Institutional LLC"
+  },
+  {
+    "product_ndc": "10361-793",
+    "brand_name": "E-Z-GAS II",
+    "generic_name": "ANTACID/ANTIFLATULENT",
+    "manufacturer_name": "E-Z-EM, INC."
+  },
+  {
+    "product_ndc": "16729-471",
+    "brand_name": "Glycopyrrolate",
+    "generic_name": "GLYCOPYRROLATE",
+    "manufacturer_name": "Accord Healthcare, Inc.,"
+  },
+  {
+    "product_ndc": "55111-682",
+    "brand_name": "IBU",
+    "generic_name": "IBUPROFEN",
+    "manufacturer_name": "Dr. Reddy's Laboratories Limited"
+  },
+  {
+    "product_ndc": "82584-001",
+    "brand_name": "BETIMOL",
+    "generic_name": "TIMOLOL",
+    "manufacturer_name": "Thea Pharma Inc."
+  },
+  {
+    "product_ndc": "72578-102",
+    "brand_name": "Tavaborole",
+    "generic_name": "TAVABOROLE",
+    "manufacturer_name": "Viona Pharmaceuticals Inc"
+  },
+  {
+    "product_ndc": "68180-588",
+    "brand_name": "Ramipril",
+    "generic_name": "RAMIPRIL",
+    "manufacturer_name": "Lupin Pharmaceuticals, Inc."
+  },
+  {
+    "product_ndc": "0054-0282",
+    "brand_name": "Alendronate Sodium",
+    "generic_name": "ALENDRONATE SODIUM",
+    "manufacturer_name": "Hikma Pharmaceuticals USA Inc."
+  },
+  {
+    "product_ndc": "42291-901",
+    "brand_name": "Sunitinib Malate",
+    "generic_name": "SUNITINIB MALATE",
+    "manufacturer_name": "AvKARE"
+  },
+  {
+    "product_ndc": "0597-0270",
+    "brand_name": "Jentadueto XR",
+    "generic_name": "LINAGLIPTIN AND METFORMIN HYDROCHLORIDE",
+    "manufacturer_name": "Boehringer Ingelheim Pharmaceuticals, Inc."
+  },
+  {
+    "product_ndc": "45802-401",
+    "brand_name": "Ciclopirox",
+    "generic_name": "CICLOPIROX",
+    "manufacturer_name": "Padagis Israel Pharmaceuticals Ltd"
+  },
+  {
+    "product_ndc": "59779-534",
+    "brand_name": "CVS Motion Sickness Fast Melting",
+    "generic_name": "MECLIZINE HYDROCHLORIDE",
+    "manufacturer_name": "CVS Pharmacy, Inc."
+  },
+  {
+    "product_ndc": "50268-167",
+    "brand_name": "CHLORTHALIDONE",
+    "generic_name": "CHLORTHALIDONE",
+    "manufacturer_name": "AvPAK"
+  },
+  {
+    "product_ndc": "0185-0022",
+    "brand_name": "Orphenadrine Citrate",
+    "generic_name": "ORPHENADRINE CITRATE",
+    "manufacturer_name": "Sandoz Inc"
+  },
+  {
+    "product_ndc": "36800-495",
+    "brand_name": "TopCare Antifungal",
+    "generic_name": "CLOTRIMAZOLE",
+    "manufacturer_name": "Topco Associates LLC"
+  },
+  {
+    "product_ndc": "68462-408",
+    "brand_name": "propafenone hydrochloride",
+    "generic_name": "PROPAFENONE HYDROCHLORIDE",
+    "manufacturer_name": "Glenmark Pharmaceuticals Inc., USA"
+  },
+  {
+    "product_ndc": "55111-121",
+    "brand_name": "Atorvastatin Calcium",
+    "generic_name": "ATORVASTATIN CALCIUM",
+    "manufacturer_name": "Dr. Reddy's Laboratories Limited"
+  },
+  {
+    "product_ndc": "36800-589",
+    "brand_name": "70% Isopropyl Rubbing Alcohol",
+    "generic_name": "ISOPROPYL RUBBING ALCOHOL",
+    "manufacturer_name": "Topco Associates LLC"
+  },
+  {
+    "product_ndc": "51407-215",
+    "brand_name": "Carbamazepine",
+    "generic_name": "CARBAMAZEPINE",
+    "manufacturer_name": "Golden State Medical Supply, Inc."
+  },
+  {
+    "product_ndc": "52083-655",
+    "brand_name": "G-Supress DX",
+    "generic_name": "DEXTROMETHORPHAN HYDROBROMIDE, GUAIFENESIN, PHENYLEPHRINE HYDROCHLORIDE",
+    "manufacturer_name": "KRAMER NOVIS"
+  },
+  {
+    "product_ndc": "0264-5802",
+    "brand_name": "Sodium Chloride",
+    "generic_name": "SODIUM CHLORIDE",
+    "manufacturer_name": "B. Braun Medical Inc."
+  },
+  {
+    "product_ndc": "68462-878",
+    "brand_name": "Bisoprolol Fumarate and Hydrochlorothiazide",
+    "generic_name": "BISOPROLOL FUMARATE AND HYDROCHLOROTHIAZIDE",
+    "manufacturer_name": "GLENMARK PHARMACEUTICALS INC., USA"
+  },
+  {
+    "product_ndc": "43386-500",
+    "brand_name": "Famotidine",
+    "generic_name": "FAMOTIDINE",
+    "manufacturer_name": "Lupin Pharmaceuticals,Inc."
+  },
+  {
+    "product_ndc": "27241-118",
+    "brand_name": "Fenofibrate",
+    "generic_name": "FENOFIBRATE",
+    "manufacturer_name": "Ajanta Pharma USA Inc."
+  },
+  {
+    "product_ndc": "16729-490",
+    "brand_name": "Dofetilide",
+    "generic_name": "DOFETILIDE",
+    "manufacturer_name": "Accord Healthcare, Inc."
+  },
+  {
+    "product_ndc": "0904-6817",
+    "brand_name": "Midodrine Hydrochloride",
+    "generic_name": "MIDODRINE HYDROCHLORIDE",
+    "manufacturer_name": "Major Pharmaceuticals"
+  },
+  {
+    "product_ndc": "72618-3000",
+    "brand_name": "NURTEC ODT",
+    "generic_name": "RIMEGEPANT SULFATE",
+    "manufacturer_name": "Pfizer Laboratories Div Pfizer Inc"
+  },
+  {
+    "product_ndc": "59762-0057",
+    "brand_name": "Alprazolam XR",
+    "generic_name": "ALPRAZOLAM",
+    "manufacturer_name": "Mylan Pharmaceuticals Inc."
+  },
+  {
+    "product_ndc": "63629-9206",
+    "brand_name": "Cephalexin",
+    "generic_name": "CEPHALEXIN",
+    "manufacturer_name": "Bryant Ranch Prepack"
+  },
+  {
+    "product_ndc": "60687-481",
+    "brand_name": "Buprenorphine",
+    "generic_name": "BUPRENORPHINE",
+    "manufacturer_name": "American Health Packaging"
+  },
+  {
+    "product_ndc": "68382-255",
+    "brand_name": "oxybutynin",
+    "generic_name": "OXYBUTYNIN",
+    "manufacturer_name": "Zydus Pharmaceuticals USA Inc."
+  },
+  {
+    "product_ndc": "37000-134",
+    "brand_name": "Secret Antiperspirant Powder Fresh",
+    "generic_name": "ALUMINUM CHLOROHYDRATE",
+    "manufacturer_name": "The Procter & Gamble Manufacturing Company"
+  },
+  {
+    "product_ndc": "42291-741",
+    "brand_name": "Sodium Flouride",
+    "generic_name": "SODIUM FLUORIDE",
+    "manufacturer_name": "AvKARE"
+  },
+  {
+    "product_ndc": "62756-589",
+    "brand_name": "liothyronine sodium",
+    "generic_name": "LIOTHYRONINE SODIUM",
+    "manufacturer_name": "Sun Pharmaceutical Industries, Inc."
+  },
+  {
+    "product_ndc": "63323-351",
+    "brand_name": "Rifampin",
+    "generic_name": "RIFAMPIN",
+    "manufacturer_name": "Fresenius Kabi USA, LLC"
+  },
+  {
+    "product_ndc": "0409-3793",
+    "brand_name": "Ketorolac Tromethamine",
+    "generic_name": "KETOROLAC TROMETHAMINE",
+    "manufacturer_name": "Hospira, Inc."
+  },
+  {
+    "product_ndc": "41163-703",
+    "brand_name": "equaline nasal",
+    "generic_name": "OXYMETAZOLINE HCL",
+    "manufacturer_name": "United Natural Foods, Inc. dba UNFI"
+  },
+  {
+    "product_ndc": "62756-137",
+    "brand_name": "gabapentin",
+    "generic_name": "GABAPENTIN",
+    "manufacturer_name": "Sun Pharmaceutical Industries, Inc."
+  },
+  {
+    "product_ndc": "49230-530",
+    "brand_name": "Venofer",
+    "generic_name": "IRON SUCROSE",
+    "manufacturer_name": "Fresenius Medical Care Holdings, Inc."
+  },
+  {
+    "product_ndc": "55111-320",
+    "brand_name": "Glimepiride",
+    "generic_name": "GLIMEPIRIDE",
+    "manufacturer_name": "Dr. Reddy's Laboratories Limited"
+  },
+  {
+    "product_ndc": "0603-5335",
+    "brand_name": "Prednisone",
+    "generic_name": "PREDNISONE",
+    "manufacturer_name": "Par Health USA, LLC"
+  },
+  {
+    "product_ndc": "68462-265",
+    "brand_name": "atomoxetine",
+    "generic_name": "ATOMOXETINE",
+    "manufacturer_name": "Glenmark Pharmaceuticals Inc., USA"
+  },
+  {
+    "product_ndc": "47781-640",
+    "brand_name": "levothyroxine sodium",
+    "generic_name": "LEVOTHYROXINE SODIUM",
+    "manufacturer_name": "Alvogen, Inc."
+  },
+  {
+    "product_ndc": "63323-044",
+    "brand_name": "Cyanocobalamin",
+    "generic_name": "CYANOCOBALAMIN",
+    "manufacturer_name": "Fresenius Kabi USA, LLC"
+  },
+  {
+    "product_ndc": "65219-466",
+    "brand_name": "Sodium chloride",
+    "generic_name": "SODIUM CHLORIDE",
+    "manufacturer_name": "Fresenius Kabi USA, LLC"
+  },
+  {
+    "product_ndc": "0781-2321",
+    "brand_name": "Aprepitant",
+    "generic_name": "APREPITANT",
+    "manufacturer_name": "Sandoz Inc"
+  },
+  {
+    "product_ndc": "54365-014",
+    "brand_name": "PurPrep",
+    "generic_name": "POVIDONE IODINE AND ISOPROPYL ALCOHOL",
+    "manufacturer_name": "CareFusion 213 LLC"
+  },
+  {
+    "product_ndc": "23155-893",
+    "brand_name": "Methohexital Sodium",
+    "generic_name": "METHOHEXITAL SODIUM",
+    "manufacturer_name": "Heritage Pharmaceuticals Inc. d/b/a Avet Pharmaceuticals Inc."
+  },
+  {
+    "product_ndc": "68462-321",
+    "brand_name": "ezetimibe and simvastatin",
+    "generic_name": "EZETIMIBE AND SIMVASTATIN",
+    "manufacturer_name": "Glenmark Pharmaceuticals Inc., USA"
+  },
+  {
+    "product_ndc": "63323-461",
+    "brand_name": "SENSORCAINE",
+    "generic_name": "BUPIVACAINE HYDROCHLORIDE AND EPINEPHRINE BITARTRATE",
+    "manufacturer_name": "Fresenius Kabi USA, LLC"
+  },
+  {
+    "product_ndc": "30142-388",
+    "brand_name": "nasal",
+    "generic_name": "OXYMETAZOLINE HCL",
+    "manufacturer_name": "Kroger Company"
+  },
+  {
+    "product_ndc": "11527-162",
+    "brand_name": "Sheffield Triple Antibiotic",
+    "generic_name": "BACITRACIN ZINC, POLYMYXIN B SULFATE, NEOMYCIN SULFATE",
+    "manufacturer_name": "Sheffield Pharmaceuticals LLC"
+  },
+  {
+    "product_ndc": "0409-1159",
+    "brand_name": "Bupivacaine Hydrochloride",
+    "generic_name": "BUPIVACAINE HYDROCHLORIDE",
+    "manufacturer_name": "Hospira, Inc."
+  },
+  {
+    "product_ndc": "17772-101",
+    "brand_name": "Trokendi XR",
+    "generic_name": "TOPIRAMATE",
+    "manufacturer_name": "Supernus Pharmaceuticals, Inc."
+  },
+  {
+    "product_ndc": "55758-039",
+    "brand_name": "Parche Leon",
+    "generic_name": "CAPSAICIN, CAMPHOR, MENTHOL",
+    "manufacturer_name": "Pharmadel LLC"
+  },
+  {
+    "product_ndc": "0093-3560",
+    "brand_name": "PEG-3350, SODIUM SULFATE, SODIUM CHLORIDE, POTASSIUM CHLORIDE, SODIUM ASCORBATE AND ASCORBIC ACID",
+    "generic_name": "PEG-3350, SODIUM SULFATE, SODIUM CHLORIDE, POTASSIUM CHLORIDE, SODIUM ASCORBATE AND ASCORBIC ACID",
+    "manufacturer_name": "Teva Pharmaceuticals USA, Inc."
+  },
+  {
+    "product_ndc": "0990-7972",
+    "brand_name": "Sodium Chloride",
+    "generic_name": "SODIUM CHLORIDE",
+    "manufacturer_name": "ICU Medical Inc."
+  },
+  {
+    "product_ndc": "0264-3123",
+    "brand_name": "Cefoxitin and Dextrose",
+    "generic_name": "CEFOXITIN SODIUM",
+    "manufacturer_name": "B. Braun Medical Inc."
+  },
+  {
+    "product_ndc": "70000-0011",
+    "brand_name": "Leader Artificial Tears 15 mL",
+    "generic_name": "POLYVINYL ALCOHOL, POVIDONE",
+    "manufacturer_name": "Cardinal Health"
+  },
+  {
+    "product_ndc": "55150-237",
+    "brand_name": "DEXAMETHASONE SODIUM PHOSPHATE",
+    "generic_name": "DEXAMETHASONE SODIUM PHOSPHATE",
+    "manufacturer_name": "Eugia US LLC"
+  },
+  {
+    "product_ndc": "69634-020",
+    "brand_name": "Health-Tec Topical Anesthetic",
+    "generic_name": "BENZOCAINE",
+    "manufacturer_name": "Dental Health Products, Inc."
+  },
+  {
+    "product_ndc": "0591-4060",
+    "brand_name": "Desvenlafaxine",
+    "generic_name": "DESVENLAFAXINE",
+    "manufacturer_name": "Actavis Pharma, Inc."
+  },
+  {
+    "product_ndc": "0713-0638",
+    "brand_name": "Ciclopirox Olamine",
+    "generic_name": "CICLOPIROX OLAMINE",
+    "manufacturer_name": "Cosette Pharmaceuticals, Inc."
+  },
+  {
+    "product_ndc": "0955-1003",
+    "brand_name": "Enoxaparin sodium",
+    "generic_name": "ENOXAPARIN SODIUM",
+    "manufacturer_name": "Sanofi-Aventis U.S. LLC"
+  },
+  {
+    "product_ndc": "0536-1234",
+    "brand_name": "Aspirin Low Dose",
+    "generic_name": "ASPIRIN",
+    "manufacturer_name": "Rugby Laboratories"
+  },
+  {
+    "product_ndc": "0009-0775",
+    "brand_name": "Cleocin Phosphate",
+    "generic_name": "CLINDAMYCIN PHOSPHATE",
+    "manufacturer_name": "Pharmacia & Upjohn Company LLC"
+  },
+  {
+    "product_ndc": "69097-410",
+    "brand_name": "CINACALCET",
+    "generic_name": "CINACALCET",
+    "manufacturer_name": "Cipla USA Inc."
+  },
+  {
+    "product_ndc": "67877-445",
+    "brand_name": "Olmesartan Medoxomil",
+    "generic_name": "OLMESARTAN MEDOXOMIL",
+    "manufacturer_name": "Ascend Laboratories, LLC"
+  },
+  {
+    "product_ndc": "68180-405",
+    "brand_name": "CEFIXIME",
+    "generic_name": "CEFIXIME",
+    "manufacturer_name": "Lupin Pharmaceuticals, Inc."
+  },
+  {
+    "product_ndc": "43547-311",
+    "brand_name": "VALSARTAN AND HYDROCHLOROTHIAZIDE",
+    "generic_name": "VALSARTAN AND HYDROCHLOROTHIAZIDE",
+    "manufacturer_name": "Solco Healthcare US, LLC"
+  },
+  {
+    "product_ndc": "16729-288",
+    "brand_name": "Cisplatin",
+    "generic_name": "CISPLATIN",
+    "manufacturer_name": "Accord Healthcare Inc."
+  },
+  {
+    "product_ndc": "69396-086",
+    "brand_name": "Zinc Oxide 20%",
+    "generic_name": "ZINC OXIDE",
+    "manufacturer_name": "Trifecta Pharmaceuticals USA"
+  },
+  {
+    "product_ndc": "24357-011",
+    "brand_name": "Epinephrine Professional",
+    "generic_name": "EPINEPHRINE AND ISOPROPYL ALCOHOL",
+    "manufacturer_name": "Focus Health Group"
+  },
+  {
+    "product_ndc": "46122-741",
+    "brand_name": "Magnesium Citrate",
+    "generic_name": "MAGNESIUM CITRATE",
+    "manufacturer_name": "AMERISOURCE BERGEN"
+  },
+  {
+    "product_ndc": "0143-9850",
+    "brand_name": "Methylprednisolone Sodium Succinate",
+    "generic_name": "METHYLPREDNISOLONE SODIUM SUCCINATE",
+    "manufacturer_name": "Hikma Pharmaceuticals USA Inc."
+  },
+  {
+    "product_ndc": "68180-314",
+    "brand_name": "Imipramine Pamoate",
+    "generic_name": "IMIPRAMINE PAMOATE",
+    "manufacturer_name": "Lupin Pharmaceuticals, Inc."
+  },
+  {
+    "product_ndc": "68968-3410",
+    "brand_name": "Estradiol",
+    "generic_name": "ESTRADIOL",
+    "manufacturer_name": "Noven Therapeutics, LLC"
+  },
+  {
+    "product_ndc": "16571-816",
+    "brand_name": "TEMOZOLOMIDE",
+    "generic_name": "TEMOZOLOMIDE",
+    "manufacturer_name": "Rising Pharma Holdings, Inc."
+  },
+  {
+    "product_ndc": "83698-114",
+    "brand_name": "MGC Health",
+    "generic_name": "COUGH DROPS HONEY",
+    "manufacturer_name": "Xiamen Kang Zhongyuan Biotechnology Co., Ltd."
+  },
+  {
+    "product_ndc": "50090-1494",
+    "brand_name": "METFORMIN HYDROCHLORIDE",
+    "generic_name": "METFORMIN HYDROCHLORIDE",
+    "manufacturer_name": "A-S Medication Solutions"
+  },
+  {
+    "product_ndc": "0378-3224",
+    "brand_name": "candesartan cilexetil",
+    "generic_name": "CANDESARTAN CILEXETIL",
+    "manufacturer_name": "Mylan Pharmaceuticals Inc."
+  },
+  {
+    "product_ndc": "69315-308",
+    "brand_name": "ciprofloxacin",
+    "generic_name": "CIPROFLOXACIN",
+    "manufacturer_name": "Leading Pharma, LLC"
+  },
+  {
+    "product_ndc": "61703-339",
+    "brand_name": "Carboplatin",
+    "generic_name": "CARBOPLATIN",
+    "manufacturer_name": "Hospira, Inc."
+  },
+  {
+    "product_ndc": "68968-0514",
+    "brand_name": "CombiPatch (estradiol/norethindrone acetate transdermal system)",
+    "generic_name": "ESTRADIOL/NORETHINDRONE ACETATE TRANSDERMAL SYSTEM",
+    "manufacturer_name": "Noven Therapeutics, LLC"
+  },
+  {
+    "product_ndc": "79481-0847",
+    "brand_name": "allergy relief",
+    "generic_name": "FEXOFENADINE HYDROCHLORIDE",
+    "manufacturer_name": "Meijer, Inc."
+  },
+  {
+    "product_ndc": "60429-183",
+    "brand_name": "Enalapril Maleate",
+    "generic_name": "ENALAPRIL MALEATE",
+    "manufacturer_name": "Golden State Medical Supply, Inc."
+  },
+  {
+    "product_ndc": "64980-221",
+    "brand_name": "Methylphenidate Hydrochloride",
+    "generic_name": "METHYLPHENIDATE HYDROCHLORIDE",
+    "manufacturer_name": "Rising Pharma Holdings, Inc."
+  },
+  {
+    "product_ndc": "51672-1263",
+    "brand_name": "Nystatin and Triamcinolone Acetonide",
+    "generic_name": "NYSTATIN AND TRIAMCINOLONE ACETONIDE",
+    "manufacturer_name": "Sun Pharmaceutical Industries, Inc."
+  },
+  {
+    "product_ndc": "59417-101",
+    "brand_name": "Vyvanse",
+    "generic_name": "LISDEXAMFETAMINE DIMESYLATE",
+    "manufacturer_name": "Takeda Pharmaceuticals America, Inc."
+  },
+  {
+    "product_ndc": "0409-2344",
+    "brand_name": "DOBUTAMINE",
+    "generic_name": "DOBUTAMINE",
+    "manufacturer_name": "Hospira, Inc."
+  },
+  {
+    "product_ndc": "0362-1098",
+    "brand_name": "Scandonest 3% Plain",
+    "generic_name": "MEPIVACAINE HYDROCHLORIDE",
+    "manufacturer_name": "Septodont, Inc."
+  },
+  {
+    "product_ndc": "31722-627",
+    "brand_name": "Lacosamide",
+    "generic_name": "LACOSAMIDE",
+    "manufacturer_name": "Camber Pharmaceuticals, Inc."
+  },
+  {
+    "product_ndc": "47335-307",
+    "brand_name": "Zolpidem Tartrate",
+    "generic_name": "ZOLPIDEM TARTRATE",
+    "manufacturer_name": "Sun Pharmaceutical Industries, Inc."
+  },
+  {
+    "product_ndc": "0597-0280",
+    "brand_name": "Synjardy XR",
+    "generic_name": "EMPAGLIFLOZIN, METFORMIN HYDROCHLORIDE",
+    "manufacturer_name": "Boehringer Ingelheim Pharmaceuticals, Inc."
+  },
+  {
+    "product_ndc": "50222-501",
+    "brand_name": "TACLONEX",
+    "generic_name": "CALCIPOTRIENE AND BETAMETHASONE DIPROPIONATE",
+    "manufacturer_name": "LEO Pharma Inc."
+  },
+  {
+    "product_ndc": "75826-114",
+    "brand_name": "Phenazopyridine Hydrochloride",
+    "generic_name": "PHENAZOPYRIDINE HYDROCHLORIDE",
+    "manufacturer_name": "Winder Laboratories, LLC"
+  },
+  {
+    "product_ndc": "63010-010",
+    "brand_name": "VIRACEPT",
+    "generic_name": "NELFINAVIR MESYLATE",
+    "manufacturer_name": "AGOURON"
+  },
+  {
+    "product_ndc": "13668-202",
+    "brand_name": "Darifenacin",
+    "generic_name": "DARIFENACIN",
+    "manufacturer_name": "Torrent Pharmaceuticals Limited"
+  },
+  {
+    "product_ndc": "68180-233",
+    "brand_name": "Amlodipine Besylate",
+    "generic_name": "AMLODIPINE BESYLATE",
+    "manufacturer_name": "Lupin Pharmaceuticals, Inc."
+  },
+  {
+    "product_ndc": "0555-0775",
+    "brand_name": "Dextroamphetamine Saccharate, Amphetamine Aspartate, Dextroamphetamine Sulfate and Amphetamine Sulfate",
+    "generic_name": "DEXTROAMPHETAMINE SACCHARATE, AMPHETAMINE ASPARTATE, DEXTROAMPHETAMINE SULFATE AND AMPHETAMINE SULFATE",
+    "manufacturer_name": "Teva Pharmaceuticals USA, Inc."
+  },
+  {
+    "product_ndc": "51672-1386",
+    "brand_name": "Fluocinonide",
+    "generic_name": "FLUOCINONIDE",
+    "manufacturer_name": "Sun Pharmaceutical Industries, Inc."
+  },
+  {
+    "product_ndc": "51079-440",
+    "brand_name": "Levothyroxine Sodium",
+    "generic_name": "LEVOTHYROXINE SODIUM",
+    "manufacturer_name": "Mylan Institutional Inc."
+  },
+  {
+    "product_ndc": "68462-726",
+    "brand_name": "SAXAGLIPTIN",
+    "generic_name": "SAXAGLIPTIN",
+    "manufacturer_name": "Glenmark Pharmaceuticals Inc., USA"
+  },
+  {
+    "product_ndc": "56062-847",
+    "brand_name": "allergy relief",
+    "generic_name": "FEXOFENADINE HYDROCHLORIDE",
+    "manufacturer_name": "Publix Super Markets Inc"
+  },
+  {
+    "product_ndc": "0456-1402",
+    "brand_name": "Bystolic",
+    "generic_name": "NEBIVOLOL HYDROCHLORIDE",
+    "manufacturer_name": "Allergan, Inc."
+  },
+  {
+    "product_ndc": "83698-125",
+    "brand_name": "MGC Health",
+    "generic_name": "COUGH DROPS HONEY SUGAR-FREE",
+    "manufacturer_name": "Xiamen Kang Zhongyuan Biotechnology Co., Ltd."
+  },
+  {
+    "product_ndc": "55150-174",
+    "brand_name": "Azithromycin",
+    "generic_name": "AZITHROMYCIN",
+    "manufacturer_name": "Eugia US LLC"
+  },
+  {
+    "product_ndc": "43386-540",
+    "brand_name": "Morphine Sulfate",
+    "generic_name": "MORPHINE SULFATE",
+    "manufacturer_name": "Lupin Pharmaceuticals,Inc."
+  },
+  {
+    "product_ndc": "0574-0118",
+    "brand_name": "Trospium Chloride ER",
+    "generic_name": "TROSPIUM CHLORIDE",
+    "manufacturer_name": "Padagis US LLC"
+  },
+  {
+    "product_ndc": "0135-0650",
+    "brand_name": "Parodontax Active Gum Health Clear Mint",
+    "generic_name": "CETYLPYRIDINIUM CHLORIDE",
+    "manufacturer_name": "Haleon US Holdings LLC"
+  },
+  {
+    "product_ndc": "70710-1047",
+    "brand_name": "Erythromycin",
+    "generic_name": "ERYTHROMYCIN",
+    "manufacturer_name": "Zydus Pharmaceuticals USA Inc."
+  },
+  {
+    "product_ndc": "68180-650",
+    "brand_name": "DOXYCYCLINE",
+    "generic_name": "DOXYCYCLINE",
+    "manufacturer_name": "Lupin Pharmaceuticals, Inc."
+  },
+  {
+    "product_ndc": "50090-5350",
+    "brand_name": "Acetaminophen",
+    "generic_name": "ACETAMINOPHEN",
+    "manufacturer_name": "A-S Medication Solutions"
+  },
+  {
+    "product_ndc": "16729-004",
+    "brand_name": "simvastatin",
+    "generic_name": "SIMVASTATIN",
+    "manufacturer_name": "Accord Healthcare, Inc."
+  },
+  {
+    "product_ndc": "65862-062",
+    "brand_name": "Metoprolol Tartrate",
+    "generic_name": "METOPROLOL TARTRATE",
+    "manufacturer_name": "Aurobindo Pharma Limited"
+  },
+  {
+    "product_ndc": "60505-0589",
+    "brand_name": "Brimonidine Tartrate/Timolol Maleate Ophthalmic Solution",
+    "generic_name": "BRIMONIDINE TARTRATE AND TIMOLOL MALEATE",
+    "manufacturer_name": "Apotex Corp."
+  },
+  {
+    "product_ndc": "0555-0302",
+    "brand_name": "Hydroxyzine Pamoate",
+    "generic_name": "HYDROXYZINE PAMOATE",
+    "manufacturer_name": "Teva Pharmaceuticals USA, Inc."
+  },
+  {
+    "product_ndc": "68462-520",
+    "brand_name": "METFORMIN HYDROCHLORIDE",
+    "generic_name": "METFORMIN HYDROCHLORIDE",
+    "manufacturer_name": "GLENMARK PHARMACEUTICALS INC., USA"
+  },
+  {
+    "product_ndc": "0264-3193",
+    "brand_name": "CEFEPIME HYDROCHLORIDE AND DEXTROSE",
+    "generic_name": "CEFEPIME HYDROCHLORIDE",
+    "manufacturer_name": "B. Braun Medical Inc."
+  },
+  {
+    "product_ndc": "63323-411",
+    "brand_name": "Midazolam",
+    "generic_name": "MIDAZOLAM HYDROCHLORIDE",
+    "manufacturer_name": "Fresenius Kabi USA, LLC"
+  },
+  {
+    "product_ndc": "43598-313",
+    "brand_name": "Amlodipine besylate and Atorvastatin calcium",
+    "generic_name": "AMLODIPINE BESYLATE AND ATORVASTATIN CALCIUM",
+    "manufacturer_name": "Dr. Reddy's Laboratories Inc"
+  },
+  {
+    "product_ndc": "0310-9080",
+    "brand_name": "AIRSUPRA",
+    "generic_name": "ALBUTEROL SULFATE AND BUDESONIDE",
+    "manufacturer_name": "AstraZeneca Pharmaceuticals LP"
+  },
+  {
+    "product_ndc": "68382-040",
+    "brand_name": "Promethazine Hydrochloride",
+    "generic_name": "PROMETHAZINE HYDROCHLORIDE",
+    "manufacturer_name": "Zydus Pharmaceuticals USA Inc."
+  },
+  {
+    "product_ndc": "0781-3450",
+    "brand_name": "Cefazolin",
+    "generic_name": "CEFAZOLIN",
+    "manufacturer_name": "Sandoz Inc"
+  },
+  {
+    "product_ndc": "23155-290",
+    "brand_name": "Amikacin Sulfate",
+    "generic_name": "AMIKACIN SULFATE",
+    "manufacturer_name": "Heritage Pharmaceuticals Inc. d/b/a Avet Pharmaceuticals Inc."
+  },
+  {
+    "product_ndc": "0002-3182",
+    "brand_name": "Trulicity",
+    "generic_name": "DULAGLUTIDE",
+    "manufacturer_name": "Eli Lilly and Company"
+  },
+  {
+    "product_ndc": "0703-0018",
+    "brand_name": "Hydromorphone Hydrochloride",
+    "generic_name": "HYDROMORPHONE HYDROCHLORIDE",
+    "manufacturer_name": "Teva Parenteral Medicines, Inc."
+  },
+  {
+    "product_ndc": "68382-916",
+    "brand_name": "methylprednisolone",
+    "generic_name": "METHYLPREDNISOLONE",
+    "manufacturer_name": "Zydus Pharmaceuticals USA Inc."
+  },
+  {
+    "product_ndc": "0904-7253",
+    "brand_name": "Dabigatran Etexilate",
+    "generic_name": "DABIGATRAN ETEXILATE",
+    "manufacturer_name": "Major Pharmaceuticals"
+  },
+  {
+    "product_ndc": "0264-7800",
+    "brand_name": "Sodium Chloride",
+    "generic_name": "SODIUM CHLORIDE",
+    "manufacturer_name": "B. Braun Medical Inc."
+  },
+  {
+    "product_ndc": "39822-2000",
+    "brand_name": "Clonidine",
+    "generic_name": "CLONIDINE",
+    "manufacturer_name": "XGen Pharmaceuticals DJB, Inc."
+  },
+  {
+    "product_ndc": "69488-001",
+    "brand_name": "NETSPOT",
+    "generic_name": "68GA-DOTATATE",
+    "manufacturer_name": "Advanced Accelerator Applications USA, Inc"
+  },
+  {
+    "product_ndc": "70710-1191",
+    "brand_name": "Estradiol",
+    "generic_name": "ESTRADIOL",
+    "manufacturer_name": "Zydus Pharmaceuticals USA Inc."
+  },
+  {
+    "product_ndc": "51267-890",
+    "brand_name": "Contrave Extended-Release",
+    "generic_name": "NALTREXONE HYDROCHLORIDE AND BUPROPION HYDROCHLORIDE",
+    "manufacturer_name": "Nalpropion Pharmaceuticals LLC"
+  },
+  {
+    "product_ndc": "55150-203",
+    "brand_name": "Vancomycin Hydrochloride",
+    "generic_name": "VANCOMYCIN HYDROCHLORIDE",
+    "manufacturer_name": "Eugia US LLC"
+  },
+  {
+    "product_ndc": "67777-245",
+    "brand_name": "BZK Pads",
+    "generic_name": "BENZALKONIUM CHLORIDE",
+    "manufacturer_name": "Dynarex Corporation"
+  },
+  {
+    "product_ndc": "68462-317",
+    "brand_name": "Fulvestrant",
+    "generic_name": "FULVESTRANT",
+    "manufacturer_name": "GLENMARK PHARMACEUTICALS INC., USA"
+  },
+  {
+    "product_ndc": "16571-689",
+    "brand_name": "CARBIDOPA, LEVODOPA AND ENTACAPONE",
+    "generic_name": "CARBIDOPA, LEVODOPA AND ENTACAPONE",
+    "manufacturer_name": "Rising Pharma Holdings, Inc."
+  },
+  {
+    "product_ndc": "10742-8141",
+    "brand_name": "Rohto Cool Relief",
+    "generic_name": "NAPHAZOLINE HYDROCHLORIDE, POLYSORBATE 80",
+    "manufacturer_name": "The Mentholatum Company"
+  },
+  {
+    "product_ndc": "43598-635",
+    "brand_name": "Levetiracetam",
+    "generic_name": "LEVETIRACETAM INJECTION",
+    "manufacturer_name": "Dr.Reddy's Laboratories Inc"
+  },
+  {
+    "product_ndc": "65862-037",
+    "brand_name": "Lisinopril",
+    "generic_name": "LISINOPRIL",
+    "manufacturer_name": "Aurobindo Pharma Limited"
+  },
+  {
+    "product_ndc": "0338-0712",
+    "brand_name": "Daptomycin in Sodium Chloride",
+    "generic_name": "DAPTOMYCIN IN SODIUM CHLORIDE",
+    "manufacturer_name": "Baxter Healthcare Corporation"
+  },
+  {
+    "product_ndc": "67877-584",
+    "brand_name": "CEFIXIME",
+    "generic_name": "CEFIXIME",
+    "manufacturer_name": "Ascend Laboratories, LLC"
+  },
+  {
+    "product_ndc": "55111-113",
+    "brand_name": "ZENATANE",
+    "generic_name": "ISOTRETINOIN",
+    "manufacturer_name": "Dr. Reddy's Laboratories Limited"
+  },
+  {
+    "product_ndc": "68001-332",
+    "brand_name": "Lisinopril",
+    "generic_name": "LISINOPRIL",
+    "manufacturer_name": "BluePoint Laboratories"
+  },
+  {
+    "product_ndc": "62756-200",
+    "brand_name": "TIAGABINE HYDROCHLORIDE",
+    "generic_name": "TIAGABINE HYDROCHLORIDE",
+    "manufacturer_name": "Sun Pharmaceutical Industries, Inc."
+  },
+  {
+    "product_ndc": "65862-419",
+    "brand_name": "Sulfamethoxazole and Trimethoprim",
+    "generic_name": "SULFAMETHOXAZOLE AND TRIMETHOPRIM",
+    "manufacturer_name": "Aurobindo Pharma Limited"
+  },
+  {
+    "product_ndc": "33342-060",
+    "brand_name": "Clopidogrel",
+    "generic_name": "CLOPIDOGREL",
+    "manufacturer_name": "Macleods Pharmaceuticals Limited"
+  },
+  {
+    "product_ndc": "55154-3558",
+    "brand_name": "Levothyroxine Sodium",
+    "generic_name": "LEVOTHYROXINE SODIUM",
+    "manufacturer_name": "Cardinal Health 107, LLC"
+  },
+  {
+    "product_ndc": "60793-850",
+    "brand_name": "LEVOXYL",
+    "generic_name": "LEVOTHYROXINE SODIUM",
+    "manufacturer_name": "Pfizer Laboratories Div Pfizer Inc"
+  },
+  {
+    "product_ndc": "42291-366",
+    "brand_name": "Lamotrigine",
+    "generic_name": "LAMOTRIGINE",
+    "manufacturer_name": "AvKARE"
+  },
+  {
+    "product_ndc": "63323-626",
+    "brand_name": "Sodium chloride",
+    "generic_name": "SODIUM CHLORIDE",
+    "manufacturer_name": "Fresenius Kabi USA, LLC"
+  },
+  {
+    "product_ndc": "67919-030",
+    "brand_name": "ZERBAXA",
+    "generic_name": "CEFTOLOZANE AND TAZOBACTAM",
+    "manufacturer_name": "Merck Sharp & Dohme LLC"
+  },
+  {
+    "product_ndc": "60687-423",
+    "brand_name": "Clobazam",
+    "generic_name": "CLOBAZAM",
+    "manufacturer_name": "American Health Packaging"
+  },
+  {
+    "product_ndc": "68180-440",
+    "brand_name": "cephalexin",
+    "generic_name": "CEPHALEXIN",
+    "manufacturer_name": "Lupin Pharmaceuticals, Inc."
+  },
+  {
+    "product_ndc": "78670-003",
+    "brand_name": "Revonto",
+    "generic_name": "DANTROLENE SODIUM",
+    "manufacturer_name": "USWM, LLC"
+  },
+  {
+    "product_ndc": "0069-0468",
+    "brand_name": "CHANTIX",
+    "generic_name": "VARENICLINE TARTRATE",
+    "manufacturer_name": "Pfizer Laboratories Div Pfizer Inc"
+  },
+  {
+    "product_ndc": "0378-2045",
+    "brand_name": "Tacrolimus",
+    "generic_name": "TACROLIMUS",
+    "manufacturer_name": "Mylan Pharmaceuticals Inc."
+  },
+  {
+    "product_ndc": "51862-295",
+    "brand_name": "FABIOR",
+    "generic_name": "TAZAROTENE",
+    "manufacturer_name": "Mayne Pharma"
+  },
+  {
+    "product_ndc": "50242-078",
+    "brand_name": "Susvimo",
+    "generic_name": "RANIBIZUMAB",
+    "manufacturer_name": "Genentech, Inc."
+  },
+  {
+    "product_ndc": "68462-195",
+    "brand_name": "Pravastatin Sodium",
+    "generic_name": "PRAVASTATIN SODIUM",
+    "manufacturer_name": "Glenmark Pharmaceuticals Inc., USA"
+  },
+  {
+    "product_ndc": "68180-904",
+    "brand_name": "Tydemy",
+    "generic_name": "DROSPIRENONE, ETHINYL ESTRADIOL AND LEVOMEFOLATE CALCIUM AND LEVOMEFOLATE CALCIUM",
+    "manufacturer_name": "Lupin Pharmaceuticals, Inc."
+  },
+  {
+    "product_ndc": "0409-1283",
+    "brand_name": "Hydromorphone Hydrochloride",
+    "generic_name": "HYDROMORPHONE HYDROCHLORIDE",
+    "manufacturer_name": "Hospira, Inc."
+  },
+  {
+    "product_ndc": "51991-746",
+    "brand_name": "Duloxetine Delayed-Release",
+    "generic_name": "DULOXETINE HYDROCHLORIDE",
+    "manufacturer_name": "Breckenridge Pharmaceutical, Inc."
+  },
+  {
+    "product_ndc": "61703-350",
+    "brand_name": "Methotrexate",
+    "generic_name": "METHOTREXATE",
+    "manufacturer_name": "Hospira, Inc."
+  },
+  {
+    "product_ndc": "59390-198",
+    "brand_name": "Altalube",
+    "generic_name": "MINERAL OIL AND PETROLATUM",
+    "manufacturer_name": "Altaire Pharmaceuticals Inc."
+  },
+  {
+    "product_ndc": "51655-473",
+    "brand_name": "Tadalafil",
+    "generic_name": "TADALAFIL",
+    "manufacturer_name": "Northwind Health Company, LLC"
+  },
+  {
+    "product_ndc": "0074-0038",
+    "brand_name": "Orilissa",
+    "generic_name": "ELAGOLIX",
+    "manufacturer_name": "AbbVie Inc."
+  },
+  {
+    "product_ndc": "55150-234",
+    "brand_name": "Polymyxin B",
+    "generic_name": "POLYMYXIN B",
+    "manufacturer_name": "Eugia US LLC"
+  },
+  {
+    "product_ndc": "45802-088",
+    "brand_name": "albuterol sulfate",
+    "generic_name": "ALBUTEROL SULFATE",
+    "manufacturer_name": "Padagis Israel Pharmaceuticals Ltd"
+  },
+  {
+    "product_ndc": "61314-672",
+    "brand_name": "Gatifloxacin",
+    "generic_name": "GATIFLOXACIN",
+    "manufacturer_name": "Sandoz Inc"
+  },
+  {
+    "product_ndc": "72426-818",
+    "brand_name": "Nexlizet",
+    "generic_name": "BEMPEDOIC ACID AND EZETIMIBE",
+    "manufacturer_name": "Esperion Therapeutics, Inc."
+  },
+  {
+    "product_ndc": "32909-764",
+    "brand_name": "E-Z-HD",
+    "generic_name": "BARIUM SULFATE",
+    "manufacturer_name": "E-Z-EM Canada Inc"
+  },
+  {
+    "product_ndc": "60429-734",
+    "brand_name": "PAROXETINE",
+    "generic_name": "PAROXETINE HYDROCHLORIDE",
+    "manufacturer_name": "Golden State Medical Supply, Inc."
+  },
+  {
+    "product_ndc": "52083-650",
+    "brand_name": "GENCONTUSS",
+    "generic_name": "CHLORPHENIRAMINE MALEATE, DEXTROMETHORPHAN HYDROBROMIDE, PHENYLEPHRINE HYDROCHLORIDE",
+    "manufacturer_name": "KRAMER NOVIS"
+  },
+  {
+    "product_ndc": "0187-0146",
+    "brand_name": "Vaseretic",
+    "generic_name": "ENALAPRIL MALEATE AND HYDROCHLOROTHIAZIDE",
+    "manufacturer_name": "Bausch Health US, LLC"
+  },
+  {
+    "product_ndc": "67777-407",
+    "brand_name": "Dynashield",
+    "generic_name": "ZINC OXIDE",
+    "manufacturer_name": "Dynarex Corporation"
+  },
+  {
+    "product_ndc": "55150-306",
+    "brand_name": "Progesterone",
+    "generic_name": "PROGESTERONE",
+    "manufacturer_name": "Eugia US LLC"
+  },
+  {
+    "product_ndc": "65174-270",
+    "brand_name": "DRAXIMAGE MAA",
+    "generic_name": "KIT FOR THE PREPARATION OF TECHNETIUM TC 99M ALBUMIN AGGREGATED",
+    "manufacturer_name": "Jubilant DraxImage Inc"
+  },
+  {
+    "product_ndc": "0135-0094",
+    "brand_name": "GAVISCON",
+    "generic_name": "ALUMINUM HYDROXIDE AND MAGNESIUM CARBONATE",
+    "manufacturer_name": "Haleon US Holdings LLC"
+  },
+  {
+    "product_ndc": "60505-1003",
+    "brand_name": "Ketorolac Tromethamine",
+    "generic_name": "KETOROLAC TROMETHAMINE",
+    "manufacturer_name": "Apotex Corp."
+  },
+  {
+    "product_ndc": "51801-003",
+    "brand_name": "GloStrips",
+    "generic_name": "FLUORESCEIN SODIUM",
+    "manufacturer_name": "Nomax Inc."
+  },
+  {
+    "product_ndc": "53489-143",
+    "brand_name": "SPIRONOLACTONE",
+    "generic_name": "SPIRONOLACTONE",
+    "manufacturer_name": "Sun Pharmaceutical Industries, Inc."
+  },
+  {
+    "product_ndc": "17312-430",
+    "brand_name": "Gentle Eyes Lubricant Eye Drops",
+    "generic_name": "CARBOXYMETHYLCELLULOSE SODIUM",
+    "manufacturer_name": "TRP Company"
+  },
+  {
+    "product_ndc": "0536-1261",
+    "brand_name": "Rugby Benzoyl Peroxide Wash Acne Medication",
+    "generic_name": "BENZOYL PEROXIDE",
+    "manufacturer_name": "Rugby Laboratories"
+  },
+  {
+    "product_ndc": "0409-0010",
+    "brand_name": "PROPOFOL",
+    "generic_name": "PROPOFOL",
+    "manufacturer_name": "Hospira, Inc."
+  },
+  {
+    "product_ndc": "43598-097",
+    "brand_name": "JAVYGTOR",
+    "generic_name": "SAPROPTERIN DIHYDROCHLORIDE",
+    "manufacturer_name": "Dr. Reddys Laboratories Inc"
+  },
+  {
+    "product_ndc": "62756-520",
+    "brand_name": "sumatriptan succinate",
+    "generic_name": "SUMATRIPTAN SUCCINATE",
+    "manufacturer_name": "Sun Pharmaceutical Industries, Inc."
+  },
+  {
+    "product_ndc": "63868-026",
+    "brand_name": "Quality Choice Earwax Removal Kit",
+    "generic_name": "CARBAMIDE PEROXIDE",
+    "manufacturer_name": "Chain Drug Marketing Association, Inc."
+  },
+  {
+    "product_ndc": "68180-150",
+    "brand_name": "Famotidine",
+    "generic_name": "FAMOTIDINE",
+    "manufacturer_name": "Lupin Pharmaceuticals, Inc."
+  },
+  {
+    "product_ndc": "63323-451",
+    "brand_name": "Morphine Sulfate",
+    "generic_name": "MORPHINE SULFATE",
+    "manufacturer_name": "Fresenius Kabi USA, LLC"
+  },
+  {
+    "product_ndc": "11523-4357",
+    "brand_name": "MiraLAX",
+    "generic_name": "POLYETHYLENE GLYCOL 3350",
+    "manufacturer_name": "Bayer HealthCare LLC."
+  },
+  {
+    "product_ndc": "55150-111",
+    "brand_name": "Ampicillin",
+    "generic_name": "AMPICILLIN SODIUM",
+    "manufacturer_name": "Eugia US LLC"
+  },
+  {
+    "product_ndc": "43547-330",
+    "brand_name": "Irbesartan and Hydrochlorothiazide",
+    "generic_name": "IRBESARTAN AND HYDROCHLOROTHIAZIDE",
+    "manufacturer_name": "Solco Healthcare US, LLC"
+  },
+  {
+    "product_ndc": "0169-2800",
+    "brand_name": "Saxenda",
+    "generic_name": "LIRAGLUTIDE",
+    "manufacturer_name": "Novo Nordisk Pharmaceutical Industries, LP"
+  },
+  {
+    "product_ndc": "11822-3644",
+    "brand_name": "EAR CARE EARACHE DROPS",
+    "generic_name": "ATROPA BELLADONNA, ANEMONE PULSATILLA, LYCOPODIUM CLAVATUM SPORE, MATRICARIA CHAMOMILLA, AND SULFUR",
+    "manufacturer_name": "Rite Aid Corporation"
+  },
+  {
+    "product_ndc": "0054-0017",
+    "brand_name": "PredniSONE",
+    "generic_name": "PREDNISONE",
+    "manufacturer_name": "Hikma Pharmaceuticals USA Inc."
+  },
+  {
+    "product_ndc": "0409-7332",
+    "brand_name": "Ceftriaxone Sodium",
+    "generic_name": "CEFTRIAXONE SODIUM",
+    "manufacturer_name": "Hospira, Inc"
+  },
+  {
+    "product_ndc": "0065-8064",
+    "brand_name": "GenTeal Tears Severe",
+    "generic_name": "HYPROMELLOSE",
+    "manufacturer_name": "Alcon Laboratories, Inc."
+  },
+  {
+    "product_ndc": "33342-044",
+    "brand_name": "Losartan potassium",
+    "generic_name": "LOSARTAN POTASSIUM",
+    "manufacturer_name": "Macleods Pharmaceuticals Limited"
+  },
+  {
+    "product_ndc": "55910-511",
+    "brand_name": "DG Health Nasal",
+    "generic_name": "OXYMETAZOLINE HYDROCHLORIDE",
+    "manufacturer_name": "Dolgencorp, LLC"
+  },
+  {
+    "product_ndc": "46122-043",
+    "brand_name": "Good Neighbor Pharmacy Alcohol Antiseptic Skin Cleanser",
+    "generic_name": "ISOPROPYL ALCOHOL",
+    "manufacturer_name": "Amerisouce Bergen"
+  },
+  {
+    "product_ndc": "42291-905",
+    "brand_name": "Pitavastatin",
+    "generic_name": "PITAVASTATIN CALCIUM",
+    "manufacturer_name": "AvKARE"
+  },
+  {
+    "product_ndc": "0904-0430",
+    "brand_name": "Doxycycline Hyclate",
+    "generic_name": "DOXYCYCLINE HYCLATE",
+    "manufacturer_name": "Major Pharmaceuticals"
+  },
+  {
+    "product_ndc": "0904-3854",
+    "brand_name": "CARBAMAZEPINE",
+    "generic_name": "CARBAMAZEPINE",
+    "manufacturer_name": "Major Pharmaceuticals"
+  },
+  {
+    "product_ndc": "68180-518",
+    "brand_name": "Lisinopril and Hydrochlorothiazide",
+    "generic_name": "LISINOPRIL AND HYDROCHLOROTHIAZIDE",
+    "manufacturer_name": "Lupin Pharmaceuticals, Inc."
+  },
+  {
+    "product_ndc": "66869-104",
+    "brand_name": "Livalo",
+    "generic_name": "PITAVASTATIN CALCIUM",
+    "manufacturer_name": "Kowa Pharmaceuticals America, Inc."
+  },
+  {
+    "product_ndc": "68462-638",
+    "brand_name": "Nitroglycerin",
+    "generic_name": "NITROGLYCERIN",
+    "manufacturer_name": "Glenmark Pharmaceuticals Inc., USA"
+  },
+  {
+    "product_ndc": "31722-726",
+    "brand_name": "MONTELUKAST SODIUM",
+    "generic_name": "MONTELUKAST SODIUM",
+    "manufacturer_name": "Camber Pharmaceuticals, Inc."
+  },
+  {
+    "product_ndc": "0187-0006",
+    "brand_name": "Cabtreo",
+    "generic_name": "CLINDAMYCIN PHOSPHATE/BENZOYL PEROXIDE/ADAPALENE",
+    "manufacturer_name": "Bausch Health US LLC"
+  },
+  {
+    "product_ndc": "13668-453",
+    "brand_name": "anagrelide",
+    "generic_name": "ANAGRELIDE",
+    "manufacturer_name": "Torrent Pharmaceuticals Limited"
+  },
+  {
+    "product_ndc": "45802-049",
+    "brand_name": "Triamcinolone Acetonide",
+    "generic_name": "TRIAMCINOLONE ACETONIDE",
+    "manufacturer_name": "Padagis Israel Pharmaceuticals Ltd"
+  },
+  {
+    "product_ndc": "42023-179",
+    "brand_name": "Buprenorphine Hydrochloride",
+    "generic_name": "BUPRENORPHINE HYDROCHLORIDE",
+    "manufacturer_name": "Par Health USA, LLC"
+  },
+  {
+    "product_ndc": "16714-558",
+    "brand_name": "Pravastatin Sodium",
+    "generic_name": "PRAVASTATIN SODIUM",
+    "manufacturer_name": "NorthStar RxLLC"
+  },
+  {
+    "product_ndc": "45802-004",
+    "brand_name": "Hydrocortisone",
+    "generic_name": "HYDROCORTISONE",
+    "manufacturer_name": "Padagis Israel Pharmaceuticals Ltd"
+  },
+  {
+    "product_ndc": "43598-349",
+    "brand_name": "Progesterone",
+    "generic_name": "PROGESTERONE",
+    "manufacturer_name": "Dr. Reddys Laboratories, Inc."
+  },
+  {
+    "product_ndc": "10122-610",
+    "brand_name": "Cleviprex",
+    "generic_name": "CLEVIPIDINE",
+    "manufacturer_name": "Chiesi USA, Inc."
+  },
+  {
+    "product_ndc": "36800-766",
+    "brand_name": "topcare infants pain and fever",
+    "generic_name": "ACETAMINOPHEN",
+    "manufacturer_name": "Topco Associates LLC"
+  },
+  {
+    "product_ndc": "49873-404",
+    "brand_name": "Sankaijo",
+    "generic_name": "DOCUSATE SODIUM, SENNOSIDES",
+    "manufacturer_name": "Sato Pharmaceutical Co., Ltd."
+  },
+  {
+    "product_ndc": "70710-1643",
+    "brand_name": "Verapamil Hydrochloride",
+    "generic_name": "VERAPAMIL HYDROCHLORIDE",
+    "manufacturer_name": "Zydus Pharmaceuticals USA Inc."
+  },
+  {
+    "product_ndc": "0228-4019",
+    "brand_name": "Alprazolam",
+    "generic_name": "ALPRAZOLAM",
+    "manufacturer_name": "Actavis Pharma, Inc."
+  },
+  {
+    "product_ndc": "23155-227",
+    "brand_name": "ACYCLOVIR",
+    "generic_name": "ACYCLOVIR",
+    "manufacturer_name": "Heritage Pharmaceuticals Inc. d/b/a Avet Pharmaceuticals Inc."
+  },
+  {
+    "product_ndc": "67877-476",
+    "brand_name": "Fingolimod",
+    "generic_name": "FINGOLIMOD HYDROCHLORIDE",
+    "manufacturer_name": "Ascend Laboratories, LLC"
+  },
+  {
+    "product_ndc": "10742-8175",
+    "brand_name": "Rohto Digi-Eye",
+    "generic_name": "HYPROMELLOSE, TETRAHYDROZOLINE HYDROCHLORIDE",
+    "manufacturer_name": "The Mentholatum Company"
+  },
+  {
+    "product_ndc": "68382-034",
+    "brand_name": "venlafaxine hydrochloride",
+    "generic_name": "VENLAFAXINE HYDROCHLORIDE",
+    "manufacturer_name": "Zydus Pharmaceuticals USA Inc."
+  },
+  {
+    "product_ndc": "68462-580",
+    "brand_name": "fenofibrate",
+    "generic_name": "FENOFIBRATE",
+    "manufacturer_name": "Glenmark Pharmaceuticals Inc., USA"
+  },
+  {
+    "product_ndc": "0338-0703",
+    "brand_name": "Potassium Chloride",
+    "generic_name": "POTASSIUM CHLORIDE",
+    "manufacturer_name": "Baxter Healthcare Corporation"
+  },
+  {
+    "product_ndc": "60219-2348",
+    "brand_name": "Tramadol Hydrochloride",
+    "generic_name": "TRAMADOL HYDROCHLORIDE",
+    "manufacturer_name": "Amneal Pharmaceuticals NY LLC"
+  },
+  {
+    "product_ndc": "69097-934",
+    "brand_name": "Lanthanum carbonate",
+    "generic_name": "LANTHANUM CARBONATE",
+    "manufacturer_name": "Cipla USA Inc."
+  },
+  {
+    "product_ndc": "55111-688",
+    "brand_name": "Zoledronic Acid",
+    "generic_name": "ZOLEDRONIC ACID",
+    "manufacturer_name": "Dr.Reddy's Laboratories Ltd"
+  },
+  {
+    "product_ndc": "67386-211",
+    "brand_name": "SABRIL",
+    "generic_name": "VIGABATRIN",
+    "manufacturer_name": "Lundbeck Pharmaceuticals LLC"
+  },
+  {
+    "product_ndc": "0924-7116",
+    "brand_name": "First Aid Only BZK Antiseptic",
+    "generic_name": "BENZALKONIUM CHLORIDE",
+    "manufacturer_name": "Acme United Corporation"
+  },
+  {
+    "product_ndc": "0591-3525",
+    "brand_name": "Lidocaine",
+    "generic_name": "LIDOCAINE",
+    "manufacturer_name": "Actavis Pharma, Inc."
+  },
+  {
+    "product_ndc": "0071-0237",
+    "brand_name": "Zarontin",
+    "generic_name": "ETHOSUXIMIDE",
+    "manufacturer_name": "Parke-Davis Div of Pfizer Inc"
+  },
+  {
+    "product_ndc": "61755-005",
+    "brand_name": "EYLEA",
+    "generic_name": "AFLIBERCEPT",
+    "manufacturer_name": "Regeneron Pharmaceuticals, Inc."
+  },
+  {
+    "product_ndc": "0093-1177",
+    "brand_name": "Neomycin Sulfate",
+    "generic_name": "NEOMYCIN SULFATE",
+    "manufacturer_name": "Teva Pharmaceuticals USA, Inc."
+  },
+  {
+    "product_ndc": "63824-015",
+    "brand_name": "Mucinex Fast-Max Cold, Flu and Sore Throat",
+    "generic_name": "ACETAMINOPHEN, DEXTROMETHORPHAN HYDROBROMIDE, GUAIFENESIN, AND PHENYLEPHRINE HYDROCHLORIDE",
+    "manufacturer_name": "Reckitt Benckiser LLC"
+  },
+  {
+    "product_ndc": "43547-374",
+    "brand_name": "Irbesartan",
+    "generic_name": "IRBESARTAN",
+    "manufacturer_name": "Solco Healthcare U.S., LLC"
+  },
+  {
+    "product_ndc": "0074-9036",
+    "brand_name": "Zemplar",
+    "generic_name": "PARICALCITOL",
+    "manufacturer_name": "AbbVie Inc."
+  },
+  {
+    "product_ndc": "68180-294",
+    "brand_name": "Duloxetine",
+    "generic_name": "DULOXETINE",
+    "manufacturer_name": "Lupin Pharmaceuticals, Inc."
+  },
+  {
+    "product_ndc": "0093-4175",
+    "brand_name": "Cephalexin",
+    "generic_name": "CEPHALEXIN",
+    "manufacturer_name": "Teva Pharmaceuticals USA, Inc."
+  },
+  {
+    "product_ndc": "62756-183",
+    "brand_name": "Oxcarbazepine",
+    "generic_name": "OXCARBAZEPINE",
+    "manufacturer_name": "Sun Pharmaceutical Industries, Inc."
+  },
+  {
+    "product_ndc": "57894-640",
+    "brand_name": "TREMFYA",
+    "generic_name": "GUSELKUMAB",
+    "manufacturer_name": "Janssen Biotech, Inc."
+  },
+  {
+    "product_ndc": "13107-058",
+    "brand_name": "Acetaminophen and Codeine Phosphate",
+    "generic_name": "ACETAMINOPHEN AND CODEINE PHOSPHATE",
+    "manufacturer_name": "Aurolife Pharma, LLC"
+  },
+  {
+    "product_ndc": "23155-048",
+    "brand_name": "FELODIPINE",
+    "generic_name": "FELODIPINE",
+    "manufacturer_name": "Heritage Pharmaceuticals Inc. d/b/a Avet Pharmaceuticals Inc."
+  },
+  {
+    "product_ndc": "0591-2924",
+    "brand_name": "Testosterone",
+    "generic_name": "TESTOSTERONE",
+    "manufacturer_name": "Actavis Pharma, Inc."
+  },
+  {
+    "product_ndc": "0904-6665",
+    "brand_name": "Gabapentin",
+    "generic_name": "GABAPENTIN",
+    "manufacturer_name": "Major Pharmaceuticals"
+  },
+  {
+    "product_ndc": "45963-303",
+    "brand_name": "dextroamphetamine sulfate",
+    "generic_name": "DEXTROAMPHETAMINE SULFATE",
+    "manufacturer_name": "Actavis Pharma, Inc."
+  },
+  {
+    "product_ndc": "16729-001",
+    "brand_name": "Glimepiride",
+    "generic_name": "GLIMEPIRIDE",
+    "manufacturer_name": "Accord Healthcare Inc"
+  },
+  {
+    "product_ndc": "70748-153",
+    "brand_name": "Penicillamine",
+    "generic_name": "PENICILLAMINE",
+    "manufacturer_name": "Lupin Pharmaceuticals, Inc."
+  },
+  {
+    "product_ndc": "11523-4162",
+    "brand_name": "Tinactin Antifungal",
+    "generic_name": "TOLNAFTATE",
+    "manufacturer_name": "Bayer HealthCare LLC."
+  },
+  {
+    "product_ndc": "16729-278",
+    "brand_name": "ARIPIPRAZOLE",
+    "generic_name": "ARIPIPRAZOLE",
+    "manufacturer_name": "Accord Healthcare, Inc."
+  },
+  {
+    "product_ndc": "50111-647",
+    "brand_name": "Fluoxetine",
+    "generic_name": "FLUOXETINE",
+    "manufacturer_name": "Teva Pharmaceuticals USA, Inc."
+  },
+  {
+    "product_ndc": "16729-182",
+    "brand_name": "Hydrochlorothiazide",
+    "generic_name": "HYDROCHLOROTHIAZIDE",
+    "manufacturer_name": "Accord Healthcare Inc."
+  },
+  {
+    "product_ndc": "0024-5924",
+    "brand_name": "ADMELOG",
+    "generic_name": "INSULIN LISPRO",
+    "manufacturer_name": "Sanofi-Aventis U.S. LLC"
+  },
+  {
+    "product_ndc": "16729-119",
+    "brand_name": "Montelukast Sodium",
+    "generic_name": "MONTELUKAST SODIUM",
+    "manufacturer_name": "Accord Healthcare Inc."
+  },
+  {
+    "product_ndc": "55037-302",
+    "brand_name": "Air",
+    "generic_name": "AIR",
+    "manufacturer_name": "Matheson Tri-Gas, Inc."
+  },
+  {
+    "product_ndc": "0338-0063",
+    "brand_name": "DOXIL",
+    "generic_name": "DOXORUBICIN HYDROCHLORIDE",
+    "manufacturer_name": "Baxter Healthcare Company"
+  },
+  {
+    "product_ndc": "63004-8710",
+    "brand_name": "Acthar",
+    "generic_name": "REPOSITORY CORTICOTROPIN",
+    "manufacturer_name": "Keenova ARD LLC"
+  },
+  {
+    "product_ndc": "65862-198",
+    "brand_name": "Gabapentin",
+    "generic_name": "GABAPENTIN",
+    "manufacturer_name": "Aurobindo Pharma Limited"
+  },
+  {
+    "product_ndc": "65862-570",
+    "brand_name": "Valsartan",
+    "generic_name": "VALSARTAN",
+    "manufacturer_name": "Aurobindo Pharma Limited"
+  },
+  {
+    "product_ndc": "68462-162",
+    "brand_name": "Carvedilol",
+    "generic_name": "CARVEDILOL",
+    "manufacturer_name": "Glenmark Pharmaceuticals Inc., USA"
+  },
+  {
+    "product_ndc": "0904-6823",
+    "brand_name": "Gabapentin",
+    "generic_name": "GABAPENTIN",
+    "manufacturer_name": "Major Pharmaceuticals"
+  },
+  {
+    "product_ndc": "42023-182",
+    "brand_name": "Argatroban",
+    "generic_name": "ARGATROBAN",
+    "manufacturer_name": "Par Health USA, LLC"
+  },
+  {
+    "product_ndc": "61703-323",
+    "brand_name": "Bleomycin",
+    "generic_name": "BLEOMYCIN",
+    "manufacturer_name": "Hospira, Inc."
+  },
+  {
+    "product_ndc": "0173-0869",
+    "brand_name": "Anoro Ellipta",
+    "generic_name": "UMECLIDINIUM BROMIDE AND VILANTEROL TRIFENATATE",
+    "manufacturer_name": "GlaxoSmithKline LLC"
+  },
+  {
+    "product_ndc": "63323-101",
+    "brand_name": "Doxorubicin Hydrochloride",
+    "generic_name": "DOXORUBICIN HYDROCHLORIDE",
+    "manufacturer_name": "Fresenius Kabi USA, LLC"
+  },
+  {
+    "product_ndc": "68084-149",
+    "brand_name": "Methylprednisolone",
+    "generic_name": "METHYLPREDNISOLONE",
+    "manufacturer_name": "American Health Packaging"
+  },
+  {
+    "product_ndc": "45963-555",
+    "brand_name": "Gabapentin",
+    "generic_name": "GABAPENTIN",
+    "manufacturer_name": "Actavis Pharma, Inc."
+  },
+  {
+    "product_ndc": "68382-848",
+    "brand_name": "Esomeprazole Magnesium",
+    "generic_name": "ESOMEPRAZOLE MAGNESIUM",
+    "manufacturer_name": "Zydus Pharmaceuticals USA Inc."
+  },
+  {
+    "product_ndc": "76162-129",
+    "brand_name": "TopCare Ultra Strength Antacid Assorted Fruit",
+    "generic_name": "CALCIUM CARBONATE",
+    "manufacturer_name": "Topco Associates, LLC"
+  },
+  {
+    "product_ndc": "67457-409",
+    "brand_name": "Haloperidol Decanoate",
+    "generic_name": "HALOPERIDOL DECANOATE",
+    "manufacturer_name": "Mylan Institutional LLC"
+  },
+  {
+    "product_ndc": "68462-494",
+    "brand_name": "deferasirox",
+    "generic_name": "DEFERASIROX",
+    "manufacturer_name": "Glenmark Pharmaceuticals Inc., USA"
+  },
+  {
+    "product_ndc": "47335-578",
+    "brand_name": "Lurasidone Hydrochloride",
+    "generic_name": "LURASIDONE HYDROCHLORIDE",
+    "manufacturer_name": "Sun Pharmaceutical Industries, Inc."
+  },
+  {
+    "product_ndc": "68645-521",
+    "brand_name": "Sertraline Hydrochloride",
+    "generic_name": "SERTRALINE HYDROCHLORIDE",
+    "manufacturer_name": "Legacy Pharmaceutical Packaging, LLC"
+  },
+  {
+    "product_ndc": "0591-2510",
+    "brand_name": "Budesonide",
+    "generic_name": "BUDESONIDE",
+    "manufacturer_name": "Actavis Pharma, Inc."
+  },
+  {
+    "product_ndc": "68001-313",
+    "brand_name": "Azacitidine",
+    "generic_name": "AZACITIDINE",
+    "manufacturer_name": "BluePoint Laboratories"
+  },
+  {
+    "product_ndc": "49884-161",
+    "brand_name": "CALCITONIN SALMON",
+    "generic_name": "CALCITONIN SALMON",
+    "manufacturer_name": "Par Health USA, LLC"
+  },
+  {
+    "product_ndc": "0037-6822",
+    "brand_name": "PROCTOFOAM HC",
+    "generic_name": "PRAMOXINE HYDROCHLORIDE HYDROCORTISONE ACETATE",
+    "manufacturer_name": "Viatris Specialty LLC"
+  },
+  {
+    "product_ndc": "42806-087",
+    "brand_name": "ESTRADIOL",
+    "generic_name": "ESTRADIOL",
+    "manufacturer_name": "EPIC PHARMA, LLC"
+  },
+  {
+    "product_ndc": "68462-711",
+    "brand_name": "ESTRADIOL VAGINAL INSERTS",
+    "generic_name": "ESTRADIOL",
+    "manufacturer_name": "Glenmark Pharmaceuticals Inc., USA"
+  },
+  {
+    "product_ndc": "62756-129",
+    "brand_name": "PANTOPRAZOLE SODIUM",
+    "generic_name": "PANTOPRAZOLE SODIUM",
+    "manufacturer_name": "Sun Pharmaceutical Industries, Inc."
+  },
+  {
+    "product_ndc": "0378-7280",
+    "brand_name": "NORETHINDRONE ACETATE AND ETHINYL ESTRADIOL",
+    "generic_name": "NORETHINDRONE ACETATE AND ETHINYL ESTRADIOL",
+    "manufacturer_name": "Mylan Pharmaceuticals Inc."
+  },
+  {
+    "product_ndc": "68462-178",
+    "brand_name": "Naproxen Sodium",
+    "generic_name": "NAPROXEN SODIUM",
+    "manufacturer_name": "Glenmark Pharmaceuticals Inc., USA"
+  },
+  {
+    "product_ndc": "0409-4275",
+    "brand_name": "Lidocaine Hydrochloride",
+    "generic_name": "LIDOCAINE HYDROCHLORIDE",
+    "manufacturer_name": "Hospira, Inc."
+  },
+  {
+    "product_ndc": "49884-306",
+    "brand_name": "Clonazepam",
+    "generic_name": "CLONAZEPAM",
+    "manufacturer_name": "Par Health USA, LLC"
+  },
+  {
+    "product_ndc": "65862-008",
+    "brand_name": "Metformin Hydrochloride",
+    "generic_name": "METFORMIN HYDROCHLORIDE",
+    "manufacturer_name": "Aurobindo Pharma Limited"
+  },
+  {
+    "product_ndc": "68382-022",
+    "brand_name": "Atenolol",
+    "generic_name": "ATENOLOL",
+    "manufacturer_name": "Zydus Pharmaceuticals USA Inc."
+  },
+  {
+    "product_ndc": "0517-4002",
+    "brand_name": "Papaverine Hydrochloride",
+    "generic_name": "PAPAVERINE HYDROCHLORIDE",
+    "manufacturer_name": "American Regent, Inc."
+  },
+  {
+    "product_ndc": "16729-200",
+    "brand_name": "Buspirone Hydrochloride",
+    "generic_name": "BUSPIRONE HYDROCHLORIDE",
+    "manufacturer_name": "Accord Healthcare Inc."
+  },
+  {
+    "product_ndc": "0135-0572",
+    "brand_name": "Sensodyne Complete Protection Extra Fresh",
+    "generic_name": "STANNOUS FLUORIDE",
+    "manufacturer_name": "Haleon US Holdings LLC"
+  },
+  {
+    "product_ndc": "0008-0923",
+    "brand_name": "Protonix I.V.",
+    "generic_name": "PANTOPRAZOLE SODIUM",
+    "manufacturer_name": "Wyeth Pharmaceuticals LLC, a subsidiary of Pfizer Inc."
+  },
+  {
+    "product_ndc": "68462-573",
+    "brand_name": "voriconazole",
+    "generic_name": "VORICONAZOLE",
+    "manufacturer_name": "Glenmark Pharmaceuticals Inc., USA"
+  },
+  {
+    "product_ndc": "0603-4593",
+    "brand_name": "MethylPREDNISolone",
+    "generic_name": "METHYLPREDNISOLONE",
+    "manufacturer_name": "Par Health USA, LLC"
+  },
+  {
+    "product_ndc": "0456-0458",
+    "brand_name": "Armour Thyroid",
+    "generic_name": "THYROID, PORCINE",
+    "manufacturer_name": "Allergan, Inc."
+  },
+  {
+    "product_ndc": "0093-8199",
+    "brand_name": "Sunitinib Malate",
+    "generic_name": "SUNITINIB MALATE",
+    "manufacturer_name": "Teva Pharmaceuticals USA, Inc."
+  },
+  {
+    "product_ndc": "67877-261",
+    "brand_name": "Rizatriptan Benzoate",
+    "generic_name": "RIZATRIPTAN BENZOATE",
+    "manufacturer_name": "Ascend Laboratories, LLC"
+  },
+  {
+    "product_ndc": "47335-061",
+    "brand_name": "DOFETILIDE",
+    "generic_name": "DOFETILIDE",
+    "manufacturer_name": "Sun Pharmaceutical Industries, Inc."
+  },
+  {
+    "product_ndc": "0121-0489",
+    "brand_name": "DIPHENHYDRAMINE HYDROCHLORIDE",
+    "generic_name": "DIPHENHYDRAMINE HYDROCHLORIDE",
+    "manufacturer_name": "PAI Holdings, LLC dba PAI Pharma"
+  },
+  {
+    "product_ndc": "0487-5901",
+    "brand_name": "S2",
+    "generic_name": "RACEPINEPHRINE HYDROCHLORIDE",
+    "manufacturer_name": "Nephron Pharmaceuticals Corporation"
+  },
+  {
+    "product_ndc": "0065-4011",
+    "brand_name": "Zaditor",
+    "generic_name": "KETOTIFEN FUMARATE",
+    "manufacturer_name": "Alcon Laboratories, Inc."
+  },
+  {
+    "product_ndc": "69097-964",
+    "brand_name": "VIGABATRIN",
+    "generic_name": "VIGABATRIN",
+    "manufacturer_name": "Cipla USA, Inc."
+  },
+  {
+    "product_ndc": "75834-255",
+    "brand_name": "Atorvastatin calcium",
+    "generic_name": "ATORVASTATIN CALCIUM",
+    "manufacturer_name": "NIVAGEN PHARMACEUTICALS, INC."
+  },
+  {
+    "product_ndc": "51754-1007",
+    "brand_name": "ELCYS",
+    "generic_name": "CYSTEINE HYDROCHLORIDE",
+    "manufacturer_name": "Exela Pharma Sciences, LLC"
+  },
+  {
+    "product_ndc": "59385-021",
+    "brand_name": "BELBUCA",
+    "generic_name": "BUPRENORPHINE HYDROCHLORIDE",
+    "manufacturer_name": "BioDelivery Sciences International Inc"
+  },
+  {
+    "product_ndc": "68180-554",
+    "brand_name": "Quinapril",
+    "generic_name": "QUINAPRIL",
+    "manufacturer_name": "Lupin Pharmaceuticals, Inc."
+  },
+  {
+    "product_ndc": "68084-879",
+    "brand_name": "Cyclosporine",
+    "generic_name": "CYCLOSPORINE",
+    "manufacturer_name": "American Health Packaging"
+  },
+  {
+    "product_ndc": "67877-537",
+    "brand_name": "Temozolomide",
+    "generic_name": "TEMOZOLOMIDE",
+    "manufacturer_name": "Ascend Laboratories, LLC"
+  },
+  {
+    "product_ndc": "0135-0118",
+    "brand_name": "TUMS ULTRA",
+    "generic_name": "CALCIUM CARBONATE",
+    "manufacturer_name": "Haleon US Holdings LLC"
+  },
+  {
+    "product_ndc": "59762-1061",
+    "brand_name": "Diphenoxylate Hydrochloride and Atropine Sulfate",
+    "generic_name": "DIPHENOXYLATE HYDROCHLORIDE AND ATROPINE SULFATE",
+    "manufacturer_name": "Mylan Pharmaceuticals Inc."
+  },
+  {
+    "product_ndc": "0409-2050",
+    "brand_name": "Magnesium Sulfate in Water",
+    "generic_name": "MAGNESIUM SULFATE IN WATER",
+    "manufacturer_name": "Hospira, Inc."
+  },
+  {
+    "product_ndc": "16571-402",
+    "brand_name": "Cetirizine Hydrochloride",
+    "generic_name": "CETIRIZINE HYDROCHLORIDE",
+    "manufacturer_name": "Rising Pharma Holdings, Inc."
+  },
+  {
+    "product_ndc": "55111-124",
+    "brand_name": "Atorvastatin Calcium",
+    "generic_name": "ATORVASTATIN CALCIUM",
+    "manufacturer_name": "Dr. Reddy's Laboratories Limited"
+  },
+  {
+    "product_ndc": "69097-030",
+    "brand_name": "Nilotinib",
+    "generic_name": "NILOTINIB",
+    "manufacturer_name": "Cipla USA Inc."
+  },
+  {
+    "product_ndc": "68400-352",
+    "brand_name": "Gelato Topical Anesthetic",
+    "generic_name": "BENZOCAINE",
+    "manufacturer_name": "Mycone Dental Supply Co., Inc DBA Keystone Industries and Deepak Products Inc"
+  },
+  {
+    "product_ndc": "0409-3213",
+    "brand_name": "Diazepam",
+    "generic_name": "DIAZEPAM",
+    "manufacturer_name": "Hospira, Inc."
+  },
+  {
+    "product_ndc": "69238-2448",
+    "brand_name": "Estradiol",
+    "generic_name": "ESTRADIOL TRANSDERMAL",
+    "manufacturer_name": "Amneal Pharmaceuticals NY LLC"
+  },
+  {
+    "product_ndc": "60687-419",
+    "brand_name": "CHLORPROMAZINE HYDROCHLORIDE",
+    "generic_name": "CHLORPROMAZINE HYDROCHLORIDE",
+    "manufacturer_name": "American Health Packaging"
+  },
+  {
+    "product_ndc": "0409-7418",
+    "brand_name": "LMD in Dextrose",
+    "generic_name": "DEXTRAN 40",
+    "manufacturer_name": "Hospira, Inc."
+  },
+  {
+    "product_ndc": "0409-2066",
+    "brand_name": "Lidocaine Hydrochloride",
+    "generic_name": "LIDOCAINE HYDROCHLORIDE",
+    "manufacturer_name": "Hospira, Inc."
+  },
+  {
+    "product_ndc": "63304-175",
+    "brand_name": "Mesalamine",
+    "generic_name": "MESALAMINE",
+    "manufacturer_name": "Sun Pharmaceutical Industries, Inc."
+  },
+  {
+    "product_ndc": "0054-4581",
+    "brand_name": "Mercaptopurine",
+    "generic_name": "MERCAPTOPURINE",
+    "manufacturer_name": "Hikma Pharmaceuticals USA Inc."
+  },
+  {
+    "product_ndc": "70000-0689",
+    "brand_name": "Leader Earwax Removal Kit Earwax Removal Aid and Bulb",
+    "generic_name": "CARBAMIDE PEROXIDE",
+    "manufacturer_name": "Cardinal Health 110 DBA Leader"
+  },
+  {
+    "product_ndc": "52083-630",
+    "brand_name": "PECGEN DMX",
+    "generic_name": "DEXTROMETHORPHAN HBR, GUAIFENESIN",
+    "manufacturer_name": "KRAMER NOVIS"
+  },
+  {
+    "product_ndc": "0187-4100",
+    "brand_name": "Librax",
+    "generic_name": "CHLORDIAZEPOXIDE HYDROCHLORIDE AND CLIDINIUM BROMIDE",
+    "manufacturer_name": "Bausch Health US, LLC"
+  },
+  {
+    "product_ndc": "55513-209",
+    "brand_name": "NEUPOGEN",
+    "generic_name": "FILGRASTIM",
+    "manufacturer_name": "Amgen, Inc"
+  }
+]

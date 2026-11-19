@@ -63,7 +63,8 @@ def fetch_labels(product_ndcs):
         if response.status_code == 404:
             continue
 
-        response.raise_for_status()
+        if response.status_code != 200:
+            continue
         data = response.json()
 
         if not data.get("results"):
