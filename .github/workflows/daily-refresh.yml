@@ -17,6 +17,7 @@ jobs:
         uses: actions/checkout@v4
         with:
           token: ${{ secrets.REFRESH_TOKEN1 }}
+          fetch-depth: 0
 
       - name: Set up Python
         uses: actions/setup-python@v5
@@ -46,5 +47,6 @@ jobs:
             echo "No data changes to commit."
           else
             git commit -m "Daily FDA data refresh"
-            git push
+            git pull --rebase origin main
+            git push origin HEAD:main
           fi
